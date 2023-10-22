@@ -1,0 +1,2 @@
+* Stands for Remote Code Execution which is a security culnerability or attack scenario
+* This occurs when an attacker executes a code on a system oer device from a remote location which essentially allows the attacker to take control of the system. 

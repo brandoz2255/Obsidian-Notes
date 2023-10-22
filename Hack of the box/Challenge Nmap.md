@@ -1,0 +1,1 @@
+Look up the reply ttl values and make sure your type the results correctly 

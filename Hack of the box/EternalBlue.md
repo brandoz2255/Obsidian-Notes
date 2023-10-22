@@ -1,0 +1,2 @@
+* Its an Esploit that is a nightmare created by the US National Security Agency
+* Which essentially is a series of software vulnerabilities created by the NSA only affects Windows and anything that uses SMBv1

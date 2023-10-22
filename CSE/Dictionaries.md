@@ -1,0 +1,3 @@
+- Dictionaries are essentially the how you connect pieces of related information in python 
+- They basically just store information and can store a limitless amount of information
+- 

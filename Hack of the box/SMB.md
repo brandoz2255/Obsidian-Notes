@@ -1,0 +1,1 @@
+* Stands for server message block which essentially is a protocol used for storing  sharing files and other resources between computers on a network

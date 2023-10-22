@@ -1,0 +1,1 @@
+* converts the string into a numerical value this allows the comparison  to run smoothly
