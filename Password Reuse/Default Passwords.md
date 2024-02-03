@@ -1,0 +1,6 @@
+-  It  is common for both the user and the admin to leave the defaults in place
+- The admins job is meant to keep track of all the technology infrastructure and applications along with the  data being accessed
+- In the  HTB case  the same `password `is often used for configuration purposes, and then the password is forgotten to be changed for one interface or another 
+-  In addition many applications that work with authentication mechanisms basically almost all often come with `default credentials` after installation 
+- By default these credentials may be forgotten or to be changed after configuration especially when it comes to internal applications where the admin assumes that no one else will find them or do not even try to use them
+-  In addition easy to remember that can be typed quickly instead of typeing a secure 15 character long password are often used repeadtedly because signle sign on (`ssd`) 

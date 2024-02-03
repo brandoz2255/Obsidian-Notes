@@ -1,0 +1,9 @@
+- modulo `%` operators 
+- the `==` operators 
+- if else and else if statements and how they work in C++ 
+- switch cases 
+- we highlight section to indent 
+- switrch statements dont take in strings just variables or int's be research what it can and cant do when compared to if else statements 
+- sentinels  in C++ #research 
+- processing a sequence of inputs 
+- How cin can be used in C++ #research 

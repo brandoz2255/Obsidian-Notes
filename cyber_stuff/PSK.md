@@ -1,0 +1,1 @@
+Stands for **pre-shared key** which is a method of securing a wireless network with the use of a passphrase or key shared between the network of users and the access point.  

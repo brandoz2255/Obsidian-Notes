@@ -1,0 +1,27 @@
+- A keylogger aka keystroke logger is a surveillance that essentially monitors every keystroke the user makes
+- Essentially has the ability to log every message, email, password, and any information that has been typed into the machine and saves it on a file.
+- construction of a keylogger: a keylogger is constructed to be placed when a key gets depressed and when information regarding the keystroke appears on the monitor.
+- keystrokes can be logged to identify these types of information:
+    - length of the key press
+    - time of the key press
+    - velocity of the keypress
+    - name of the key used
+- For Windows, keyloggers usually consist of 2 files:
+    - DLL file: Dynamic Link Library file
+    - Executable file: installs DLL file and triggers it
+- types of software keyloggers:
+    - user mode keyloggers: use a Windows API to interpret keyboard and mouse movements and log the keystrokes in a system file.
+    - “form-grabbing” - keyloggers: eavesdrops all text logged into website forms once you send the keylogger to the server. data recorded locally before being sent to the web server
+    - kernel mode keyloggers: more complex, usually need admin permissions, use filter drivers to intercept keystrokes, and can modify the internal Windows systems through the kernel.
+- Hackers can design keylogging software to use keyboard application program interfaces (APIs) for another application, malicious script injection, or memory injection.
+- how a keylogger software can be designed to intercept all input that comes from the keyboard:
+    - filter driver that can be placed within the keyboard stack
+    - driver that facilitates the interaction between a keystroke and the computer and replaces that interaction with another that logs each keystroke
+    - kernel functions that can be intercepted by the keylogger and used to give out the necessary keystrokes to perform authentication functions
+    - functions of a DLL, which stores the code of more than one program, can be intercepted.
+- some ways a keylogger is built:
+    - system hook: it is a way of altering the operating system’s behavior, and intercepting each notification generated when a keystroke is pressed. usually made with C language
+    - filter driver written by C and installed inside the computer
+    - cyclical information request that's wet up to gether all information from the keyboard.
+
+[Sources](https://www.notion.so/Sources-93a454425f594168a471ba903e04939d?pvs=21)

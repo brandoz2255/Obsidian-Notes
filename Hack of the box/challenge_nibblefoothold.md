@@ -1,0 +1,6 @@
+- where we left off is basically the username in admin.php is admin and password is nibbles 
+- then add the php in the site go to the image and config then brows 
+- vim the code for reverse shell 
+- then follow notes for rev shell but rember to ass ur ip 
+- just restart our whole process and remember to correctly code the php and have the .php ending
+- 

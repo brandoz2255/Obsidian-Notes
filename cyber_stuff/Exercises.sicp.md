@@ -1,0 +1,1 @@
+page 16-17 for the exercises do them in all of the programming languages we know 

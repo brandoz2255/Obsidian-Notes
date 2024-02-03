@@ -1,0 +1,1 @@
+**TKIP** stands for the **Temporal key integrity protocol** which is used in WiFi networks to enhance the security of WPA systems 

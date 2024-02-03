@@ -1,0 +1,4 @@
+- 10.7 font size 
+- format it in a way in which you read from left to right 
+- use harvard actions words with chatgpt 
+- add some new stuff and update you github repository 

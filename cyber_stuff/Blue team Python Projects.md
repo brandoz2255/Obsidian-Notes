@@ -1,0 +1,5 @@
+1. **Network Traffic Analysis Tool**: This project involves creating a tool that can analyze network traffic and detect anomalies. Python has several libraries that can help with this, such as Scapy for packet manipulation and analysis, and Matplotlib for visualization. The tool should be able to capture packets, filter them based on certain criteria, and then display the results in a meaningful way. This aligns with the Blue Team's responsibility of monitoring the network for signs of an attack.
+	1. [[Blue team programming projects]] 
+
+
+3. **Automated Vulnerability Scanner**: This project involves creating a script that can automatically scan a system or network for known vulnerabilities. Python has several libraries that can help with this, such as Nmap for network scanning and Nessus for vulnerability detection. The script should be able to run regular scans, compare the results with a baseline, and alert the team if any new vulnerabilities are found. This aligns with the Blue Team's responsibility of identifying and fixing vulnerabilities.

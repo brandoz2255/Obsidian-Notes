@@ -1,0 +1,1 @@
+Simplified representation, hiding complex details for clarity.

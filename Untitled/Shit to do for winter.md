@@ -1,0 +1,6 @@
+- First thing first Cyber punk  dlc but dont let it waste your life ofc 
+- Second thing is the Website we want to make or learn to make essentailly learn HTML java script and CSS 
+- VPN and our own SSH server 
+- Hack the box blue and red team 
+- Continue through learning the best Python practices and C++ and C practices 
+- Do blue team challenges and red team challenges we got this 

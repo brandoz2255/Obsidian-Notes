@@ -1,0 +1,4 @@
+- the storage C drive [optional]
+- add a D drive onto the pc if applicable
+- upgrade the GPU 
+- Upgrade RAM [later duhh] 

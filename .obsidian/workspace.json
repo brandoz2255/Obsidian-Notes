@@ -8,19 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e78d5cf82e63ce70",
+            "id": "2e897bb5f05284cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nibble Intial Foothold.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "bbdca280d6200f8a",
+            "id": "502439bac9c7067a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -28,46 +24,12 @@
             }
           },
           {
-            "id": "def49a3ec0236610",
+            "id": "c813a614e19c59a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciso/Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ba6af9cdb2fcb4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux File System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a570246e1dae083",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
-            "id": "843667ee277a87f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#virtual_envirements",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciso/Networking.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciso/Networking.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,8 +142,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciso/Networking.md"
+                "file": "README.md"
               }
+            }
+          },
+          {
+            "id": "ab427720239ae270",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
@@ -199,52 +169,60 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "def49a3ec0236610",
+  "active": "c813a614e19c59a0",
   "lastOpenFiles": [
-    "Ciso/The TCP and IP Model.md",
-    "Ciso/Networking.md",
-    "Hack of the box/Network Enumeration.md",
-    "Ciso/Redhat Academy.md",
-    "Access to the CLI.md",
-    "Access the CLI in desktop.md",
-    "Binary.md",
-    "CSE/Github student pack.md",
-    "CSE/While loop.md",
-    "CSE/Python.md",
-    "Nibble Intial Foothold.md",
-    "Hack of the box/_Hack the Box_.md",
-    "Nibble.md",
-    "Ciso/Overthewire.md",
-    "Specify Files.md",
-    "Linux File System.md",
-    "Commands in bash.md",
-    "Lab_2.md",
-    "Ciso/what is Linux.md",
-    "Hack of the box/Shells.md",
-    "Ciso/Red Hat Linux.md",
-    "Ciso/Linux Essentials.md",
-    "Hack of the box/ifconfig.md",
-    "Ciso/Commands.md",
-    "Ciso/FIle system.md",
-    "Chapter 1.md",
-    "Books (Notes)",
+    "README.md",
+    "How to update.md",
+    "Computer Science 1.md",
+    "How to add.md",
+    "1.2.md",
+    "Calculus 1.md",
+    "Discrete Math.md",
+    "1.1.md",
+    "0.3 Sets.md",
+    "240202_10h20m20s_screenshot.png",
+    "0.2 Mathmatical Statements.md",
+    "practice.Discrete.md",
+    "0 Intro and Preliminaries.md",
+    "CSE/The Science side/C++.md",
+    "Why C++.md",
+    "Pasted image 20240201194438.png",
+    "Pasted image 20240201194433.png",
+    "240201_19h42m01s_screenshot.png",
+    "CSE/The Science side/CSE Intro to programming.md",
+    "Operators.md",
+    "Buffer Overflows.md",
+    "Chapter 3 challenges.md",
+    "Forward Linked Lists.md",
+    "CSE/The Science side/Chapter 2 Types.md",
+    "CSE/The Science side/Chapter 1.md",
+    "Password manager.md",
+    "README.md",
+    "public speaking.md",
+    "Communication.md",
+    "C++.Proj.md",
+    "240126_16h29m08s_screenshot.png",
+    "20231228_18h32m42s_grim.png",
+    "20231228_18h29m08s_grim.png",
+    "20231225_15h37m35s_grim.png",
+    "20231225_15h33m41s_grim.png",
+    "20231225_15h11m11s_grim 1.png",
+    "Projects(winter)",
+    "Arch Linux",
+    "Pent Test Research",
+    "Untitled",
+    "SSL",
+    "Fleet.trash",
+    "CSE/The Science side",
+    "CSE/Engineering",
+    "reminders",
+    "Obsidian Cheat sheet",
     "Untitled.canvas",
-    "The TCP",
-    "Constructing Knowlege",
-    "History",
-    "To do/9/21 and 9",
-    "To do/9/18 and 9",
-    "To do/9",
-    "Hack of the box",
-    "To do",
-    "CSE",
-    "PNG/Screenshot_A.png",
-    "PNG/Screenshot 2023-09-18 142238.png",
-    "PNG/Screenshot 2023-09-18 145359.png",
-    "PNG/Screenshot 2023-09-18 142238 1.png",
     "Hacking Into the Matrix typa shii.canvas"
   ]
 }

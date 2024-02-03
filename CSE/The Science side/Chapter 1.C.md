@@ -1,0 +1,1 @@
+The C programming language is closely related to the C++ programming language especially the Book version which uses s the causal C library which is the same just slight different syntax [[C++]]

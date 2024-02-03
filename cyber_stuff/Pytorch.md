@@ -1,0 +1,1 @@
+The Pytorch is a libary that allows Python to have a dierect conversation with the CPU and GPU off the computer we are using. 
