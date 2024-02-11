@@ -40,3 +40,6 @@ Your program is coming along well! Here are a few additional suggestions for imp
     - Implement unit tests to ensure that individual components of your program work as expected. This can help catch bugs early and ensure future modifications don't introduce regressions.
 
 Remember to thoroughly test your program, considering various scenarios and inputs, to ensure its robustness and reliability. Once you've implemented these enhancements, you'll be in a good position to transition to adding a graphical user interface (GUI).
+
+
+- having the program change and update the file is still isnt working 

@@ -48,7 +48,7 @@ console.log("Result:", result);
 
 - Both of these are forms of evaluation when evaluating a function programming The normal order holds a function to not be evaluated until specified otherwise and application order will evaluate it unless specified other wise as well 
 ## Conditional Expressions and Predicates 
-A **Conditional Expressions** is *similar* to a *switch statement* and a *if else* statement the conditional expression occurs when *a condition is occurring* the ***function*** will do this expression. 
+A **Conditional Expressions** is *similar* to a `*switch statement* `and a *if else* statement the conditional expression occurs when *a condition is occurring* the ***function*** will do this expression. 
 
 - However the Conditional Expression differs in a way in which this  method of doing if else in a single line to save space or just to do in a single line 
 

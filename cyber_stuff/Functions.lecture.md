@@ -1,0 +1,6 @@
+- Built in functions of C++ 
+- black box functions 
+- parameters/arguments 
+- different function types 
+- data types in relation to C++
+- for loops : a aloop that occurs in a certain interval for a certain  amount of times 

@@ -7,3 +7,6 @@
 - sentinels  in C++ #research 
 - processing a sequence of inputs 
 - How cin can be used in C++ #research 
+- whilel loops and how they work in C++ #research 
+- how it changes based on condition statements if else statements 
+- How to update values in a loop 

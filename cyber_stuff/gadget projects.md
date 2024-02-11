@@ -32,3 +32,5 @@ Absolutely, Dulce! Programming is your ticket to the magical world of creating c
     - Technology evolves, so keep learning. Stay curious, explore new technologies, and challenge yourself with increasingly complex projects.
 
 Remember, the world of gadget-making is vast and exciting. Dive in, experiment, and have fun with it! 🛠️💡
+
+[[more]]

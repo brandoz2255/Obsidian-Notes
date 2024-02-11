@@ -32,13 +32,14 @@ Local Names 74
 
 
 
-## Class notes index
+# Class notes index
 This is for when we start class in spring takes notes in class about the CS principles for C++ but update them and incorporate new ideas into the other languages we know
 
 [[Why C++]]
 
 [[Operators]] 
 
+[[Functions.lecture]]
 
 
 ## Programming languages Index 
@@ -52,6 +53,7 @@ We are going to update our knowledge on CSE principles with the languages we kno
 [[Python]]
 
 [[fun graph]] 
+
 ## C++ 
 [[C++]]
 
@@ -69,13 +71,21 @@ We are going to update our knowledge on CSE principles with the languages we kno
 [[HTML]]
 
 
+## Rust
+[[Rust]]
+
 # Past connections 
 [[CSE Intro to programming]]
 
 # Programming Projects 
 
+[[Ok projects we are currently working on]]
+
+[[JS/Rust password app]]
 
 [[gadget projects ]]
+
+[[more]]
 
 [[Home network]]
 

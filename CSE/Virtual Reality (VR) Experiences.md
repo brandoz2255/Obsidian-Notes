@@ -1,0 +1,9 @@
+- To start my PiP-B0t thats gonna be his name since it might be in Python or just C++ will change name depending on the issue I see 
+- Basic usage:
+	- Robot that can easily walk around any envirement and can do cool shit for me 
+	- main functionalities is basically a cool butler with ChatGPT onto it [[ChatGPT.API]] 
+		- This is just to allow any body to speak to it and have a conversation 
+	- however the main part of the NLP is a simple listening to instructions unless I find a way to make it more complex
+	- grabs instructed objected walks to its destination 
+		- Maybe it should have a map of my house integrated onto it 
+	- walks to instructed destination with ease

@@ -1,0 +1,4 @@
+- tauri typescript react greate for the user communication
+- helps with the  rust communication with JS and Rust 
+- we could also use electron but a little more complicated 
+- will make a MFA  but we need this for js not rust unless it is possible 

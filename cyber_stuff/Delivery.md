@@ -1,0 +1,8 @@
+- manuscript 
+- memory 
+- impromptu 
+- extemporaneousness
+- not memory word for word isn't optimal 
+- 85 % of communication is non verbal '
+- speak rate the speed at which we speak 
+- forming sunds clearly and crisply so as not to mumble 
