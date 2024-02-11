@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyber_stuff/How to update.md",
+                "file": "cyber_stuff/computer vison.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cyber_stuff/How to update.md",
+                "file": "cyber_stuff/computer vison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cyber_stuff/How to update.md",
+                "file": "cyber_stuff/computer vison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cyber_stuff/How to update.md"
+                "file": "cyber_stuff/computer vison.md"
               }
             }
           },
@@ -184,11 +184,11 @@
   },
   "active": "11a52c6d6628665f",
   "lastOpenFiles": [
-    "cyber_stuff/Computer Science 1.md",
-    "README.md",
     "cyber_stuff/Ok projects we are currently working on.md",
-    "cyber_stuff/computer vison.md",
+    "cyber_stuff/Computer Science 1.md",
     "cyber_stuff/How to update.md",
+    "README.md",
+    "cyber_stuff/computer vison.md",
     "cyber_stuff/Productivity Tools.md",
     "cyber_stuff/1.3.2 and 1.3.3.md",
     "cyber_stuff/Zettlekasten/per.Zett.notes.md",
