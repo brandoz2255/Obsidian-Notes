@@ -1,0 +1,15 @@
+- causal order
+	- mainpoint discusses the cause 
+	- second mainpoint is effect 
+		- example the cause the global warming will be detrimental to all lack of food clean and breathing 
+- Chronological order
+- Topical order 
+	- breaking it down to sub Points 
+- Problem cause solution order 
+- spacail order 
+	- three mainpoints are based around the features of an object 
+		- left, middle, bottom
+		- left middle right 
+		- center outside and surrounding outside vice versa 
+- Internal preview extra credit
+- More on chapter 9 ho we need to structure our speech 

@@ -1,3 +1,4 @@
+
 # SICP Edition index
 
 [[Building Abstractions with Functions.1]]
@@ -131,6 +132,8 @@ We are going to update our knowledge on CSE principles with the languages we kno
 
 
 # The math part 
+
+[[Math]]
 
 [[Calculus 1 ]]
 
