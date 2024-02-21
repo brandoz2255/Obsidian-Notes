@@ -3,6 +3,7 @@ Enhance my laptop as well as my desktop PC basically augmenting it with
 This is going to go hand in hand with the Personal Assistance need to make this applicable in windows which is why it would use electron to help make this possible
 - to be used across platforms MacOS, Windows, Linux etc
 
+[[the readme file]]
 
 # Phase one
 - Looks at and describes what its looking at via camera
@@ -66,7 +67,9 @@ augmented_pc/
 How to do test's [[tests]]
 - Add helper files in your lib as well  [[lib]]
 
+[[blueprint React]]
 
+Electron changed now just for a site idea have phase available on a site and a react application will be the full product
 ## Questions that need answers
 
 [[lib]]

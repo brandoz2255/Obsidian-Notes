@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.1 counting with sets.md",
+                "file": "cyber_stuff/Computer Science 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyber_stuff/1.5.md",
+                "file": "cyber_stuff/more.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyber_stuff/Computer Science 1.md",
+                "file": "Runtime Polymorphism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71c63d257a489470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blueprint React.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,36 +206,36 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "fc5d449aad9ac424",
+  "active": "11a52c6d6628665f",
   "lastOpenFiles": [
+    "1.1 counting with sets.md",
+    "cyber_stuff/more.md",
+    "cyber_stuff/Ok projects we are currently working on.md",
+    "cyber_stuff/Website.md",
+    "cyber_stuff/C++.Proj.md",
+    "cyber_stuff/computer vison.md",
+    "cyber_stuff/Productivity Tools.md",
+    "the readme file.md",
+    "cyber_stuff/Computer Science 1.md",
     "cyber_stuff/1.5.md",
     "Math.md",
+    "Runtime Polymorphism.md",
+    "blueprint React.md",
+    "RUst.Pr0j.md",
+    "JS/Rust password app.md",
+    "CSE/The Science side/C++.md",
+    "cyber_stuff/Functions.lecture.md",
     "CSE/The Science side/types part two.md",
-    "1.1 counting with sets.md",
     "cyber_stuff/Discrete Math.md",
-    "cyber_stuff/Computer Science 1.md",
     "cyber_stuff/Calculus 1.md",
     "Terminal/Brightness.md",
     "cyber_stuff/1.6.md",
     "1.1 Discrete.md",
-    "cyber_stuff/computer vison.md",
     "cyber_stuff/How to update.md",
-    "cyber_stuff/Functions.lecture.md",
     "classes.md",
     "240214_14h18m38s_screenshot.png",
     "240214_13h58m19s_screenshot.png",
-    "CSE/The Science side/C++.md",
     "README.md",
-    "cyber_stuff/How to add.md",
-    "cyber_stuff/0.3 Sets.md",
-    "outline.md",
-    "cyber_stuff/Communication.md",
-    "Chronological order.md",
-    "cyber_stuff/1.4.md",
-    "cyber_stuff/Ok projects we are currently working on.md",
-    "github.md",
-    "cyber_stuff/0.4 Functions.md",
-    "cyber_stuff/Productivity Tools.md",
     "cyber_stuff/Zettlekasten/Pasted image 20231107133234.png",
     "cyber_stuff/Zettlekasten/Pasted image 20231107133158.png",
     "cyber_stuff/Zettlekasten/Pasted image 20231107133146.png",
