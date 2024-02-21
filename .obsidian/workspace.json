@@ -32,14 +32,12 @@
             }
           },
           {
-            "id": "f5684587e0acd67b",
+            "id": "2bb97f56f715de85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "cyber_stuff/more.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.3"
               }
             }
           },
@@ -68,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cyber_stuff/Computer Science 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cyber_stuff/Computer Science 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "cyber_stuff/Computer Science 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,20 +200,22 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "11a52c6d6628665f",
+  "active": "2bb97f56f715de85",
   "lastOpenFiles": [
-    "1.1 counting with sets.md",
+    "Runtime Polymorphism.md",
+    "1.7.md",
+    "cyber_stuff/Calculus 1.md",
+    "cyber_stuff/Computer Science 1.md",
     "cyber_stuff/more.md",
+    "1.1 counting with sets.md",
     "cyber_stuff/Ok projects we are currently working on.md",
     "cyber_stuff/Website.md",
     "cyber_stuff/C++.Proj.md",
     "cyber_stuff/computer vison.md",
     "cyber_stuff/Productivity Tools.md",
     "the readme file.md",
-    "cyber_stuff/Computer Science 1.md",
     "cyber_stuff/1.5.md",
     "Math.md",
-    "Runtime Polymorphism.md",
     "blueprint React.md",
     "RUst.Pr0j.md",
     "JS/Rust password app.md",
@@ -227,7 +223,6 @@
     "cyber_stuff/Functions.lecture.md",
     "CSE/The Science side/types part two.md",
     "cyber_stuff/Discrete Math.md",
-    "cyber_stuff/Calculus 1.md",
     "Terminal/Brightness.md",
     "cyber_stuff/1.6.md",
     "1.1 Discrete.md",
@@ -235,7 +230,6 @@
     "classes.md",
     "240214_14h18m38s_screenshot.png",
     "240214_13h58m19s_screenshot.png",
-    "README.md",
     "cyber_stuff/Zettlekasten/Pasted image 20231107133234.png",
     "cyber_stuff/Zettlekasten/Pasted image 20231107133158.png",
     "cyber_stuff/Zettlekasten/Pasted image 20231107133146.png",
