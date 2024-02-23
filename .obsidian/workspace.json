@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyber_stuff/Computer Science 1.md",
+                "file": "cyber_stuff/1.5.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,9 +35,11 @@
             "id": "2bb97f56f715de85",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "something.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -47,9 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Runtime Polymorphism.md",
+                "file": "the python environment.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "7a0ad4c1055d9cb9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
               }
             }
           },
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "the python environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "the python environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "the python environment.md"
+              }
             }
           },
           {
@@ -200,21 +216,24 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "2bb97f56f715de85",
+  "active": "7a0ad4c1055d9cb9",
   "lastOpenFiles": [
-    "Runtime Polymorphism.md",
-    "1.7.md",
-    "cyber_stuff/Calculus 1.md",
+    "cyber_stuff/computer vison.md",
+    "the python environment.md",
+    "cyber_stuff/Ok projects we are currently working on.md",
     "cyber_stuff/Computer Science 1.md",
+    "the readme file.md",
+    "something.md",
+    "Runtime Polymorphism.md",
+    "cyber_stuff/Communication.md",
+    "cyber_stuff/Calculus 1.md",
+    "1.7.md",
+    "cyber_stuff/1.5.md",
     "cyber_stuff/more.md",
     "1.1 counting with sets.md",
-    "cyber_stuff/Ok projects we are currently working on.md",
     "cyber_stuff/Website.md",
     "cyber_stuff/C++.Proj.md",
-    "cyber_stuff/computer vison.md",
     "cyber_stuff/Productivity Tools.md",
-    "the readme file.md",
-    "cyber_stuff/1.5.md",
     "Math.md",
     "blueprint React.md",
     "RUst.Pr0j.md",
@@ -225,9 +244,6 @@
     "cyber_stuff/Discrete Math.md",
     "Terminal/Brightness.md",
     "cyber_stuff/1.6.md",
-    "1.1 Discrete.md",
-    "cyber_stuff/How to update.md",
-    "classes.md",
     "240214_14h18m38s_screenshot.png",
     "240214_13h58m19s_screenshot.png",
     "cyber_stuff/Zettlekasten/Pasted image 20231107133234.png",

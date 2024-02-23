@@ -5,6 +5,8 @@ This is going to go hand in hand with the Personal Assistance need to make this 
 
 [[the readme file]]
 
+[[the python environment ]]
+
 # Phase one
 - Looks at and describes what its looking at via camera
 - then waits for my gestures to do a pre-programmed tasks
