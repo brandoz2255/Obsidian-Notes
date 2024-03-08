@@ -77,3 +77,22 @@ Survive DDOS attack
 [[prevent DOS and DDOS]]
 
 [[DOS and DDOS extended]] : read the sources and add onto to what me made in the notes 
+
+
+
+
+# Security Plus
+
+[[Security +]] 
+
+[[road map]]
+
+[[terms roadmap]]
+
+[[Terms.SecPlus]]
+
+[[prompt]]
+
+[[SYO-701 1.1]]
+
+[[SYO-701 1.2]]

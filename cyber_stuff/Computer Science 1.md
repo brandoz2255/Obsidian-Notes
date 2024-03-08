@@ -42,6 +42,8 @@ This is for when we start class in spring takes notes in class about the CS prin
 
 [[Functions.lecture]]
 
+[[Final Notes]]
+
 
 ## Programming languages Index 
 We are going to update our knowledge on CSE principles with the languages we know so that we can effectively use these languages better 
@@ -152,3 +154,8 @@ we will fit what we learn in this class in case we might need to sue this
 [[How to update]]
 
 [[How to add]]
+
+
+# Basic shit we should know 
+
+[[road map.cse]]

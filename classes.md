@@ -216,3 +216,212 @@ int main() {
 
 
 $$d \propto v^2$$
+
+
+## UML
+- UML (unified Modeling Language ):  is the standardized modeling language in the field of software engineering. 
+	- used to visualize ,construct and document artifacts of a software system
+
+UML is used for a variety of purposes, including:
+
+1. **Designing the architecture of a system**: UML diagrams can help in designing the overall structure of a system, including its components and their relationships.
+
+2. **Designing the behavior of a system**: UML can be used to model the dynamic behavior of a system, including the interactions between objects and the sequence of events.
+
+3. **Designing the structure of a system**: UML can be used to model the static structure of a system, including the classes, attributes, and relationships between classes.
+
+4. **Documenting the system**: UML diagrams can serve as a form of documentation, providing a visual representation of the system's design and behavior.
+
+5. **Communicating the design**: UML diagrams can be used to communicate the design of a system to stakeholders, including developers, managers, and clients.
+
+The More specific use is for its design in the use of classes. Mainly a Blueprint for the classes we are trying to make
+
+``` Python
++-----------------------------------+
+|          <<class>>               |
+|          Library                 |
++-----------------------------------+
+| -books: vector<Book>             |
+| -members: vector<Member>         |
++-----------------------------------+
+| +addBook(book: Book): void       |
+| +addMember(member: Member): void |
+| +removeBook(book: Book): void    |
+| +removeMember(member: Member): void |
+| +findBook(title: string): Book   |
+| +findMember(name: string): Member|
++-----------------------------------+
+
++-----------------------------------+
+|          <<class>>               |
+|          Book                    |
++-----------------------------------+
+| -title: string                   |
+| -author: string                  |
+| -isbn: string                    |
++-----------------------------------+
+| +getTitle(): string              |
+| +getAuthor(): string             |
+| +getISBN(): string               |
++-----------------------------------+
+
++-----------------------------------+
+|          <<class>>               |
+|          Member                  |
++-----------------------------------+
+| -name: string                    |
+| -id: string                      |
++-----------------------------------+
+| +getName(): string               |
+| +getID(): string                 |
++-----------------------------------+
+```
+
+The UML Diagram ^ 
+
+Here is the implementation 
+
+``` C++
+#include <iostream>
+#include <vector>
+#include <string>
+
+// Forward declaration of Book and Member classes
+class Book;
+class Member;
+
+class Library {
+private:
+    std::vector<Book> books;
+    std::vector<Member> members;
+
+public:
+    void addBook(const Book& book) {
+        books.push_back(book);
+    }
+
+    void addMember(const Member& member) {
+        members.push_back(member);
+    }
+
+    void removeBook(const Book& book) {
+        // Implementation to remove a book
+    }
+
+    void removeMember(const Member& member) {
+        // Implementation to remove a member
+    }
+
+    Book findBook(const std::string& title) {
+        // Implementation to find a book by title
+        return Book(); // Placeholder return
+    }
+
+    Member findMember(const std::string& name) {
+        // Implementation to find a member by name
+        return Member(); // Placeholder return
+    }
+};
+
+class Book {
+private:
+    std::string title;
+    std::string author;
+    std::string isbn;
+
+public:
+    Book(const std::string& title, const std::string& author, const std::string& isbn)
+        : title(title), author(author), isbn(isbn) {}
+
+    std::string getTitle() const {
+        return title;
+    }
+
+    std::string getAuthor() const {
+        return author;
+    }
+
+    std::string getISBN() const {
+        return isbn;
+    }
+};
+
+class Member {
+private:
+    std::string name;
+    std::string id;
+
+public:
+    Member(const std::string& name, const std::string& id)
+        : name(name), id(id) {}
+
+    std::string getName() const {
+        return name;
+    }
+
+    std::string getID() const {
+        return id;
+    }
+};
+
+int main() {
+    Library library;
+    Book book("The Catcher in the Rye", "J.D. Salinger", "9780316769789");
+    Member member("John Doe", "123456");
+
+    library.addBook(book);
+    library.addMember(member);
+
+    // Further operations...
+
+    return  0;
+}
+```
+
+# Vector 
+This is a dynamic array that can grow or shink as needed part of the` STL lilbrary Standard Template Library` 
+
+### Key Features of `vector` in C++:
+
+1. **Dynamic Size**: Unlike arrays, which have a fixed size determined at compile time, vectors can grow and shrink at runtime. This is particularly useful when the number of elements is not known in advance.
+
+2. **Random Access**: Elements in a vector can be accessed directly using the index, just like in an array. This allows for efficient access to any element in the vector.
+
+3. **Insertion and Deletion**: Vectors support insertion and deletion of elements at any position. This is done efficiently, with the underlying array being resized as needed.
+
+4. **Automatic Memory Management**: Vectors manage their own memory, automatically allocating and deallocating memory as elements are added or removed. This helps prevent memory leaks and makes the code safer and easier to manage.
+
+5. **STL Compatibility**: Vectors are part of the Standard Template Library (STL), which means they can be used with other STL components like algorithms and iterators, making them a versatile tool for many programming tasks.
+
+```C++
+#include <iostream>
+#include <vector>
+
+int main() {
+    // Creating a vector of integers
+    std::vector<int> numbers;
+
+    // Adding elements to the vector
+    numbers.push_back(1);
+    numbers.push_back(2);
+    numbers.push_back(3);
+
+    // Accessing elements
+    std::cout << "First element: " << numbers[0] << std::endl;
+
+    // Iterating over the vector
+    for (int num : numbers) {
+        std::cout << num << " ";
+    }
+    std::cout << std::endl;
+
+    // Removing the last element
+    numbers.pop_back();
+
+    // Checking the size of the vector
+    std::cout << "Size of the vector: " << numbers.size() << std::endl;
+
+    return  0;
+}
+
+```

@@ -186,20 +186,20 @@ aliases                  hosts.deny                qemu-ga
 
 - the arrows keys will help with navigating through previous commands in the shells history. 
 - the up arrow edits and the previous command in the history list 
-- pressing ctrl +A is a bash shortcut which jumps to the beginning of the command line
-- pressing esc+ is a shortcut  which copies the klkast argument of previous commands
+- pressing `ctrl +A `is a bash shortcut which jumps to the beginning of the command line
+- pressing `esc+ `is a shortcut  which copies the klkast argument of previous commands
 
 ### Other Important shit
 
-|Shortcut|Description|
-|:--|:--|
-|**Ctrl**+**A**|Jump to the beginning of the command line.|
-|**Ctrl**+**E**|Jump to the end of the command line.|
-|**Ctrl**+**U**|Clear from the cursor to the beginning of the command line.|
-|**Ctrl**+**K**|Clear from the cursor to the end of the command line.|
-|**Ctrl**+**LeftArrow**|Jump to the beginning of the previous word on the command line.|
-|**Ctrl**+**RightArrow**|Jump to the end of the next word on the command line.|
-|**Ctrl**+**R**|Search the history list of commands for a pattern|
+| Shortcut                | Description                                                     |
+| :---------------------- | :-------------------------------------------------------------- |
+| **Ctrl**+**A**          | Jump to the beginning of the command line.                      |
+| **Ctrl**+**E**          | Jump to the end of the command line.                            |
+| **Ctrl**+**U**          | Clear from the cursor to the beginning of the command line.     |
+| **Ctrl**+**K**          | Clear from the cursor to the end of the command line.           |
+| **Ctrl**+**LeftArrow**  | Jump to the beginning of the previous word on the command line. |
+| **Ctrl**+**RightArrow** | Jump to the end of the next word on the command line.           |
+| **Ctrl**+**R**          | Search the history list of commands for a pattern               |
 
 essentially [[Lab_2]] 
 

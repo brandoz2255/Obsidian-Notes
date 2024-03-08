@@ -1,4 +1,4 @@
-
+re
 # Lecture
 [[1.1]]
 
@@ -20,4 +20,8 @@
 
 [[1.6]]
 
-[[1.7]] Limits 
+[[1.7]] : Limits 
+
+[[1.8]] : Algebra with limits 
+
+[[1.9]] : Rationals with Limits

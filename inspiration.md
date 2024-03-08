@@ -1,0 +1,13 @@
+Based on the information provided from the website [https://p5aholic.me/](https://p5aholic.me/) and the search results, the creator of the site, Keita Yamada, utilized several tools and libraries to achieve its unique and visually striking appearance. Here's a breakdown of the key tools and techniques used:
+
+1. **GSAP (GreenSock Animation Platform)**: GSAP is a powerful JavaScript library for creating high-performance animations. It's used for creating the dynamic and fluid animations seen throughout the site, enhancing the user experience and drawing attention to various elements [1](https://p5aholic.me/).
+
+2. **three.js**: This is a cross-browser JavaScript library used to create and display animated 3D computer graphics in a web browser. Keita Yamada used three.js for writing WebGL code, which is responsible for the background effect seen on the site. The background effect is written in GLSL (OpenGL Shading Language), a high-level shading language with a syntax based on the C programming language. This allows for the creation of highly customized, real-time graphics effects [1](https://p5aholic.me/).
+
+3. **Tweakpane**: Tweakpane is a compact GUI library for web applications. It's used for tuning parameters, which can be particularly useful for fine-tuning animations and visual effects. This tool helps in adjusting the properties of animations and effects in real-time, making it easier to achieve the desired aesthetic [1](https://p5aholic.me/).
+
+4. **Alpine.js**: Alpine.js is a minimal framework for composing JavaScript behavior in your markup. It's described as Keita Yamada's favorite JavaScript framework. Alpine.js allows for the creation of interactive and dynamic web elements with minimal code, contributing to the site's responsive and interactive design [1](https://p5aholic.me/).
+
+5. **WebGL/GLSL**: The background effect of the site is specifically mentioned as being written in GLSL. GLSL is a high-level shading language used for programming shader effects in WebGL. Keita Yamada recommends "The Book of Shaders" for anyone interested in learning more about GLSL and creating similar effects [1](https://p5aholic.me/).
+
+In summary, the creator of [https://p5aholic.me/](https://p5aholic.me/) used a combination of GSAP for animations, three.js for WebGL code, Tweakpane for parameter tuning, Alpine.js for interactive elements, and GLSL for creating the unique background effect. These tools and libraries collectively contribute to the site's distinctive and engaging visual style.

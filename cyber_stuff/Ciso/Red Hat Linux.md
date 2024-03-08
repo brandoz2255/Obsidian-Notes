@@ -10,7 +10,7 @@
 
 [[The CLI]]
 # Everything in linux is runned by the Kernel
-- Distros- are csutomized Os from teh Kernel and provid
+- Distros- are customized Os from the Kernel and provide
 
 ## MGM Grand 
 *  looking to hire a red hat linux system Admin to work 10 hrs a day for $110 ro an hour
@@ -19,10 +19,10 @@
 * a text base intergace to input instructions into s computer you the usual shit you know 
 * offers direct control over the system 
 ### Shell Varients 
-*  Sh- most basic power shell
+*  Sh- most basic power shell/Unix
 * powershell-  Windows 
 * Bash-  linux 
-* Zsh- Z shell used on Macos 
+* Zsh- Z shell used on MacOs /Also be used on some linux machines such as mine 
 * Csh-  C shell userd opn other unix systems
 ### Bash
 * stand for bourne-again shell 
