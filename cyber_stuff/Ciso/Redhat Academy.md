@@ -10,6 +10,13 @@
 [[Commands in bash]]
 
 [[Specify Files]]
+
+[[Access the CLI in desktop ]]
+
+[[_Hack the Box_]]
+
+
+
 ## Orientation for the classroom envirement 
 -  For the redhat Academy the main hands on learning we will be doing in the class will in the workstation and students will need to use servera and serverb 
 - the password and username for these is student yes for both 
