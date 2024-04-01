@@ -42,6 +42,8 @@
 [[Blue team Python Projects]] 
 
 [[Blue team idea pt2]] 
+
+[[Project]] with ciso
 # Our labs extended
 [[Working with functions]]
 

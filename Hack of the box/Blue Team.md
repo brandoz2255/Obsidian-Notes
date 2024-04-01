@@ -96,3 +96,9 @@ Survive DDOS attack
 [[SYO-701 1.1]]
 
 [[SYO-701 1.2]]
+
+[[SYO-701 1.2 pt 2]] 
+
+[[1.1 quiz]] 
+
+1.2 quiz

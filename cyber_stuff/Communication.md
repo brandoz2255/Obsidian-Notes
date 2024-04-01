@@ -14,3 +14,11 @@
 
 
 [[something]]
+
+
+
+[[Midterm_comm]]
+
+
+
+teaching [[speech]]

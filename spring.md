@@ -1,0 +1,17 @@
+- Python project  with Jasper[]
+- C++ project []
+	- enhance our password generator/manager 
+- Portfolio Website[]
+	- using Jquery for version one just to get an idea of web developement 
+	- Then move onto React to get with version 2 
+	- Then use some of those UX design techniques from Japan for v3
+
+- Security Plus Read book/ Objectives from the official site[]
+- Hack the Box pent test[]
+- NCL CTF competition Must do!!![]
+- SICP/Comp Sci
+- Home Lab from ethical hacking book to practice some[] 
+	- black hat python and other black hat langauges as well defending with those languages 
+- Honey Pot[] 
+- Docker[]
+- Home network Copy alberto []

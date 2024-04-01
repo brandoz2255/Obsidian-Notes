@@ -44,7 +44,9 @@ This is for when we start class in spring takes notes in class about the CS prin
 
 [[Final Notes]]
 
+[[File streams]]
 
+[[arrays and vectors]]
 ## Programming languages Index 
 We are going to update our knowledge on CSE principles with the languages we know so that we can effectively use these languages better 
 
@@ -159,3 +161,13 @@ we will fit what we learn in this class in case we might need to sue this
 # Basic shit we should know 
 
 [[road map.cse]]
+
+
+
+# Projects 
+For spring breaks and moving on forward 
+
+[[spring]]
+
+[[C++ password manager/app revamped]]
+
