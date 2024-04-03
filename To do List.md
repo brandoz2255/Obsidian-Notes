@@ -15,3 +15,8 @@ the to do list for each day
 [[spring]]
 
 [[2024-04-01]]
+
+
+[[2024-04-02]]
+
+[[Spring break week]]

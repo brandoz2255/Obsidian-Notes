@@ -171,3 +171,14 @@ For spring breaks and moving on forward
 
 [[C++ password manager/app revamped]]
 
+
+
+
+# Prompt 
+For studying computer Science concepts 
+[[prompt.cse]]
+
+# Security Plus 
+Applied the security Plus knowledge with Computer Science 
+
+[[Projects in Python and Go]]
