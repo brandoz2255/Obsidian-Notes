@@ -1,16 +1,16 @@
 # Weekly to do's
 📅(day of due date) means its due this day  ⏳ means to do by this day 
 
-- [ ] **Jaspers Python proj** 📅 2024-04-07 🛫 2024-04-03 🔼 
-- [ ] **`C++ password app thingy`** 📅 2024-04-07 🛫 2024-04-02 🔼 
-- [ ] ***`Security Plus Domain 1 and 2`*** 📅 2024-04-07 🛫 2024-04-02 ⏫ 
+- [x] **Jaspers Python proj** 🔼 🛫 2024-04-03 📅 2024-04-07 ✅ 2024-04-06
+- [x] **`C++ password app thingy`** 🔼 🛫 2024-04-02 📅 2024-04-07 ✅ 2024-04-06
+- [x] ***`Security Plus Domain 1 and 2`*** ⏫ 🛫 2024-04-02 📅 2024-04-07 ✅ 2024-04-06
 - [ ] `Red Hat` 📅 2024-04-07 🔽 
 - [ ] `Learn G`o 📅 2024-04-07 
 - [ ] `Discrete Math qui`z 📅 2024-04-08 ⏳ 2024-04-07 🛫 2024-04-03 ⏫ 
-- [ ] `SICP Reading `📅 2024-04-07 🔽
+- [x] `SICP Reading ` 🔽 📅 2024-04-07 ✅ 2024-04-06
 - [ ] `C++ book` 📅 2024-04-07  🔽
 - [ ] `Computer Science book Oreilly` 📅 2024-04-07 🔽
-- [ ] `NCL` 📅 2024-04-07 ⏫ 
+- [x] `NCL` ⏫ 📅 2024-04-07 ✅ 2024-04-06
 - [ ] `HTB` 📅 2024-04-07 🔼 
 - [ ] R`esume Tweak` ⏫ 📅 2024-04-07
 - [ ] Portfolio Website 📅 2024-04-07 
