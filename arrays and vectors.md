@@ -111,7 +111,8 @@ Now, imagine the same party, but this time, you're not sure how many guests will
 
 # Pass by or reference 
 
-Pass by value means passing a copy of the actual data to a function, while pass by reference means passing the memory address of the data to the function, allowing direct modification of the original data.
+- **Pass by value** means *passing a copy of the actual data to a function*,
+- while **pass by reference** means *passing the memory address of the data to the function, allowing direct modification of the original data*.
 
 Pass by value 
 ```C++
@@ -157,3 +158,48 @@ int main() {
 `cerr` is a predefined object in C++ that represents the standard error stream. Unlike `cout`, which is used for standard output, `cerr` is unbuffered, meaning that output to `cerr` is written immediately to the device without being buffered. 
 
 -  This makes `cerr` suitable for error messages that need to be displayed immediately, such as error messages or diagnostic information.
+
+
+# Vectors Important info
+
+- **`push_back()`**: This function is used to add an element to the end of the vector. It increases the size of the vector by one and appends the new element at the end.
+
+- **`pop_back()`**: This function removes the last element from the vector, effectively reducing the size of the vector by one. It does not return the removed element, so if you need to use the value of the removed element, you should access it before calling `pop_back()`.
+
+```C++
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int main() {
+    vector<int> myVector;
+
+    // Using push_back() to add elements to the vector
+    myVector.push_back(1);
+    myVector.push_back(2);
+    myVector.push_back(3);
+    myVector.push_back(4);
+    myVector.push_back(5);
+
+    // Printing the original vector
+    cout << "Original vector: ";
+    for (auto i : myVector) {
+        cout << i << " ";
+    }
+    cout << endl;
+
+    // Using pop_back() to remove the last element from the vector
+    myVector.pop_back();
+
+    // Printing the modified vector
+    cout << "Modified vector: ";
+    for (auto i : myVector) {
+        cout << i << " ";
+    }
+    cout << endl;
+
+    return 0;
+}
+
+```
+

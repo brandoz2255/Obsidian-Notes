@@ -32,5 +32,13 @@
 #### Night 
 - [ ] Guitar 📅 2024-04-03 
 - [ ] Resume Tweak📅 2024-04-03
-- [ ] 
+- [ ] Late night Resume Tweak [1hr]📅 2024-04-08 
 
+
+
+
+# Last day of Spring Break
+
+- [ ] Discrete Math HW [1 hr 30]📅 2024-04-08 
+- [ ] Computer Science Lab [1 hr 30] 📅 2024-04-09 
+- [ ]  Computer Science Quiz [30] 📅 2024-04-09 
