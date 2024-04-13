@@ -58,6 +58,8 @@ This is for when we start class in spring takes notes in class about the CS prin
 [[arrays and vectors]]
 
 [[TIme complexities]] 
+
+
 ## Programming languages Index 
 We are going to update our knowledge on CSE principles with the languages we know so that we can effectively use these languages better 
 
