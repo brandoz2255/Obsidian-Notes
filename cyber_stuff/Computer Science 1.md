@@ -59,6 +59,10 @@ This is for when we start class in spring takes notes in class about the CS prin
 
 [[TIme complexities]] 
 
+[[Time Complexities Pt2]]
+
+
+
 
 ## Programming languages Index 
 We are going to update our knowledge on CSE principles with the languages we know so that we can effectively use these languages better 

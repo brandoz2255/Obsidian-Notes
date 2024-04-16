@@ -11,8 +11,12 @@
             "id": "ce1ff552dc46a579",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TIme complexities.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIme complexities.md",
+                "file": "Week April 15.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyber_stuff/Computer Science 1.md",
+                "file": "Time Complexities Pt2.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,13 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week after spring brk.md",
+                "file": "Connecting to the WiFi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#virtual_envirements",
+                "query": "linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Time Complexities Pt2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Time Complexities Pt2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Time Complexities Pt2.md"
+              }
             }
           },
           {
@@ -185,20 +195,27 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "ce1ff552dc46a579",
+  "active": "5efea8710dbd1e9f",
   "lastOpenFiles": [
-    "Binary Search and Recursion and Vectors.md",
-    "Week after spring brk.md",
-    "cyber_stuff/Computer Science 1.md",
-    "To do List.md",
     "TIme complexities.md",
+    "Time Complexities Pt2.md",
+    "Week April 15.md",
+    "cyber_stuff/Computer Science 1.md",
+    "2024-04-15_16-36.png",
+    "recursion  more info.md",
+    "Binary Search and Recursion and Vectors.md",
+    "Connecting to the WiFi.md",
+    "To do List.md",
+    "cyber_stuff/Ciso/Red Hat Linux.md",
+    "cyber_stuff/Ciso/CISO.md",
+    "cyber_stuff/Ciso/Linux Essentials.md",
+    "Week after spring brk.md",
     "Spring break week.md",
     "prompt.cse.md",
     "cyber_stuff/Home network.md",
     "arrays and vectors.md",
     "cyber_stuff/1.2 Functions and processes.md",
     "SYO-701 1.2 pt5.md",
-    "recursion  more info.md",
     "SYO-701 1.2 pt 2.md",
     "Python proj.md",
     "Hack of the box/Blue Team.md",
@@ -206,13 +223,6 @@
     "prompt.md",
     "cyber_stuff/1.3.2 and 1.3.3.md",
     "cyber_stuff/JavaScript.md",
-    "C++ password manager/app revamped.md",
-    "Hack of the box/Red team.md",
-    "2024-04-01.md",
-    "2024-04-02.md",
-    "202404022138.md",
-    "SYO-701 1.2 pt3.md",
-    "SYO-701 1.2.md",
     "Untitled.canvas",
     "C++ password manager",
     "240214_14h18m38s_screenshot.png",
@@ -231,7 +241,6 @@
     "240202_10h20m20s_screenshot.png",
     "Pasted image 20240201194438.png",
     "Pasted image 20240201194433.png",
-    "240201_19h42m01s_screenshot.png",
     "Projects(winter)",
     "Arch Linux",
     "Hacking Into the Matrix typa shii.canvas"

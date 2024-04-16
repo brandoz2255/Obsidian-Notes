@@ -1,5 +1,12 @@
 
 
+
+
+
+
+
+[[Connecting to the WiFi]]
+
 [[FIle system]]
  Know what linux is 
 

@@ -88,7 +88,7 @@ int main() {
 
 
 # Time Complexity 
-
+#Big_O_notation 
 - **Time complexity Big O notation**:  Time complexity in computer science refers to the computational complexity that describes the amount of computational time taken by an algorithm to run, as a function of the size of the input to the program.
 	- It is a measure of the time taken by an algorithm to run, as the input size grows.
 	- **Big O notation**: is a mathematical notation used to describe the limiting behavior of a function when the argument tends towards a particular value or infinity.
