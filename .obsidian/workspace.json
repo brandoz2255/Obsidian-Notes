@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Time Complexities Pt2.md",
+                "file": "What to know for mid term 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Connecting to the WiFi.md",
+                "file": "Time Complexities Pt2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,20 +190,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "3d-graph:3D Graph": false
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5efea8710dbd1e9f",
+  "active": "03448eb04b38e3d5",
   "lastOpenFiles": [
-    "TIme complexities.md",
+    "time complexities analogy.md",
     "Time Complexities Pt2.md",
-    "Week April 15.md",
+    "Runtime Stack.md",
     "cyber_stuff/Computer Science 1.md",
+    "Connecting to the WiFi.md",
+    "What to know for mid term 2.md",
+    "Week April 15.md",
+    "time complexities analogoy.md",
+    "TIme complexities.md",
     "2024-04-15_16-36.png",
     "recursion  more info.md",
     "Binary Search and Recursion and Vectors.md",
-    "Connecting to the WiFi.md",
     "To do List.md",
     "cyber_stuff/Ciso/Red Hat Linux.md",
     "cyber_stuff/Ciso/CISO.md",
@@ -220,9 +222,6 @@
     "Python proj.md",
     "Hack of the box/Blue Team.md",
     "SYO-701 1.2 pt4.md",
-    "prompt.md",
-    "cyber_stuff/1.3.2 and 1.3.3.md",
-    "cyber_stuff/JavaScript.md",
     "Untitled.canvas",
     "C++ password manager",
     "240214_14h18m38s_screenshot.png",

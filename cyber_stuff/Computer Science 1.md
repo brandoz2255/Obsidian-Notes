@@ -62,6 +62,8 @@ This is for when we start class in spring takes notes in class about the CS prin
 [[Time Complexities Pt2]]
 
 
+[[What to know for mid term 2]]
+
 
 
 ## Programming languages Index 

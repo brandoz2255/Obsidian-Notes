@@ -50,7 +50,17 @@ int main(void) {
 - The `main` function demonstrates how to use the `binarySearch` function. It defines an array `arrayOfNums[]` and a number to search for `13`.
 - It then calls `binarySearch` with these parameters and prints the result. If the element is found, it prints the index of the element; otherwise, it prints a message indicating that the element was not found [3](https://www.freecodecamp.org/news/binary-search-in-c-algorithm-example/).
 
+Important for binary search:
+```C++
 
+        if (number_to_search_for > array[mid]) {
+            low = mid + 1; // Search the right half
+        } else {
+            high = mid - 1; // Search the left half
+        }
+    }
+
+```
 
 
 - **Linear Search**: Linear search is a simple searching algorithm that checks each element in a list sequentially until the desired element is found or the end of the list is reached.

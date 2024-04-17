@@ -1,5 +1,7 @@
 
 
+# Monday / Tuesday 
+
 - [x] Discrete math turn ✅ 2024-04-15
 - [ ] CS vid
 - [ ] One DIscrete math question
