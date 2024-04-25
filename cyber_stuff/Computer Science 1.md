@@ -45,6 +45,7 @@ Local Names 74
 # Class notes index
 This is for when we start class in spring takes notes in class about the CS principles for C++ but update them and incorporate new ideas into the other languages we know
 
+## Lecture
 [[Why C++]]
 
 [[Operators]] 
@@ -63,6 +64,8 @@ This is for when we start class in spring takes notes in class about the CS prin
 
 
 [[What to know for mid term 2]]
+
+[[Mid term 2]]
 
 
 
@@ -201,3 +204,7 @@ For studying computer Science concepts
 Applied the security Plus knowledge with Computer Science 
 
 [[Projects in Python and Go]]
+
+
+
+[[summer]]

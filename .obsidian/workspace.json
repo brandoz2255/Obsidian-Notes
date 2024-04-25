@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce1ff552dc46a579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIme complexities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f774e1b860b5cfc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week April 15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5efea8710dbd1e9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What to know for mid term 2.md",
+                "file": "midterm 2 study.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Time Complexities Pt2.md",
+                "file": "question 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af29c14267318d4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week April 22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3192a68903d1e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "midterm 2 study.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "776b5afd8b4b9da9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Connecting to the WiFi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Time Complexities Pt2.md",
+                "file": "Week April 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Time Complexities Pt2.md",
+                "file": "Week April 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Time Complexities Pt2.md"
+                "file": "Week April 22.md"
               }
             }
           },
@@ -190,38 +202,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "03448eb04b38e3d5",
+  "active": "af29c14267318d4a",
   "lastOpenFiles": [
-    "time complexities analogy.md",
-    "Time Complexities Pt2.md",
-    "Runtime Stack.md",
-    "cyber_stuff/Computer Science 1.md",
     "Connecting to the WiFi.md",
-    "What to know for mid term 2.md",
+    "midterm 2 study.md",
+    "Week April 22.md",
     "Week April 15.md",
-    "time complexities analogoy.md",
-    "TIme complexities.md",
-    "2024-04-15_16-36.png",
-    "recursion  more info.md",
-    "Binary Search and Recursion and Vectors.md",
-    "To do List.md",
+    "question 9.md",
     "cyber_stuff/Ciso/Red Hat Linux.md",
     "cyber_stuff/Ciso/CISO.md",
-    "cyber_stuff/Ciso/Linux Essentials.md",
-    "Week after spring brk.md",
-    "Spring break week.md",
-    "prompt.cse.md",
-    "cyber_stuff/Home network.md",
-    "arrays and vectors.md",
-    "cyber_stuff/1.2 Functions and processes.md",
-    "SYO-701 1.2 pt5.md",
-    "SYO-701 1.2 pt 2.md",
-    "Python proj.md",
     "Hack of the box/Blue Team.md",
+    "Propositional Logic.md",
+    "cyber_stuff/Calculus 1.md",
+    "cyber_stuff/Computer Science 1.md",
+    "SYO-701 1.2 pt5.md",
     "SYO-701 1.2 pt4.md",
+    "SYO-701 1.2 pt3.md",
+    "SYO-701 1.2 pt 2.md",
+    "chapter 16.md",
+    "quiz evaluation.md",
+    "Mid term 2.md",
+    "To do List.md",
+    "4.1 derivatives test.md",
+    "cyber_stuff/Discrete Math.md",
+    "Runtime Stack.md",
+    "cyber_stuff/Communication.md",
+    "recursion  more info.md",
+    "TIme complexities.md",
+    "What to know for mid term 2.md",
+    "2024-04-15_16-36.png",
     "Untitled.canvas",
     "C++ password manager",
     "240214_14h18m38s_screenshot.png",

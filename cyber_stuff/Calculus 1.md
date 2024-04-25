@@ -41,3 +41,16 @@ re
 3.2
 
 
+
+[[4.1 derivatives test ]]
+
+[[quiz evaluation]] 
+
+[[midterm 2 study ]]
+
+
+## Sources
+
+[[sources]]
+
+

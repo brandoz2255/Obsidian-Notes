@@ -106,8 +106,8 @@ Survive DDOS attack
 
 [[SYO-701 1.2 pt5]] : Physical Security 
 
-SYO-701 1.3 PT 1 : 
+[[SYO-701 1.3 PT 1]] : 
 
-[[1.1 quiz]] 
+[[1.1 quiz]] : Notes 
 
-1.2 quiz
+[[1.2 quiz]] : Notes

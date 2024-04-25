@@ -3,8 +3,13 @@
 
 
 
+
 [[0.2 Mathmatical Statements]]
 [[examples.m]]
+
+
+
+[[Propositional Logic]]
 
 
 
@@ -16,3 +21,6 @@
 
 
 [[1.1 counting with sets]] 
+
+
+[[question 9]]
