@@ -66,3 +66,82 @@ Post Gym
 - [ ] Security Plus 
 	- [ ] Domain 2 
 	- [ ] Study what we've done
+
+
+# Thursday April 25th 
+
+- [x] Calculus ✅ 2024-04-25
+	- [x] Midterm ✅ 2024-04-25
+	- [x] Local max and min ✅ 2024-04-25
+	- [ ] we need to learn how to find f' f'' and f''' from graph
+
+- [x] Computer Science ✅ 2024-04-25
+	- [x] Lab ✅ 2024-04-25
+	- [x] Learn content ✅ 2024-04-25
+
+- [ ] Discrete math 
+	- [ ] Quiz last two questions 
+	- [ ] Two HW questions 
+	- [ ] activity 
+	- [ ] Consider Chegg
+
+- [ ] Speech
+	- [ ] for COMM 
+	- [ ] For Club Officer
+	
+
+# Friday April 26th 
+
+- [x] Calculus ✅ 2024-04-27
+	- [x] flash cards for midterm ✅ 2024-04-27
+		- [x] Local min and max first derivative test and second ✅ 2024-04-27
+	- [x] how to graph f' f'' f''' from just the graph ✅ 2024-04-27
+
+
+- [ ]  Discrete Math 
+	- [ ] Quiz finish last two questions 
+	- [ ] two questions for Homework 
+	- [ ] One question from the activity 
+
+
+- [x] Computer Science ✅ 2024-04-27
+	- [x] Finish Lab ✅ 2024-04-27
+	- [ ] Lab extra credit 
+
+- [x] Speech ✅ 2024-04-27
+	- [ ] Communication 
+	- [x] Lab speech (Easy) ✅ 2024-04-27
+
+
+# Saturday April 27th 
+
+- [x] Computer Science 1 hr ✅ 2024-04-28
+	- [x] Lab ✅ 2024-04-28
+	- [ ] Extra credit Lab
+
+- [ ] Discrete Math 
+	- [ ] quiz 3.2 two questions 
+	- [ ] HW four questions left maybe finish HW!
+	- [ ] Activity Questions 
+
+- [ ] Comm
+	- [ ] Finish Outline 
+	- [ ] Finish slides
+	- [ ] Get research 
+
+- [ ] Security Plus 
+	- [ ] study 
+	- [ ] Practice questions 
+
+
+# Sunday April 28th
+
+- [x] Comm 2 hr ✅ 2024-04-28
+	- [x] Outline ✅ 2024-04-28
+	- [x] Slides ✅ 2024-04-28
+
+- [x] Discrete math 2 hr ✅ 2024-04-29
+	- [x] Quiz 2s ✅ 2024-04-29
+	- [x] Hw 4 qs ✅ 2024-04-29
+	- [ ] Activity  3 qs
+

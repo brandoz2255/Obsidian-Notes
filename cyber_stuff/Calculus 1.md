@@ -54,3 +54,11 @@ re
 [[sources]]
 
 
+# Derivative notes
+For the final 
+
+we will begin with 4.4 cuz what the fuck 
+
+[[4.4]]
+
+

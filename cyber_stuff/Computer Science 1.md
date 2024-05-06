@@ -67,7 +67,23 @@ This is for when we start class in spring takes notes in class about the CS prin
 
 [[Mid term 2]]
 
+[[Virtual Functions adn derived functions]]
 
+
+[[Arrays more info]]
+
+
+
+# Interview Question notes
+
+[[Important]]: by christian himself
+
+
+
+# Lab Noted Index
+### LAB NOTES
+
+[[Lab 11]]
 
 ## Programming languages Index 
 We are going to update our knowledge on CSE principles with the languages we know so that we can effectively use these languages better 
