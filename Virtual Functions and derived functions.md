@@ -6,7 +6,7 @@
 - [x] Dynamic binding ✅ 2024-04-30
 - [x] Polymorphism : My favorite ✅ 2024-04-30
 - [x] Can you have an array that can hold two objects ✅ 2024-05-01
-- [ ] Is C++ used in the industry? 
+- [x] Is C++ used in the industry? ✅ 2024-05-13
 - [x] Different types of polymorphism ✅ 2024-04-30
 - [x] Abstract classes ✅ 2024-05-01
 - [x] Pure virtual ✅ 2024-05-05

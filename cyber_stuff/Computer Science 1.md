@@ -1,6 +1,8 @@
 
 # SICP Edition index
 
+[[SICP]]
+
 [[Building Abstractions with Functions.1]]
 
 [[Building Abstractions with Functions.2]]
@@ -25,7 +27,7 @@
 
 [[Chapter 2]]
 
-
+[[2.1.3]]
 
 [[Examples of BAWF]]
 
@@ -52,7 +54,7 @@ This is for when we start class in spring takes notes in class about the CS prin
 
 [[Functions.lecture]]
 
-[[Final Notes]]
+[[Midterm 1  Notes]]
 
 [[File streams]]
 
@@ -67,13 +69,16 @@ This is for when we start class in spring takes notes in class about the CS prin
 
 [[Mid term 2]]
 
-[[Virtual Functions adn derived functions]]
+[[Virtual Functions and derived functions]]
 
 
 [[Arrays more info]]
 
 
 [[May7th lecture]]
+
+
+[[Final notes]]
 
 
 # Interview Question notes

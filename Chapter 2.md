@@ -203,10 +203,23 @@ int main() {
 **In Database Systems:** The concept of abstraction is also applied in database systems through abstraction layers. Users interact with a high-level query language (like SQL) without needing to know how data is structured and stored in the database.
 
 
-# Fleet to continue 
-- abstracion barriers 
-- techniques fore representing sequences and trees
-- closure with compound data 
-- conventional interfaces 
-- symbolic expressions 
-- generic operations 
+### Abstraction Barriers
+
+In Computer Science This is the practice of `hiding` the **complexity of a system encapsulating** its details within a higher-level interface. This concept is crucial for managing complexity, and enhancing security 
+
+- **Simplification**: Abstraction simplifies complexity by hiding details and focusing on high-level views and efficiency. This is achieved through data abstraction, which hides details of data structures, and control abstraction, which conceals code details, aiming for application simplicity [1](https://www.studysmarter.co.uk/explanations/computer-science/problem-solving-techniques/abstraction-computer-science/).
+    
+- **Efficiency**: By abstracting away the complexities, developers can work at a higher level, free of the nitty-gritty details, which helps in keeping their attention on the essential points without getting lost in a sea of intricacies. This approach also leads to less time spent on identifying the source of an issue, as different modules of the software are well-separated, making troubleshooting more accessible [1](https://www.studysmarter.co.uk/explanations/computer-science/problem-solving-techniques/abstraction-computer-science/).
+    
+
+- **Code Reusability and Lower Development Costs**: Abstraction facilitates code reusability, reducing the need to 'reinvent the wheel' for every new project. This not only lowers development costs but also leads to quicker turnarounds. Additionally, reused code is likely well-tested and proven reliable from earlier use, reducing the risk of errors [1](https://www.studysmarter.co.uk/explanations/computer-science/problem-solving-techniques/abstraction-computer-science/).
+
+- **Real-world Applications**: Abstraction is at the heart of many modern applications, such as augmented reality systems, where complex geographical data is abstracted into easily manageable chunks, allowing users to navigate or play in smooth, immersive environments [1](https://www.studysmarter.co.uk/explanations/computer-science/problem-solving-techniques/abstraction-computer-science/).
+
+**`However, abstraction also has potential disadvantages:`**
+
+- **Loss of Control**: Higher levels of abstraction might result in a loss of finer control, limiting the ability to perform certain operations due to the restricted view offered to users [1](https://www.studysmarter.co.uk/explanations/computer-science/problem-solving-techniques/abstraction-computer-science/).
+    
+- **Overhead Complexity and Performance Trade-offs**: While abstraction simplifies complexity at higher levels, it can sometimes lead to a more complicated system at lower levels. Additionally, abstraction often involves creating additional layers over raw data or processes, inevitably leading to some degree of overhead, which may affect performance [1](https://www.studysmarter.co.uk/explanations/computer-science/problem-solving-techniques/abstraction-computer-science/).
+
+**Understanding Modern Technologies**: Many modern technologies rely heavily on abstraction. Understanding this concept is essential for staying current with technological advancements [5](https://www.freecodecamp.org/news/what-is-abstraction-in-programming/).

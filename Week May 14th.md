@@ -1,0 +1,17 @@
+
+- [ ] Computer Science 
+	- [ ] Study over the final 
+	- [ ] Midterm 1 
+	- [ ] Midterm 2 
+	- [ ] research 
+	- [ ] Project network scanner continue 
+- [ ] Communication 
+	- [ ] Chapter 16 
+	- [ ] Chapter 17 
+	- [ ] Listen to recording
+- [ ] Red team Hack the box '
+	- [ ]  Figure out a plan to study 
+- [ ] Blue team
+	- [ ] Security Plus 701 studying 
+	- [ ] Domain 1 permanent notes 
+	- [ ] Domain two literature starts 
