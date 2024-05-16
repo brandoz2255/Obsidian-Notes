@@ -66,9 +66,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5c8e7916a7902bf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comm final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comm final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Comm final.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,10 +210,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "92baca84ba505194",
+  "active": "c5c8e7916a7902bf",
   "lastOpenFiles": [
-    "Watch audio.md",
     "Comm final.md",
+    "Watch audio.md",
     "cyber_stuff/Communication.md",
     "Communication !!!!!!!!!.md",
     "cyber_stuff/Computer Science 1.md",
