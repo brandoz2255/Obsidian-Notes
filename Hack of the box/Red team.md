@@ -1,4 +1,13 @@
 # Pent test pathway index
+#### This is my new refined pent test pathway notes 
+
+All the other notes I made prevously were somewhat  good however Im gonna do better moving forward so here it is refined!!!  
+
+[[Getting Started]]
+
+[[Network Mapper Fundamentals]]: All the stuff we need to know about Nmap 
+
+[[Nibbbles]]
 
 
 
