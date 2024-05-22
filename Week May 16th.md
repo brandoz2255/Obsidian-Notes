@@ -6,9 +6,9 @@
 	- [ ] SICP 
 	- [ ] JS,TS,React 
 
-- [ ] Cyber shit
-	- [ ] Hack The box 
-		- [ ] Red team
+- [x] Cyber shit ✅ 2024-05-19
+	- [x] Hack The box ✅ 2024-05-19
+		- [x] Red team ✅ 2024-05-19
 		- [ ] Blue team
 	- [ ] Sec + 
 		- [ ] Domain one permanent notes

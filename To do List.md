@@ -64,3 +64,6 @@ the to do list for each day
 	- [ ] Upgrade both Blue team skills and Red team skills 
 
 [[Week May 16th]] : post spring semester!! TIme to grind 
+
+
+[[Week May 20th]]
