@@ -2,12 +2,12 @@
 
 Preventive controls aim to stop threats before they can cause harm. They are proactive measures designed to prevent security incidents.
 
-|Control Type|Category|Example|
-|---|---|---|
-|Technical|Technical controls are designed to prevent unauthorized access or data breaches.|Implementing firewalls and intrusion detection systems to monitor and block unauthorized access.|
-|Managerial|Managerial controls involve policies and procedures that guide employees on how to handle sensitive information.|Establishing a policy that requires all employees to use strong, unique passwords for accessing company systems.|
-|Operational|Operational controls focus on the day-to-day operations of an organization to ensure they are secure.|Regularly updating and patching software to fix vulnerabilities.|
-|Physical|Physical controls involve securing physical assets to prevent unauthorized access.|Installing locks and surveillance cameras to secure data centers and offices.|
+| Control Type | Category                                                                                                         | Example                                                                                                          |
+| ------------ | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Technical    | Technical controls are designed to prevent unauthorized access or data breaches.                                 | Implementing firewalls and intrusion detection systems to monitor and block unauthorized access.                 |
+| Managerial   | Managerial controls involve policies and procedures that guide employees on how to handle sensitive information. | Establishing a policy that requires all employees to use strong, unique passwords for accessing company systems. |
+| Operational  | Operational controls focus on the day-to-day operations of an organization to ensure they are secure.            | Regularly updating and patching software to fix vulnerabilities.                                                 |
+| Physical     | Physical controls involve securing physical assets to prevent unauthorized access.                               | Installing locks and surveillance cameras to secure data centers and offices.                                    |
 
 ### Deterrent Controls
 

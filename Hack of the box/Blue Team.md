@@ -104,10 +104,18 @@ Survive DDOS attack
 
 [[SYO-701 1.2 pt4]] : Zero Trust 
 
-[[SYO-701 1.2 pt5]] : Physical Security 
+[[SYO-701 1.2 pt5]] : Physical Security controls 
+
+[[SYO-701 1.2 PT6]] : Personnel 
 
 [[SYO-701 1.3 PT 1]] : 
 
 [[1.1 quiz]] : Notes 
 
 [[1.2 quiz]] : Notes
+
+
+
+# GenCyber
+
+[[Secure Software Accessor]]
