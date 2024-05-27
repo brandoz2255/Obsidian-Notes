@@ -115,6 +115,9 @@ Survive DDOS attack
 [[1.2 quiz]] : Notes
 
 
+# Sierra Madre
+[[Career center pitch]]
+
 
 # GenCyber
 
