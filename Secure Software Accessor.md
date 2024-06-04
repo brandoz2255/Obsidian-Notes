@@ -92,3 +92,5 @@
 - **Engagement:** Keep sessions interactive with lots of questions and encourage students to share their thoughts.
 - **Simplify Concepts:** Use analogies and simple language to explain complex ideas.
 - **Encourage Curiosity:** Provide resources for further learning and encourage students to explore cybersecurity on their own.
+
+[[course]] 

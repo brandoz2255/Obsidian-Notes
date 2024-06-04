@@ -108,7 +108,9 @@ Survive DDOS attack
 
 [[SYO-701 1.2 PT6]] : Personnel 
 
-[[SYO-701 1.3 PT 1]] : 
+[[SYO-701 1.3 PT 1]] :  Change management and policies
+
+[[Domain One]]
 
 [[1.1 quiz]] : Notes 
 
@@ -122,3 +124,5 @@ Survive DDOS attack
 # GenCyber
 
 [[Secure Software Accessor]]
+
+[[course]] 
