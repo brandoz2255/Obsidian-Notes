@@ -104,3 +104,6 @@
     - Explain OWASP Dependency-Check for identifying vulnerable dependencies.
 
 **AI Enhancement**: Use AI to simulate types of attacks and enhance authentication security.
+
+
+[[slides]]

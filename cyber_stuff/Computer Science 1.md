@@ -249,3 +249,6 @@ Applied the security Plus knowledge with Computer Science
 # GenCyber 
 
 [[course]] 
+
+
+[[page2]]
