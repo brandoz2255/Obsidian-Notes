@@ -136,6 +136,94 @@
 
 [[SYO-701 1.2]] : CIA Triad 
 
+In  information Security there are three core principles one must follow 
+**`Confidentiality`** **`Integrity`** and **`Availability`**
+
+1. **Confidentiality**: This principle makes sure that those who can accesses information can.  
+	1. i.e the confidentiality of a person
+2. **Integrity**:  This makes sure  that the information that is accurate and has been tampered with by any means
+3. **Availability**: Ensures that the processes are usable by trust worthy users. 
+### Confidentiality 
+
+- **Encryption**: converts the plain text information into non-readable data to prevent unauthorized access
+
+Types of Encryption:
+1. **Symmetric Encryption**: uses the same key for both encryption and the decryption
+	1. fast and effeicient but needs secure method for key exchange 
+2. **Asymmetric Encryption**: AKA public key encryption this the uses two different keys a  public key and a private key 
+
+- **Two-Factor Authentication** (2FA): is a security process that uses two different types of accessing the suers identity via *password* and *token/device*
+	- Will contain **Something You Know**
+	- **Something You Have**
+	- **Something you are**
+
+
+
+```C
+- **Symmetric Encryption**:
+    - Key usage: Same key for encryption and decryption.
+    - Use cases: Encrypting data at rest, securing communications in closed systems.
+    - Key management: Challenges in securely sharing the key between parties.
+- **Asymmetric Encryption**:
+    - Key usage: Public key for encryption, private key for decryption.
+    - Use cases: Digital signatures, secure key exchange, encrypting small amounts of data.
+    - Key management: Simplified since the public key can be distributed openly.
+```
+
+As mentioned before the n acess control ensure that only authorized users can use important data.
+
+
+### Integrity
+
+**Hashing**:
+
+- Converts plaintext into a fixed-size, unreadable hash code.
+- Used for passwords, integrity checks, and digital signatures.
+- Only one way can't reverse  the hash 
+
+**Digital Signatures**:
+
+- Verify the authenticity and integrity of documents/messages.
+- Ensure data hasn't been tampered with and is from a verified source.
+- Use asymmetric encryption: a private key encrypts a data hash.
+- Types: document signing, email signing, code signing.
+- Used in protocols like SSL/TLS.
+
+**Public Key Infrastructure (PKI)**:
+
+- Manages digital certificates and public-key encryption.
+- Includes roles, policies, hardware, software, and procedures.
+
+**Digital Certificates**:
+
+- Electronic documents proving ownership of digital signatures.
+
+**Certificate Authority (CA)**:
+
+- Third-party source that provides digital certificates.
+- Identifies the integrity of digital signatures and establishes secure connections.
+- Certificates contain the public key, identity of the holder, and the CA's digital signature.
+
+### Availability
+
+**Information**:
+
+- Ensures information and services are accessible and usable upon demand by authorized entities.
+- **Strategies**: Redundancy, load balancing, regular maintenance, and monitoring.
+- **Risks**: Hardware failures, software bugs, cyber attacks.
+
+**Redundancy**:
+
+- **Network Redundancy**: Multiple pathways for data to prevent downtime. Technologies: Spanning Tree Protocol (STP), link aggregation (LACP).
+- **Hardware Redundancy**: Backup hardware components, like redundant power supplies.
+- **Data Storage Redundancy**: Protects data through technologies like RAID (Redundant Array of Independent Disks).
+- **Application Redundancy**: Duplicate instances of applications for continuous service, managed with load balancers.
+
+**Fault Tolerance**:
+
+- **Definition**: System’s ability to continue operating correctly despite component failures.
+- **Failover Mechanisms**: Automatically redirect traffic or workload from failed components to redundant ones for uninterrupted service.
+- **Error Detection and Recovery**: Mechanisms to detect errors and initiate recovery procedures, ensuring continuous operation.
 # AAA Servers
 [[SYO-701 1.2 pt 2]] : AAA servers 
 

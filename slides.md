@@ -1,4 +1,15 @@
+### Make a slide for this 
+- Explaining how fuzzing and the lesson we do relates to the task! 
+```C
+T0013: Apply coding and testing standards
+▪ Objective: Identify security vulnerabilities within sample code manually,
+then use fuzzing to automate flaw detection
+▪ Tool: AFL
+▪ AI Enhancement: Identify vulnerability patterns from manual and fuzzing
+results, enhancing understanding of common security flaw characteristics
+```
 
+add this defnition to these slides [link](https://www.nist.gov/publications/fuzz-testing-software-assurance) 
 
 **Definition**: `Fuzzing` *is an automated testing technique used to find security vulnerabilities* by inputting large amounts of random data, or "`fuzz`," 
 
@@ -42,10 +53,39 @@ Example syntax usage ->
 jsfuzz --file script.js --function functionName
 ```
 
+```C
+### : Hands-On Fuzzing Exercise
+
+- **Set up and Run a Fuzzing Example**
+    - Guide students through running a simple fuzzing example
+    - Identify and discuss findings
+```
+
 # Slide 9 
 
 
+```C
+T0111: Identify basic common coding flaws
+▪ Objective: Teach how to manually spot common coding flaws like SQL
+injections and XSS in code snippets
+▪ Tool: N/A
+▪ AI Enhancement: Utilize AI to highlight potential security issues, providing
+feedback on manual analyses, and finding ways to secure code
+```
+
+```C
+T0171: Perform integrated quality assurance testing for security functionality
+and resiliency to attacks
+▪ Objective: Analyze the user authentication processes of web applications
+to identify potential security weaknesses
+▪ Tool: N/A
+▪ AI Enhancement: Use AI to simulate types of attacks and ways to enhance
+authentication
+```
+
 **Definition**: Quality Assurance (QA) testing ensures that the software meets specified requirements and is free of defects.
+
+[link4]([quality assurance - Glossary | CSRC (nist.gov)](https://csrc.nist.gov/glossary/term/quality_assurance)) [link5]([Testing - Glossary | CSRC (nist.gov)](https://csrc.nist.gov/glossary/term/testing))
 
 - Imagine building a house. QA testing is like having a building inspector who checks the structure for any flaws or weaknesses, ensuring it’s safe and built to code.
 - Just as a building inspector ensures the safety and stability of a house, QA testing ensures the security and reliability of software.
@@ -72,6 +112,8 @@ jsfuzz --file script.js --function functionName
 
 
 **Example Vulnerabilities**:
+
+[link2](https://csrc.nist.gov/glossary/term/SQL_injection)
 
 - **SQL Injection**: Allows attackers to manipulate the database through malicious input.
 
@@ -104,7 +146,7 @@ app.post('/login', function(req, res) {
 ```
 
 
-
+[link3](https://csrc.nist.gov/glossary/term/xss)
 **Cross-Site Scripting (XSS)**: Allows attackers to inject malicious scripts into web pages viewed by other users.
 
 ```HTML
@@ -120,7 +162,25 @@ function displayInput() {
 }
 ```
 
+```C
+### Hands-On QA Testing Exercise
 
+- **Provide Code Snippets with Security Flaws**
+    - Guide students to identify and understand the flaws
+    - Example: Simple login form with potential vulnerabilitie
+```
+
+
+
+### before OWASP slide 
+
+```C
+T0266: Perform penetration testing for web application
+▪ Objective: Conduct penetration tests on a web application
+▪ Tool: OWASP ZAP
+▪ AI Enhancement: Automate penetration testing
+```
+Make you explain what they will learn in this slide relates to the task 
 # Intro to OWASP ZAP 
 
 **Definition**: OWASP ZAP (Zed Attack Proxy) is an open-source web application security scanner. It helps identify vulnerabilities in web applications by simulating various attack scenarios.
@@ -142,8 +202,36 @@ function displayInput() {
 - Imagine sending a letter (`HTTP request`) through a middleman `(proxy server`) who reads the letter, checks it for issues, and then sends it to the recipient (`web server`).
 - The recipient responds, and the middleman intercepts the response, checks it, and then delivers it to you.
 - This way, any potential issues in the letter or the response can be identified and addressed by the middleman.
+```C
+### Hands-On OWASP ZAP Exercise
+
+- **Run a Basic Scan on Juice Shop**
+    - Guide students through the process
+    - Identify and discuss findings
+```
+
+### Slide 14: Introduction to Burp Suite
+
+- **What is Burp Suite?**
+    - Importance in web application security
+    - Basic usage of Burp Suite
+    - Setting up and intercepting HTTP requests
+
+```C
+### Hands-On Burp Suite Exercise
+
+- **Intercept and Analyze HTTP Requests to Juice Shop**
+    - Guide students through the process
+    - Identify and discuss findings
+```
 
 
+### Introduction to Nikto
+
+- **What is Nikto?**
+    - Importance in web server security
+    - Basic usage of Nikto
+    - Running a scan on Juice Shop
 # notes 
 NICE framework slides 
 NIST GLOSSARY GET DEF FROM THERE 

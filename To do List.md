@@ -70,3 +70,8 @@ the to do list for each day
 
 
 [[Week May 27th]]
+
+
+[[Week June 3rd]]
+
+[[Summer weekly schedule]] -> follow this schedule when plannig out our days 
