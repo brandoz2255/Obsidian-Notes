@@ -85,7 +85,7 @@ authentication
 
 **Definition**: Quality Assurance (QA) testing ensures that the software meets specified requirements and is free of defects.
 
-[link4]([quality assurance - Glossary | CSRC (nist.gov)](https://csrc.nist.gov/glossary/term/quality_assurance)) [link5]([Testing - Glossary | CSRC (nist.gov)](https://csrc.nist.gov/glossary/term/testing))
+[link4]([quality assurance - Glossary | CSRC (nist.gov)](https://csrc.nist.gov/glossary/term/quality_assurance)) [link5](Testing - Glossary | CSRC (nist.gov)](https://csrc.nist.gov/glossary/term/testing))
 
 - Imagine building a house. QA testing is like having a building inspector who checks the structure for any flaws or weaknesses, ensuring it’s safe and built to code.
 - Just as a building inspector ensures the safety and stability of a house, QA testing ensures the security and reliability of software.
@@ -210,12 +210,46 @@ Make you explain what they will learn in this slide relates to the task
     - Identify and discuss findings
 ```
 
-### Slide 14: Introduction to Burp Suite
+# Slide 11: Hands-On OWASP ZAP Exercise
 
-- **What is Burp Suite?**
-    - Importance in web application security
-    - Basic usage of Burp Suite
-    - Setting up and intercepting HTTP requests
+**Start OWASP ZAP**
+
+- Open OWASP ZAP after installation.
+- Configure your browser to use OWASP ZAP as a proxy:
+    - **Firefox**: Preferences -> Network Settings -> Manual proxy configuration
+
+
+### slide 12 
+**Introduction to Juice Shop**
+
+1. **What is Juice Shop?**
+    
+    - **Description**: Juice Shop is an intentionally vulnerable web application developed by OWASP. It is designed for security training, awareness, and testing.
+    - **Purpose**: Provides a safe environment to learn about web application security and practice finding and fixing vulnerabilities.
+
+
+1. **Why Use Juice Shop?**
+    
+    - **Realistic Scenarios**: Simulates real-world vulnerabilities found in web applications.
+    - **Comprehensive Coverage**: Includes a wide range of security flaws like SQL Injection, Cross-Site Scripting (XSS), and more.
+    - **Educational Resource**: Ideal for hands-on learning and practice in a controlled environment.
+
+
+### Slide 13: Introduction to Burp Suite
+
+**Importance in Web Application Security**
+
+- **Comprehensive Tool**: Burp Suite is a powerful tool for finding and fixing security problems in websites.
+- **Professional Use**: Widely used by security experts to test and secure web applications.
+- **Educational Resource**: Great for learning how to protect websites by finding weaknesses.
+
+
+**Basic Usage of Burp Suite**
+
+- **Intercepting Proxy**: Burp Suite can catch and change data sent between your browser and the website.
+- **Scanner**: Automatically checks websites for common security problems.
+- **Intruder**: Tries many different inputs to find hidden vulnerabilities.
+- **Repeater**: Allows you to manually change and resend requests to see how the website responds.
 
 ```C
 ### Hands-On Burp Suite Exercise
@@ -226,7 +260,7 @@ Make you explain what they will learn in this slide relates to the task
 ```
 
 
-### Introduction to Nikto
+### Slide 15 Introduction to Nikto
 
 - **What is Nikto?**
     - Importance in web server security
@@ -240,3 +274,11 @@ Thinking like adversary
 teach them somethign 
 showing them someting 
 let go therough it 
+
+
+
+# new 
+
+```JS
+
+```
