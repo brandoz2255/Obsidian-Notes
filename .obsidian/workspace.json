@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7b44856287538c",
+        "id": "b91eb7823320a64e",
         "type": "tabs",
         "children": [
           {
-            "id": "3ae99bb02c82c8e4",
+            "id": "19cada320c559b7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer weekly schedule.md",
+                "file": "slides.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,20 +30,14 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "b91eb7823320a64e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "19cada320c559b7d",
+            "id": "3ae99bb02c82c8e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slides.md",
+                "file": "Summer weekly schedule.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,24 +56,20 @@
             }
           },
           {
-            "id": "84b9491b77fc4616",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week June 3rd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "57ec2e57cc21bdeb",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d3bc5cec6333eb1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "cyber_stuff/How to add.md",
+                "file": "steps to start  OWASP.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,12 +115,8 @@
             "id": "098abb5382ef1a8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "page2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "3d_graph_view",
+              "state": {}
             }
           },
           {
@@ -144,9 +130,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0eca29ccebc0fe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SICP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -212,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.js.md",
+                "file": "SICP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React.js.md",
+                "file": "SICP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.js.md"
+                "file": "SICP.md"
               }
             }
           },
@@ -283,34 +281,34 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "219752e4c5a9abf8",
+  "active": "e0eca29ccebc0fe4",
   "lastOpenFiles": [
-    "Getting Started.js.md",
-    "React.js.md",
+    "2.1.3.md",
+    "Why its important.md",
+    "in it.md",
+    "Fleet notes for 2.1.3.md",
+    "SICP.md",
     "cyber_stuff/Computer Science 1.md",
+    "page2.md",
+    "cyber_stuff/How to add.md",
+    "steps to start  OWASP.md",
+    "Secure Software Accessor.md",
+    "course.md",
+    "Hack of the box/Blue Team.md",
+    "Week June 3rd.md",
+    "React.js.md",
+    "Getting Started.js.md",
     "Summer weekly schedule.md",
     "slides.md",
     "Testing.md",
     "[Testing.md",
     "[quality.md",
-    "cyber_stuff/How to add.md",
     "SYO-701 1.2.md",
-    "Week June 3rd.md",
-    "Hack of the box/Blue Team.md",
     "Domain One.md",
     "SYO-701 1.1.md",
     "SYO-701 1.2 pt3.md",
     "finished draft.md",
-    "course.md",
     "Week May 27th.md",
-    "To do List.md",
-    "Summer Goals.md",
-    "page2.md",
-    "page.md",
-    "SYO-701 1.3 PT 1.md",
-    "prompt.md",
-    "Secure Software Accessor.md",
-    "basic stuff.md",
     "IMG_7154.jpg",
     "2024-04-15_16-36.png",
     "Untitled.canvas",
