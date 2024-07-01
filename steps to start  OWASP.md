@@ -80,3 +80,100 @@ cd ZAP_2.15.0
 
 ```
 
+
+
+SQL Injection 
+
+```C
+' OR 1=1 --
+```
+
+
+XSS
+
+```C
+<img src="invalid.jpg" onerror="alert('XSS')">
+```
+
+```C
+<button onclick="alert('XSS')">Click me!</button>
+```
+
+```C
+<div onmouseover="alert('XSS')">Hover over me!</div>
+```
+
+
+```C
+' OR 1=1--
+```
+
+```C
+'
+```
+
+```C
+1=1
+```
+
+
+```C
+SELECT * FROM products WHERE name LIKE '%user_input%';
+```
+
+```C
+SELECT * FROM products WHERE name LIKE '%' OR 1=1--';
+```
+
+
+```C
+sudo docker pull aflplusplus/aflplusplus
+
+sudo docker run -ti -v /location/of/your/target:/src aflplusplus/aflplusplus
+```
+
+```C 
+cd practice
+
+cd alf-training
+
+cd quickstart
+
+CC=afl-clang-fast AFL_HARDEN=1 make
+
+```
+
+```C
+./vulnerable
+```
+
+``` C
+./vulnerable < inputs/u
+```
+
+```C
+ afl-fuzz -i inputs -o out ./vulnerable
+```
+
+
+### Juice Shop
+
+```C
+sudo docker pull bkimminich/juice-shop
+```
+
+
+```C
+sudo docker run -d -p 3000:3000 bkimminich/juice-shop
+```
+
+
+### ZAP 
+
+```C
+cd ZAP_2.15.0
+```
+
+```C
+./zap.sh
+```
