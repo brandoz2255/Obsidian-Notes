@@ -177,3 +177,29 @@ cd ZAP_2.15.0
 ```C
 ./zap.sh
 ```
+
+
+
+``` C
+"effective.
+
+Power
+
+لُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ
+
+冗"
+```
+
+
+```C
+' OR '1'='1
+```
+
+```C
+' OR '1'='1' --
+```
+
+```C
+' UNION SELECT 1, 'another_user', 'password' --
+```
+

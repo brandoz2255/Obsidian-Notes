@@ -149,7 +149,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "steps to start  OWASP.md",
+                "file": "cyber_stuff/1.2 Functions and processes.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "steps to start  OWASP.md",
+                "file": "cyber_stuff/1.2 Functions and processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "steps to start  OWASP.md",
+                "file": "cyber_stuff/1.2 Functions and processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "steps to start  OWASP.md"
+                "file": "cyber_stuff/1.2 Functions and processes.md"
               }
             }
           },
@@ -295,6 +295,8 @@
   },
   "active": "21e19660e87c5a88",
   "lastOpenFiles": [
+    "cyber_stuff/Computer Science 1.md",
+    "cyber_stuff/Building Abstractions with Functions.1.md",
     "steps to start  OWASP.md",
     "Secure Software Accessor.md",
     "Hack of the box/Blue Team.md",
@@ -304,7 +306,6 @@
     "in it.md",
     "Fleet notes for 2.1.3.md",
     "SICP.md",
-    "cyber_stuff/Computer Science 1.md",
     "page2.md",
     "cyber_stuff/How to add.md",
     "Week June 3rd.md",
@@ -320,7 +321,6 @@
     "SYO-701 1.1.md",
     "SYO-701 1.2 pt3.md",
     "finished draft.md",
-    "Week May 27th.md",
     "IMG_7154.jpg",
     "2024-04-15_16-36.png",
     "Untitled.canvas",
