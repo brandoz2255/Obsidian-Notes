@@ -36,6 +36,8 @@
 
 [[SYO-701 1.2 pt5]] : Physical Security 
 
-SYO-701 1.3 PT 1 : 
+[[SYO-701 1.3 PT 1]] :  Change management and policies
+
+[[Domain One]]
 
 [[1.1 quiz]] 

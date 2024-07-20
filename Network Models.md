@@ -1,0 +1,8 @@
+- TCP/IP Model
+	- Physical layer : cable and connectors fiber and electricity
+	- Data Link layer : fills the MAC addreses 
+	- Network:  Deals with IP addresing router and packets
+	- Transport: deals with transimmiosn control proo TCP and UDP ports 1-65 and  535
+	- Application: How software communicaites lower layer protcol how HTTP got information from web browser
+- OSI model 
+	- 

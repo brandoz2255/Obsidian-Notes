@@ -75,3 +75,10 @@ the to do list for each day
 [[Week June 3rd]]
 
 [[Summer weekly schedule]] -> follow this schedule when plannig out our days 
+
+
+[[week july 17]]
+
+[[Projects plan]]
+
+[[Yearly plan]] modify if changes need be 

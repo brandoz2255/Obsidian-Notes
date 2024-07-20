@@ -5,7 +5,7 @@
 - [x] 11:00 AM - 3: 00 pm: GenCyber ✅ 2024-06-05
 	- [x] Slides finish set up add some of what Arcky said ✅ 2024-06-05
 	- [ ] Download and set up Juice Shop 
-	- [ ] Practice Fuzzing/ZAP/XSS/SQL Query 
+	- [x] Practice Fuzzing/ZAP/XSS/SQL Query ✅ 2024-07-17
 - [x] 3:00 -4:00 pm HW time ✅ 2024-06-05
 	- [x] Rev ideas tsk 1 ✅ 2024-06-05
 	- [ ] Rev ideas tsk 2 

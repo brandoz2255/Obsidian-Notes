@@ -93,8 +93,8 @@ Survive DDOS attack
 
 [[prompt]]
 
-
-[[SYO-701 1.1]] : Control Types
+**Part One**
+[[SYO-701 1.1]] : Control Types     [[Control types]]
 
 [[SYO-701 1.2]] : CIA Triad 
 
@@ -110,12 +110,49 @@ Survive DDOS attack
 
 [[SYO-701 1.3 PT 1]] :  Change management and policies
 
-[[Domain One]]
+[[Proto Domain One]]
+
+
+## Cryptography
+***Part Two***
+[[Understanding Cryptography]]
+
+[[Goals of Cyptography]]
+
+[[Data Obfuscation  and de-identification ]]
+
+
+[[Understanding Cryptography]]
+
+[[Goals of Cyptography]]
+
+[[Things to remember]]
+
+***PART THREE***
+# Symmetric Cryptography
+
+[[DES and 3DES ]]
+
+[[AES, Blowfish, and Twofish]] 
+
+[[Steganography]]
+
 
 [[1.1 quiz]] : Notes 
 
 [[1.2 quiz]] : Notes
 
+
+# CCNA 
+
+[[prompt CCNA]] 
+
+[[Pre-review]]
+
+[[Network Models]]
+
+
+Review LAN WAN protocal and CLI tools and troubleshooting network connectivity. 
 
 # Sierra Madre
 [[Career center pitch]]
