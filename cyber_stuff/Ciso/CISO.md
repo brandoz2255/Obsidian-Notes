@@ -8,6 +8,8 @@ Index
 [[pwd]]
 
 ## Red hat stuff
+
+#redhat 
 [[Red Hat Linux ]]
 
 [[Linux Essentials]]

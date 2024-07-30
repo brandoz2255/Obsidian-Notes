@@ -1,0 +1,34 @@
+- The four linux distros that most linux systems are based off of
+- Debian 
+	- Ion murdock made debian because his wife is debra 
+	- maintained by community 
+	- not ascociated by a corp 
+	- came out in 1993 ]
+	- only free software 
+	- uses apt 
+	- Ubuntu 
+	- debian 
+	- kali 
+	- mint
+- Arch 
+	- came out in 2000 
+	- simple and lightwieght 
+	- uses pacman 
+	- Arch 
+	- manjaroo
+	- EndeavorOS
+- Slackware 
+	- earliest distro 
+	- aimed at advanced users 
+	- uses the pkgtools package manager
+- Redhat 
+	- first comercial linux 
+	- 1999 went public broke wallstreet records 
+	- 1994 it debut 
+	- first billion dollar opensource company 
+	- RPM manager 
+	- Rocky 
+	- CentOS others etc 
+	- 
+- I am currently using Arch might set up debian and fedora VM's for the Linux+ practice!
+- 

@@ -63,7 +63,7 @@ How to remember them perfectly is **Symmetric** is for both sides being identica
 - **RSA**: Commonly used for secure data transmission, understand its role in key exchange and digital signatures.
 - **ECC**: Offers strong security with shorter keys, used in mobile devices and small form factor devices.
 
-Exam tip: 
+**Exam tip**: 
 
 Asymmetric cryptography the keys used to encrypt and decrypt data must come from the same key pair 
 

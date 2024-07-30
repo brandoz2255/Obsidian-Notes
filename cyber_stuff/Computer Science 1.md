@@ -257,3 +257,8 @@ Applied the security Plus knowledge with Computer Science
 # React Learning 
 
 [[React.js]]
+
+
+# Leet Code journal 
+
+[[Leet code]]

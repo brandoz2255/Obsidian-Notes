@@ -26,7 +26,8 @@ All the other notes I made prevously were somewhat  good however Im gonna do bet
 
 
 # INDEX: Getting Started
-[[SSH]]: Means Secure Shell which is a network proptocol that runs on port 22 by default and provides users such as system admin a secure way to access a computer remotely. 
+[[SSH]]: Means Secure Shell which is a network proptocol that runs on port 22 by default and provides users such as system admin a secure way to access a computer remotely.
+
 [[SSH]]
 
 [[Netcat]]
@@ -88,3 +89,6 @@ SNMP Enumeration
 [[FInd command]]
 
 [[DMZ.writeup]]
+
+
+[[raspi]]

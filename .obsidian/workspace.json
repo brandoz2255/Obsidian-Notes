@@ -20,63 +20,7 @@
             }
           },
           {
-            "id": "ecb878bcdea77699",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SYO-701 1.2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ae99bb02c82c8e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summer weekly schedule.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "219752e4c5a9abf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57ec2e57cc21bdeb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "1d3bc5cec6333eb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "steps to start  OWASP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81446b3b57265555",
+            "id": "d22db918cc973846",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,31 +32,19 @@
             }
           },
           {
-            "id": "454a4c61d1c1c608",
+            "id": "c0d38796474b00f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain One.md",
+                "file": "Cybersecurity.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1d8e0106c8c904a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SYO-701 1.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "098abb5382ef1a8f",
+            "id": "2b1295b28fdaeced",
             "type": "leaf",
             "state": {
               "type": "3d_graph_view",
@@ -120,83 +52,27 @@
             }
           },
           {
-            "id": "7c10b4eb72a064d8",
+            "id": "0138f55f61c755e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week july 17.md",
+                "file": "AES, Blowfish, and Twofish.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5ef0b6b30ccea6f0",
+            "id": "20d710d600725ccf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Understanding Cryptography.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21e19660e87c5a88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "week july 17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "737e9423c99ea751",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 10
-      },
-      {
-        "id": "e3c36e667a79f1a2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e0eca29ccebc0fe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "486ec76a42fd7af4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SYO-701 1.2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -225,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "to do list",
+                "query": "tag:#algorithms",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6bd8408cad4e0dec",
@@ -256,35 +133,6 @@
         "id": "dadd3dbab44073a0",
         "type": "tabs",
         "children": [
-          {
-            "id": "d396caf12cb910db",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Network Models.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "9d478d3ab65c8a0c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Network Models.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "25a485e392642ce6",
             "type": "leaf",
@@ -297,29 +145,54 @@
             }
           },
           {
-            "id": "f530161cb5765ecc",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Network Models.md"
-              }
-            }
-          },
-          {
-            "id": "ab427720239ae270",
+            "id": "3950e810738779ec",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "e8eefea5e2f60923",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6f59061c696f1c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "032e3bca11a78fce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -333,34 +206,37 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "e0eca29ccebc0fe4",
+  "active": "20d710d600725ccf",
   "lastOpenFiles": [
+    "AES, Blowfish, and Twofish.md",
+    "AES.png",
     "Hack of the box/Blue Team.md",
-    "Network Models.md",
-    "Pre-review.md",
-    "prompt CCNA.md",
-    "prompt.md",
+    "DES and 3DES.md",
+    "3DES.png",
+    "DES_2.png",
+    "DES.png",
+    "Cybersecurity.md",
+    "Linux Distros.md",
+    "Hack of the box/Spoofing and abnormality detection.md",
+    "cyber_stuff/Ciso/CISO.md",
+    "Hack of the box/Red team.md",
+    "slides.md",
+    "SYO-701 1.2.md",
+    "cyber_stuff/Analyzing captured traffic.blue.md",
+    "cyber_stuff/Ciso/Red Hat Linux.md",
+    "cyber_stuff/Ciso/Redhat Academy.md",
+    "raspi.md",
+    "Projects plan.md",
+    "To do List.md",
+    "cyber_stuff/Computer Science 1.md",
+    "Understanding Cryptography.md",
     "week july 17.md",
     "Things to remember.md",
-    "Data Obfuscation  and de-identification.md",
-    "Goals of Cyptography.md",
-    "Understanding Cryptography.md",
-    "Proto Domain One.md",
-    "more asymmetric info.md",
-    "To do List.md",
-    "Projects plan.md",
-    "SYO-701 1.1.md",
-    "Yearly plan.md",
-    "SYO-701 1.2.md",
-    "Control types.md",
-    "chart.md",
-    "SYO-701 1.2 pt 2.md",
-    "SYO-701 1.3 PT 1.md",
-    "SYO-701 1.2 pt5.md",
-    "Domain One.md",
-    "Security +.md",
-    "SICP.md",
-    "Week June 3rd.md",
+    "React.js.md",
+    "C++ problem.md",
+    "CSE/The Science side/C++.md",
+    "Leet code.md",
+    "Mid term 2.md",
     "IMG_7154.jpg",
     "2024-04-15_16-36.png",
     "Untitled.canvas",
@@ -369,8 +245,6 @@
     "240214_13h58m19s_screenshot.png",
     "cyber_stuff/Zettlekasten/Pasted image 20231107133234.png",
     "cyber_stuff/Zettlekasten/Pasted image 20231107133158.png",
-    "cyber_stuff/Zettlekasten/Pasted image 20231107133146.png",
-    "cyber_stuff/Zettlekasten/Pasted image 20231107125838.png",
     "cyber_stuff/Zettlekasten",
     "cyber_stuff/Untitled",
     "cyber_stuff/To do/9/21 and 9",
@@ -378,8 +252,6 @@
     "cyber_stuff/To do/9",
     "cyber_stuff/To do",
     "JS",
-    "240202_10h20m20s_screenshot.png",
-    "Pasted image 20240201194438.png",
     "Projects(winter)",
     "Arch Linux",
     "Hacking Into the Matrix typa shii.canvas"

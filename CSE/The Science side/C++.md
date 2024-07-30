@@ -67,3 +67,9 @@ cool lab 13 in C
 ### Chapter 5
 
 [[Runtime Polymorphism]]
+
+
+
+# Leet Code grind 
+
+[[C++ problem]]

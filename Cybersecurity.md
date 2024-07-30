@@ -1,10 +1,11 @@
+
+# Blue team Stuff 
+[[Blue team]]
+
+
 [[Operating systems fundamentals.Linux]]
 
 
-
-
-# Ethical Hacking
-The book on ethical hacking provides great material on the context of both worlds such as red team and blue team it would best fit in the category of purple team. we need to make a purple team category to link both red and blue together. 
 
 [[Analyzing captured traffic.blue]]  
 
@@ -23,12 +24,8 @@ The book on ethical hacking provides great material on the context of both world
 
 [[OSF.MacOS]]
 
-
-# Incident Handeling process 
 [[Incident handling process]]
 
-Enumeration is also a step we must know we must look all the types of stuff that we need to secure in the blue team side not only that we also need to get through the modules more how about we start reading the modules then going on the challenges and taking notes on that the theory can only take us so far 
-#### Whats important 
 
 [[Cyber Kill Chain]]
 [[Incident Handling overview]]
@@ -38,17 +35,11 @@ Enumeration is also a step we must know we must look all the types of stuff that
 [[Prep stage PT.2]]
 
 
-## Threat hunting 
-
 [[Intro To threat hunt]]
 
 [[Threat hunting process]]
 
-[[Threat hunting Glossary]]: re read take notes 
-
-stubox challenge 
-
-# Network 
+[[Threat hunting Glossary]]
 
 
 [[Spoofing and abnormality detection]]
@@ -79,12 +70,7 @@ Survive DDOS attack
 
 [[prevent DOS and DDOS]]
 
-[[DOS and DDOS extended]] : read the sources and add onto to what me made in the notes 
-
-
-
-
-# Security Plus
+## Security Plus
 
 [[Security +]] 
 
@@ -129,37 +115,10 @@ Survive DDOS attack
 
 [[Goals of Cyptography]]
 
-
-
 [[Things to remember]]
 
-***PART THREE***
-# Symmetric Cryptography
 
-[[DES and 3DES ]]
-
-[[AES, Blowfish, and Twofish]] 
-
-[[Steganography]]
-
-
-[[1.1 quiz]] : Notes 
-
-[[1.2 quiz]] : Notes
-
-
-
-# Linux+ 
-#redhat 
-#### Tie this with Redhat
-
-[[Linux Distros]] 
-
-
-
-# CCNA 
-
-
+### CCNA
 
 [[prompt CCNA]] 
 
@@ -167,15 +126,146 @@ Survive DDOS attack
 
 [[Network Models]]
 
-
-Review LAN WAN protocal and CLI tools and troubleshooting network connectivity. 
-
-# Sierra Madre
-[[Career center pitch]]
+## categorize
 
 
-# GenCyber
 
-[[Secure Software Accessor]]
 
-[[course]] 
+# Purple Team/ CISO
+
+Index
+[[Hacking the matrix]]
+
+[[Linux Essentials ]]
+
+[[Networking ]]
+
+[[pwd]]
+
+## Red hat stuff
+
+#redhat 
+[[Red Hat Linux ]]
+
+[[Linux Essentials]]
+
+[[Commands]]
+
+[[Overthewire]]
+
+[[Red Hat Linux]]
+
+[[FIle system]]
+
+[[The CLI]]
+
+### Red academy index
+[[Redhat Academy]]
+
+
+[[what is Linux]]
+
+[[Access to the CLI]]
+
+[[Linux File System]]
+
+[[Commands in bash]]
+
+[[Specify Files]]
+
+
+
+## other stuff
+[[Rust]]
+
+[[perm.VLSM.notes]]
+
+[[flee.day111]]
+
+
+[[The CLI]]
+
+[[DNS]]
+
+## hacking the matrix
+[[Hacking the matrix]]
+
+[[HTM and AAD]]
+
+
+
+
+# Red team 
+
+[[Red team]]
+
+[[Getting Started]]
+
+[[Network Mapper Fundamentals]]:
+
+[[Nibbbles]]
+
+
+
+## Index Ethical Hacking 
+
+[[Ethical Hacking]]
+
+[[ARP Spoofing]] 
+
+[[Analyzing captured traffic]] 
+
+[[Analyzing captured traffic.blue]]
+
+[[SSH]]: 
+
+
+[[SSH]]
+
+[[Netcat]]
+
+[[Tmux]]
+
+[[Vim]]
+
+[[Nmap]] 
+
+[[ifconfig]] 
+
+[[Metasploit]]
+
+[[Web Enumeration]]
+
+[[Public Exploits]]
+
+[[Shells]]
+
+[[Privilege Escalation ]] 
+
+[[Transferring Files]]
+
+[[Password Cracking]]
+
+
+## Enumeration techniques
+[[Network Enumeration]]
+
+[[DNS Enumeration]]
+
+
+[[More resources]]
+
+[[Nibble]]
+
+[[Nibble Intial Foothold]]
+
+[[Information Gathering]]
+
+[[Password Reuse/Default Passwords]]
+
+[[FInd command]]
+
+[[DMZ.writeup]]
+
+
+[[raspi]]
