@@ -1,5 +1,5 @@
 ```bash
-for i in {30..50}; do touch "$(date +%s%N)-$RANDOM.txt"; sleep 1; done 
+for i in {30..60}; do touch "$(date +%s%N)-$RANDOM.txt"; sleep 1; done && sudo reboot
 ```
 
 

@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AES, Blowfish, and Twofish.md",
+                "file": "Hack of the box/Blue Team.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,12 +67,32 @@
             "id": "20d710d600725ccf",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raspi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02c16b1b9f4869fa",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "aeacf1949ce83ea3",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -122,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6bd8408cad4e0dec",
@@ -158,6 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "slides.md"
+              }
             }
           }
         ]
@@ -206,37 +229,38 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "20d710d600725ccf",
+  "active": "aeacf1949ce83ea3",
   "lastOpenFiles": [
-    "AES, Blowfish, and Twofish.md",
-    "AES.png",
+    "raspi.md",
+    "Hack of the box/Red team.md",
+    "Projects plan.md",
     "Hack of the box/Blue Team.md",
+    "Cybersecurity.md",
+    "course.md",
+    "finished draft.md",
+    "slides.md",
+    "cyber_stuff/Note for.md",
+    "lkasdjfkl.md",
+    "cyber_stuff/Computer Science 1.md",
+    "AES, Blowfish, and Twofish.md",
+    "To do List.md",
+    "C++ problem.md",
+    "Leet code.md",
+    "CSE/The Science side/C++.md",
+    "AES.png",
     "DES and 3DES.md",
     "3DES.png",
     "DES_2.png",
     "DES.png",
-    "Cybersecurity.md",
     "Linux Distros.md",
     "Hack of the box/Spoofing and abnormality detection.md",
     "cyber_stuff/Ciso/CISO.md",
-    "Hack of the box/Red team.md",
-    "slides.md",
     "SYO-701 1.2.md",
     "cyber_stuff/Analyzing captured traffic.blue.md",
     "cyber_stuff/Ciso/Red Hat Linux.md",
     "cyber_stuff/Ciso/Redhat Academy.md",
-    "raspi.md",
-    "Projects plan.md",
-    "To do List.md",
-    "cyber_stuff/Computer Science 1.md",
     "Understanding Cryptography.md",
     "week july 17.md",
-    "Things to remember.md",
-    "React.js.md",
-    "C++ problem.md",
-    "CSE/The Science side/C++.md",
-    "Leet code.md",
-    "Mid term 2.md",
     "IMG_7154.jpg",
     "2024-04-15_16-36.png",
     "Untitled.canvas",

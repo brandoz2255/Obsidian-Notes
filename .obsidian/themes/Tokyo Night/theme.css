@@ -232,7 +232,7 @@
   --nav-item-background-hover: var(--bg_highlight);
   --nav-item-color-active: var(--red);
   --nav-item-background-active: var(--bg_highlight);
-  --nav-file-tag: rgba(var(--yellow_x), 0.9);
+  --nav-file-tag: rgba(var(--blue_x), 0.9);
   --nav-indentation-guide-color: var(--bg_highlight);
 
   --indentation-guide-color: var(--comment);

@@ -11,7 +11,7 @@ To resolve this issue, I recommend creating a virtual environment for your chatb
 Replace "myenv" with the name you want to give to your virtual environment.
 
 4. Activate the virtual environment using the following command:
-
+5. 
 `source myenv/bin/activate`
 
 Replace "myenv" with the name of your virtual environment.
@@ -30,3 +30,5 @@ By using a virtual environment, you can isolate your project's dependencies from
 
 - We could also do this for every other programming project if the library we need has conflict issues 
 - We could also open VScode as usual in here as well 
+
+🤔
