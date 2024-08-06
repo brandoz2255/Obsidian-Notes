@@ -82,3 +82,8 @@ the to do list for each day
 [[Projects plan]]
 
 [[Yearly plan]] modify if changes need be 
+
+
+[[August plans]]
+
+[[week August 4th]] Time to begin

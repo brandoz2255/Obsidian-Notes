@@ -97,11 +97,11 @@ Survive DDOS attack
 [[prompt]]
 
 **Part One**
-[[SYO-701 1.1]] : Control Types     [[Control types]]
+[[SYO-701 1.1]] : Control Types     [[Co ntrol types]]
 
-[[SYO-701 1.2]] : CIA Triad 
+[[SYO-701 1.2]] : [[CIA Triad]] 
 
-[[SYO-701 1.2 pt 2]] : AAA servers 
+[[SYO-701 1.2 pt 2]] : [[AAA servers and Zero trust]] 
 
 [[SYO-701 1.2 pt3]] : GAP Analysis 
 
@@ -125,10 +125,6 @@ Survive DDOS attack
 [[Data Obfuscation  and de-identification ]]
 
 
-[[Understanding Cryptography]]
-
-[[Goals of Cyptography]]
-
 
 
 [[Things to remember]]
@@ -141,6 +137,17 @@ Survive DDOS attack
 [[AES, Blowfish, and Twofish]] 
 
 [[Steganography]]
+
+[[Symm Crypto Quiz]]
+
+
+# Asymmetric Cyrptography 
+
+[[RSA]]
+
+[[PGP]]
+
+[[Quantum Cryptography]]
 
 
 [[1.1 quiz]] : Notes 

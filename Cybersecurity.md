@@ -1,4 +1,4 @@
-
+[[To do List]]
 # Blue team Stuff 
 [[Blue team]]
 
@@ -111,9 +111,6 @@ Survive DDOS attack
 [[Data Obfuscation  and de-identification ]]
 
 
-[[Understanding Cryptography]]
-
-[[Goals of Cyptography]]
 
 [[Things to remember]]
 
@@ -133,6 +130,7 @@ Survive DDOS attack
 
 # Purple Team/ CISO
 
+[[CISO]]
 Index
 [[Hacking the matrix]]
 
@@ -141,6 +139,8 @@ Index
 [[Networking ]]
 
 [[pwd]]
+
+[[Docker Container]]
 
 ## Red hat stuff
 

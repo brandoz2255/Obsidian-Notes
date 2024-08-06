@@ -8,7 +8,7 @@
 
 **Technical Details:**
 
-- **Block Cipher:** Operates on 64-bit blocks of data.
+- **Block Cipher:** Operates on *64-bit blocks of data*.
 - **Key Length:** Uses a 56-bit key for encryption, though the total key length is 64 bits (8 bits used for parity).
 - **Feistel Structure:** DES uses a Feistel network structure, *which involves multiple rounds of processing to encrypt data.*
 

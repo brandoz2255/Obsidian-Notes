@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slides.md",
+                "file": "week August 4th.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,20 +79,39 @@
             "id": "02c16b1b9f4869fa",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
             "id": "aeacf1949ce83ea3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "week August 4th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7100d629a6f3b199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AAA servers and Zero trust.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slides.md",
+                "file": "week August 4th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slides.md",
+                "file": "week August 4th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "slides.md"
+                "file": "week August 4th.md"
               }
             }
           }
@@ -229,38 +248,39 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "aeacf1949ce83ea3",
+  "active": "19cada320c559b7d",
   "lastOpenFiles": [
-    "raspi.md",
-    "Hack of the box/Red team.md",
-    "Projects plan.md",
-    "Hack of the box/Blue Team.md",
-    "Cybersecurity.md",
-    "course.md",
-    "finished draft.md",
-    "slides.md",
-    "cyber_stuff/Note for.md",
-    "lkasdjfkl.md",
-    "cyber_stuff/Computer Science 1.md",
-    "AES, Blowfish, and Twofish.md",
     "To do List.md",
-    "C++ problem.md",
-    "Leet code.md",
-    "CSE/The Science side/C++.md",
+    "slides.md",
+    "Cybersecurity.md",
+    "Hack of the box/Blue Team.md",
+    "SYO-701 1.2 pt 2.md",
+    "AAA servers and Zero trust.md",
+    "Control types.md",
+    "SYO-701 1.3 PT 1.md",
+    "SYO-701 1.2 PT6.md",
+    "SYO-701 1.2 pt5.md",
+    "SYO-701 1.2 pt4.md",
+    "SYO-701 1.2 pt3.md",
+    "SYO-701 1.2.md",
+    "cyber_stuff/Ciso/CISO.md",
+    "Docker Container.md",
+    "Blueprint one.md",
+    "raspi.md",
+    "CIA Triad.md",
+    "Quantum Cryptography.md",
+    "PGP.md",
+    "RSA.md",
+    "cyber_stuff/Computer Science 1.md",
+    "week August 4th.md",
+    "cyber_stuff/docker.md",
+    "History of Docker.md",
+    "August plans.md",
+    "Pasted image 20240804201836.png",
     "AES.png",
-    "DES and 3DES.md",
     "3DES.png",
     "DES_2.png",
     "DES.png",
-    "Linux Distros.md",
-    "Hack of the box/Spoofing and abnormality detection.md",
-    "cyber_stuff/Ciso/CISO.md",
-    "SYO-701 1.2.md",
-    "cyber_stuff/Analyzing captured traffic.blue.md",
-    "cyber_stuff/Ciso/Red Hat Linux.md",
-    "cyber_stuff/Ciso/Redhat Academy.md",
-    "Understanding Cryptography.md",
-    "week july 17.md",
     "IMG_7154.jpg",
     "2024-04-15_16-36.png",
     "Untitled.canvas",
@@ -268,7 +288,6 @@
     "240214_14h18m38s_screenshot.png",
     "240214_13h58m19s_screenshot.png",
     "cyber_stuff/Zettlekasten/Pasted image 20231107133234.png",
-    "cyber_stuff/Zettlekasten/Pasted image 20231107133158.png",
     "cyber_stuff/Zettlekasten",
     "cyber_stuff/Untitled",
     "cyber_stuff/To do/9/21 and 9",

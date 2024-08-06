@@ -7,6 +7,12 @@ Index
 
 [[pwd]]
 
+# Im leading/Co leading
+
+Quad-C | Maybe 
+[[Malware Analysis]]
+[[Docker Container]]
+
 ## Red hat stuff
 
 #redhat 
