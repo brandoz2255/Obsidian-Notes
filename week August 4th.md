@@ -66,12 +66,12 @@
 Allocate 30 to 1hr each task please!! 
 
 ## Homework
-- [ ] Complete SSCI homework
-- [ ] Complete Ethnic Studies homework
+- [x] Complete SSCI homework ✅ 2024-08-07
+- [x] Complete Ethnic Studies homework ✅ 2024-08-07
 
 ## Projects
-- [ ] Docker container project planning
-  - [ ] Continue project planning and documentation
+- [x] Docker container project planning ✅ 2024-08-07
+  - [x] Continue project planning and documentation ✅ 2024-08-07
 
 ## Study
 - [ ] Security Plus study
@@ -85,13 +85,13 @@ Allocate 30 to 1hr each task please!!
   - [ ] Solve at least one challenge
 
 ## Development Plans
-- [ ] Plan React AI IDS project
-- [ ] Plan Rust Docker recreation
-  - [ ] Learn Rust basics
+- [x] Plan React AI IDS project ✅ 2024-08-07
+- [x] Plan Rust Docker recreation ✅ 2024-08-07
+  - [x] Learn Rust basics ✅ 2024-08-07
 
 ## Career Development
-- [ ] Resume tweaks
-- [ ] Internship hunting
+- [x] Resume tweaks ✅ 2024-08-07
+- [x] Internship hunting ✅ 2024-08-07
   - [ ] Message one important contact
 
 ## Design Plans
