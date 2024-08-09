@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Rice.md",
+                "file": "cyber_stuff/Ciso/Red Hat Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Rice.md",
+                "file": "READm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Rice.md",
+                "file": "READm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Rice.md"
+                "file": "READm3.md"
               }
             }
           }
@@ -249,8 +249,9 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "20d710d600725ccf",
+  "active": "7100d629a6f3b199",
   "lastOpenFiles": [
+    "cyber_stuff/How to add.md",
     "cyber_stuff/Ciso/Red Hat Linux.md",
     "My Rice.md",
     "Cybersecurity.md",
@@ -260,7 +261,6 @@
     "Project idea_1.md",
     "command line tool.md",
     "cyber_stuff/Computer Science 1.md",
-    "cyber_stuff/How to add.md",
     "READm3.md",
     "Documentation.IDS.md",
     "blueprint modules.md",
