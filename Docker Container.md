@@ -1,4 +1,4 @@
-# Protype plans
+# Protoype plans
 
 [[Blueprint one]]
 
