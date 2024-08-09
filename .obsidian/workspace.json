@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raspi.md",
+                "file": "My Rice.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cyber_stuff/Ciso/Rust.md",
+                "file": "My Rice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cyber_stuff/Ciso/Rust.md",
+                "file": "My Rice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cyber_stuff/Ciso/Rust.md"
+                "file": "My Rice.md"
               }
             }
           }
@@ -249,14 +249,17 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "02c16b1b9f4869fa",
+  "active": "20d710d600725ccf",
   "lastOpenFiles": [
-    "Docker Container Rust edition.md",
+    "cyber_stuff/Ciso/Red Hat Linux.md",
+    "My Rice.md",
+    "Cybersecurity.md",
+    "raspi.md",
     "cyber_stuff/Ciso/Rust.md",
+    "Docker Container Rust edition.md",
     "Project idea_1.md",
     "command line tool.md",
     "cyber_stuff/Computer Science 1.md",
-    "Cybersecurity.md",
     "cyber_stuff/How to add.md",
     "READm3.md",
     "Documentation.IDS.md",
@@ -274,9 +277,6 @@
     "Control types.md",
     "SYO-701 1.3 PT 1.md",
     "SYO-701 1.2 PT6.md",
-    "SYO-701 1.2 pt5.md",
-    "SYO-701 1.2 pt4.md",
-    "SYO-701 1.2 pt3.md",
     "Pasted image 20240804201836.png",
     "AES.png",
     "3DES.png",

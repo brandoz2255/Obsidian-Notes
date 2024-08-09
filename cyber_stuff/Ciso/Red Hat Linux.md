@@ -4,7 +4,7 @@
 
 
 
-
+[[My Rice]]
 
 [[Connecting to the WiFi]]
 
