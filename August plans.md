@@ -15,37 +15,43 @@
 - [ ] Document the setup and configuration
 
 ## Homework
-- [ ] Complete SSCI homework
-- [ ] Complete Ethnic Studies homework
+- [x] Complete SSCI homework ✅ 2024-08-10
+- [x] Complete Ethnic Studies homework ✅ 2024-08-10
 
 ## Docker Container Project Plans
-- [ ] Outline project goals and objectives
-- [ ] Research tools and technologies to use
-- [ ] Plan container architecture and design
-- [ ] Draft a timeline for project implementation
+- [x] Outline project goals and objectives ✅ 2024-08-10
+- [x] Research tools and technologies to use ✅ 2024-08-10
+- [x] Plan container architecture and design ✅ 2024-08-10
+- [x] Draft a timeline for project implementation ✅ 2024-08-10
 
 ## Malware Analysis Book
 - [ ] Read and take notes on Chapter 1
-- [ ] Read and take notes on Chapter 2
+- [ ] Read and take notes on Chapter 2📅 
 - [ ] Read and take notes on Chapter 3
-- [ ] Apply concepts to practical exercises (if applicable)
+- [x] Apply concepts to practical exercises (if applicable) ✅ 2024-08-10
 
-## Hack The Box
+- [ ] Learn C# 
+	- [ ] Friday will guide you more on what to do later 
+	- [ ] Learn Assembly (optional)
+	- [ ] Learn  what is Malware (basics)
+
+##  Hack The Box
 - [ ] Solve at least 4 challenges
 - [ ] Document solutions and methodologies
 
 ## LeetCode
 - [ ] Solve at least 8 problems
+	- [x] Did at least one will do more ✅ 2024-08-10
 - [ ] Practice different problem-solving techniques
 
 ## AI IDS (Anomaly Detection System)
-- [ ] Develop a basic model for anomaly detection
+- [x] Develop a basic model for anomaly detection ✅ 2024-08-10
 - [ ] Integrate the model with the virtual lab environment
 - [ ] Test the model with simulated network traffic
 - [ ] Document results and improvements
 
 ## Rust Docker Recreation
-- [ ] Research Rust language basics
+- [x] Research Rust language basics ✅ 2024-08-10
 - [ ] Set up a development environment for Rust
 - [ ] Begin recreating the Docker functionality in Rust
 - [ ] Document progress and challenges

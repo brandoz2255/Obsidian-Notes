@@ -271,3 +271,8 @@ Applied the security Plus knowledge with Computer Science
 # IDS React Project
 
 [[IDS]]
+
+
+# Magic mirror 
+
+[[Magic Mirror list]]

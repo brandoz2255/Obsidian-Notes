@@ -74,15 +74,15 @@ Allocate 30 to 1hr each task please!!
   - [x] Continue project planning and documentation ✅ 2024-08-07
 
 ## Study
-- [ ] Security Plus study
-  - [ ] Review previous material covered
-- [ ] Read and take notes on SICP
+- [x] Security Plus study ✅ 2024-08-10
+  - [x] Review previous material covered ✅ 2024-08-10
+- [x] Read and take notes on SICP ✅ 2024-08-10
 
 ## Technical Practice
-- [ ] LeetCode
-  - [ ] Solve at least one problem
-- [ ] Hack The Box
-  - [ ] Solve at least one challenge
+- [x] LeetCode ✅ 2024-08-10
+  - [x] Solve at least one problem ✅ 2024-08-10
+- [x] Hack The Box ✅ 2024-08-10
+  - [x] Solve at least one challenge ✅ 2024-08-10
 
 ## Development Plans
 - [x] Plan React AI IDS project ✅ 2024-08-07

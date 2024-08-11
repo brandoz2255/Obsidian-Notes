@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack of the box/Blue Team.md",
+                "file": "Magic Mirror list.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blueprint modules.md",
+                "file": "Magic Mirror list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blueprint modules.md",
+                "file": "Magic Mirror list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blueprint modules.md"
+                "file": "Magic Mirror list.md"
               }
             }
           }
@@ -237,18 +237,23 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "02c16b1b9f4869fa",
+  "active": "0138f55f61c755e9",
   "lastOpenFiles": [
-    "Docker Container Rust edition.md",
+    "cyber_stuff/Computer Science 1.md",
+    "Magic Mirror list.md",
+    "To do List.md",
+    "August plans.md",
+    "week August 4th.md",
+    "Cybersecurity.md",
+    "Hack of the box/Blue Team.md",
     "blueprint modules.md",
+    "Docker Container Rust edition.md",
     "Documentation.IDS.md",
     "IDS.md",
-    "cyber_stuff/Computer Science 1.md",
     "Docker Container.md",
     "cyber_stuff/Ciso/Rust.md",
     "cyber_stuff/How to add.md",
     "Blueprint one.md",
-    "Cybersecurity.md",
     "READm3.md",
     "cyber_stuff/Ciso/Red Hat Linux.md",
     "My Rice.md",
@@ -257,14 +262,9 @@
     "command line tool.md",
     "workflow.md",
     "1.1 Discrete.md",
-    "week August 4th.md",
     "Plans.md",
     "AAA servers and Zero trust.md",
-    "To do List.md",
     "slides.md",
-    "Hack of the box/Blue Team.md",
-    "SYO-701 1.2 pt 2.md",
-    "Control types.md",
     "Pasted image 20240804201836.png",
     "AES.png",
     "3DES.png",
