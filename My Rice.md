@@ -17,16 +17,16 @@ Which I successfully implemented here with my Simple Rice using Hyprland.
 ### How it Looks 
 
 ##### Fire Fox and Neofetch 
+![[screenshot26.png]]
 
 My Rice looking Futuristic! 
-![[screenshot26.png]]
 
 ### Another Angle 
 
 Here is another Angle with me coding and having an animation playing in the background With my web of Notes out!
 
-![[screenshot27.png]]
 
+![[screenshot27.png]]
 
 ### Future Goals
 
