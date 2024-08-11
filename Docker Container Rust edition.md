@@ -38,9 +38,13 @@ the first object to scale out is some of dockers key features than add more to i
 - Basic Networking 
 
 
-Download the VScode extension of Rust! 
+Download the VS code extension of Rust! 
 
 After research is done move on to 
 
 Phase Two making the file system and actually making it. 
+
+then research what libraries I need to make this project possible! 
+
+
 
