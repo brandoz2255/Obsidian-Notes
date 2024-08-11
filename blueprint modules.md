@@ -1,3 +1,4 @@
+Subject to change based on I want it to do!
 ### 1. **Data Collection Module**
 
 This module will be responsible for gathering network data that needs to be analyzed. Depending on your specific requirements, this could involve capturing live network traffic or processing stored network logs.
@@ -32,4 +33,4 @@ This module will handle the output from the Machine Learning Module and decide w
 If your system needs to be accessible through web or other services, an API module can serve as an interface for other systems to interact with your IDS.
 
 - This will interact with other modules so that the React front end can use this python app with ease especially the `NMAP` functionality
-	- Also figure out ahead of time how can you can dynamically use React to display a map of devices connected to a network Obsdidian style
+	- Also figure out ahead of time how can you can dynamically use React to display a map of devices connected to a network Obsidian style
