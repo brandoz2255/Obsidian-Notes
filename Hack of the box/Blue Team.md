@@ -94,6 +94,11 @@ Survive DDOS attack
 
 [[Terms.SecPlus]]
 
+
+##### Study Plan 
+
+[[Study Plan Sec+]]
+
 [[prompt]]
 
 **Part One**

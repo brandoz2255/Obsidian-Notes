@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Rice.md",
+                "file": "DES and 3DES.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blueprint modules.md",
+                "file": "Study Plan Sec+.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Rice.md",
+                "file": "Study Plan Sec+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Rice.md",
+                "file": "Study Plan Sec+.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Rice.md"
+                "file": "Study Plan Sec+.md"
               }
             }
           }
@@ -237,14 +237,18 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "20d710d600725ccf",
+  "active": "02c16b1b9f4869fa",
   "lastOpenFiles": [
+    "Hack of the box/Blue Team.md",
+    "Study Plan Sec+.md",
+    "road map.md",
+    "Cybersecurity.md",
+    "My Rice.md",
+    "cyber_stuff/Ciso/Red Hat Linux.md",
+    "blueprint modules.md",
+    "DES and 3DES.md",
     "screenshot27.png",
     "screenshot26.png",
-    "cyber_stuff/Ciso/Red Hat Linux.md",
-    "Cybersecurity.md",
-    "DES and 3DES.md",
-    "Hack of the box/Blue Team.md",
     "Security +.md",
     "Understanding Cryptography.md",
     "SYO-701 1.2 PT6.md",
@@ -257,16 +261,13 @@
     "Fleet.trash/flee.vid_1.md",
     "Fleet.trash/FInd command.md",
     "Fleet.trash/flee.day111.md",
-    "My Rice.md",
     "Magic Mirror list.md",
     "cyber_stuff/Computer Science 1.md",
     "To do List.md",
     "August plans.md",
     "week August 4th.md",
-    "blueprint modules.md",
     "Docker Container Rust edition.md",
     "Documentation.IDS.md",
-    "IDS.md",
     "Pasted image 20240804201836.png",
     "AES.png",
     "3DES.png",

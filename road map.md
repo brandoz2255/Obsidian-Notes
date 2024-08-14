@@ -1,4 +1,4 @@
-Certainly! Here's a suggested roadmap for studying for the CompTIA Security+ certification while balancing your other commitments and interests:
+
 
 1. **Set Clear Goals:**
     
