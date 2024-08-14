@@ -3,10 +3,10 @@
 # Next To-Do List
 
 ## First things first 
-- [ ] Gym 
-- [ ] Go to CSUSB
-	- [ ] ask about the Middle Class 
-	- [ ] Ask about the Loans basically you financial stuff 
+- [x] Gym ✅ 2024-08-14
+- [x] Go to CSUSB ✅ 2024-08-14
+	- [x] ask about the Middle Class ✅ 2024-08-14
+	- [x] Ask about the Loans basically you financial stuff ✅ 2024-08-14
 - [ ] Also buy the Fall parking pass ! 
 
 ## Study and Development
