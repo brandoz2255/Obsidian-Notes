@@ -37,3 +37,12 @@
 
 
 [[1.1 counting with sets]] 
+
+
+# Calculus 2 
+#### Lecture Notes 
+
+
+# Physics 
+
+#### Lecture Notes 

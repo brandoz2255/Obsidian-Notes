@@ -1,6 +1,8 @@
 
 
 
+[[Computer Science 2]] | Co noting with Assembly Class and will tie Malware Analysis and connect my C# notes
+
 [[To do List]]
 # SICP Edition index
 
@@ -63,6 +65,7 @@ Local Names 74
 This is for when we start class in spring takes notes in class about the CS principles for C++ but update them and incorporate new ideas into the other languages we know
 
 ## Lecture
+
 [[Why C++]]
 
 [[Operators]] 

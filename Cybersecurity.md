@@ -1,4 +1,13 @@
 [[To do List]]
+
+
+# Projects 
+### Im leading/Co leading
+
+Quad-C | Maybe 
+[[Malware Analysis]]
+[[Docker Container]]
+
 # Blue team Stuff 
 [[Blue team]]
 
