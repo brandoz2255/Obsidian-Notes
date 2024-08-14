@@ -47,8 +47,12 @@
             "id": "2b1295b28fdaeced",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blueprint modules.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -185,6 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blueprint modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,6 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blueprint modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +217,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blueprint modules.md"
+              }
             }
           }
         ]
@@ -235,15 +243,16 @@
   },
   "active": "2b1295b28fdaeced",
   "lastOpenFiles": [
+    "Documentation.IDS.md",
+    "IDS.md",
+    "Plans.md",
     "Computer Science 2.md",
+    "cyber_stuff/Computer Science 1.md",
     "Malware Analysis.md",
     "CSE/The Science side/C.md",
     "Cybersecurity.md",
     "cyber_stuff/Ciso/CISO.md",
-    "cyber_stuff/Computer Science 1.md",
     "Math.md",
-    "IDS.md",
-    "Plans.md",
     "week August 4th.md",
     "CSE/The Science side/CSE Intro to programming.md",
     "SICP.md",
@@ -262,7 +271,6 @@
     "SYO-701 1.2 PT6.md",
     "SYO-701 1.3 PT 1.md",
     "Proto Domain One.md",
-    "Goals of Cyptography.md",
     "PNG/Screenshot from 2023-11-09 23-17-32.png",
     "Pasted image 20240804201836.png",
     "AES.png",

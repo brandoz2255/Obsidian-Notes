@@ -14,6 +14,11 @@ This module will be responsible for gathering network data that needs to be anal
 After collecting the data, this module will process the raw data into a format suitable for analysis. This might include filtering, data cleaning, and preliminary data transformations.
 
 - Will communicate with Data collection module 
+- Read the data and include filtering 
+- Will include Data Cleaning feature 
+- will include Data transformations 
+- Will include displaying the mac addresses of each device on the network 
+- Continuously watch the data live 
 
 ### 3. **Machine Learning Module**
 
