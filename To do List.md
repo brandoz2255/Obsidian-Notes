@@ -89,4 +89,6 @@ the to do list for each day
 [[week August 4th]] Time to begin
 
 
+[[week of August 14th]]
+
 [[August rush goals]]

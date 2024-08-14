@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity.md",
+                "file": "week of August 14th.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blueprint modules.md",
+                "file": "week of August 14th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blueprint modules.md",
+                "file": "week of August 14th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blueprint modules.md"
+                "file": "week of August 14th.md"
               }
             }
           }
@@ -241,8 +241,12 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "2b1295b28fdaeced",
+  "active": "c0d38796474b00f1",
   "lastOpenFiles": [
+    "To do List.md",
+    "week of August 14th.md",
+    "Cybersecurity.md",
+    "blueprint modules.md",
     "Documentation.IDS.md",
     "IDS.md",
     "Plans.md",
@@ -250,7 +254,6 @@
     "cyber_stuff/Computer Science 1.md",
     "Malware Analysis.md",
     "CSE/The Science side/C.md",
-    "Cybersecurity.md",
     "cyber_stuff/Ciso/CISO.md",
     "Math.md",
     "week August 4th.md",
@@ -263,14 +266,11 @@
     "road map.md",
     "My Rice.md",
     "cyber_stuff/Ciso/Red Hat Linux.md",
-    "blueprint modules.md",
     "screenshot27.png",
     "screenshot26.png",
     "Security +.md",
     "Understanding Cryptography.md",
     "SYO-701 1.2 PT6.md",
-    "SYO-701 1.3 PT 1.md",
-    "Proto Domain One.md",
     "PNG/Screenshot from 2023-11-09 23-17-32.png",
     "Pasted image 20240804201836.png",
     "AES.png",
