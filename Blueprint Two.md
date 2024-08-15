@@ -34,6 +34,13 @@ sudo systemctl enable docker
 sudo usermod -aG docker $USER
 ```
 
+- - **Verification:** Run `docker --version` to confirm installation.
+- **Windows GUI Setup:**
+    - **Steps:**
+        - Download Docker Desktop from [Docker’s website](https://www.docker.com/).
+        - Follow the installation prompts.
+        - **Verification:** Open PowerShell or Command Prompt and run `docker --version`.
+
 #### **3. Basic Docker Commands and Concepts (20 minutes)**
 
 - **Objective:** Learn and practice essential Docker commands.
