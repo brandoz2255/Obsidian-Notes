@@ -103,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control types.md",
+                "file": "week of August 14th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Control types.md",
+                "file": "week of August 14th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Control types.md"
+                "file": "week of August 14th.md"
               }
             }
           }
@@ -240,12 +241,12 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "19cada320c559b7d",
+  "active": "c0d38796474b00f1",
   "lastOpenFiles": [
-    "Cybersecurity.md",
     "Study Plan Sec+.md",
-    "week of August 14th.md",
     "Control types.md",
+    "Cybersecurity.md",
+    "week of August 14th.md",
     "SYO-701 1.1.md",
     "Security +.md",
     "week August 4th.md",
