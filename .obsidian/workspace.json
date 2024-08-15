@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week August 4th.md",
+                "file": "Control types.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack of the box/Blue Team.md",
+                "file": "Study Plan Sec+.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week of August 14th.md",
+                "file": "Control types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "week of August 14th.md",
+                "file": "Control types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "week of August 14th.md"
+                "file": "Control types.md"
               }
             }
           }
@@ -241,11 +240,17 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "c0d38796474b00f1",
+  "active": "19cada320c559b7d",
   "lastOpenFiles": [
-    "To do List.md",
-    "week of August 14th.md",
     "Cybersecurity.md",
+    "Study Plan Sec+.md",
+    "week of August 14th.md",
+    "Control types.md",
+    "SYO-701 1.1.md",
+    "Security +.md",
+    "week August 4th.md",
+    "Hack of the box/Blue Team.md",
+    "To do List.md",
     "blueprint modules.md",
     "Documentation.IDS.md",
     "IDS.md",
@@ -256,21 +261,15 @@
     "CSE/The Science side/C.md",
     "cyber_stuff/Ciso/CISO.md",
     "Math.md",
-    "week August 4th.md",
     "CSE/The Science side/CSE Intro to programming.md",
     "SICP.md",
     "Magic Mirror list.md",
     "DES and 3DES.md",
-    "Hack of the box/Blue Team.md",
-    "Study Plan Sec+.md",
     "road map.md",
     "My Rice.md",
     "cyber_stuff/Ciso/Red Hat Linux.md",
     "screenshot27.png",
     "screenshot26.png",
-    "Security +.md",
-    "Understanding Cryptography.md",
-    "SYO-701 1.2 PT6.md",
     "PNG/Screenshot from 2023-11-09 23-17-32.png",
     "Pasted image 20240804201836.png",
     "AES.png",

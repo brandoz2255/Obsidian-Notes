@@ -10,11 +10,11 @@
 - [ ] Also buy the Fall parking pass ! 
 
 ## Study and Development
-- [ ] Security+ | 2 hours
+- [x] Security+ | 2 hours ✅ 2024-08-14
 - [ ] IDS Development Project | 1.5 hours
 - [ ] Research for Docker Recreation Project in Rust | 1.5 hours
 - [ ] Docker Project | 1 hour or 30 minutes
-- [ ] Learn C# and do something small with it | 30 minutes
+- [x] Learn C# and do something small with it | 30 minutes ✅ 2024-08-14
 
 ## Technical Practice
 - [ ] LeetCode | 1 hour
@@ -34,3 +34,4 @@
 - [ ] Search for beginner lockpicking set and read Locksport | 1 hour
 
 
+Continue this tomorrow! 
