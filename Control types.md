@@ -5,7 +5,7 @@ its controls that stop attackers form accessing a system and data.
 
 - **Access Controls**: ensures that only Authorized individuals can access a systems  
 
-j
+
 ### Deterrent Controls 
 
 Its supposed to discourage attackers from attempting to breach security
