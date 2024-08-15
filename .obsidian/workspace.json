@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack of the box/Blue Team.md",
+                "file": "Blueprint Two.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week of August 14th.md",
+                "file": "Blueprint Two.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "week of August 14th.md",
+                "file": "Blueprint Two.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "week of August 14th.md"
+                "file": "Blueprint Two.md"
               }
             }
           }
@@ -241,16 +241,22 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "c0d38796474b00f1",
+  "active": "02c16b1b9f4869fa",
   "lastOpenFiles": [
+    "Docker Container.md",
+    "Blueprint Two.md",
+    "Blueprint one.md",
+    "Docker Container Rust edition.md",
+    "week of August 14th.md",
+    "mini Projects.md",
+    "Final Project.md",
+    "Cybersecurity.md",
+    "Hack of the box/Blue Team.md",
     "Study Plan Sec+.md",
     "Control types.md",
-    "Cybersecurity.md",
-    "week of August 14th.md",
     "SYO-701 1.1.md",
     "Security +.md",
     "week August 4th.md",
-    "Hack of the box/Blue Team.md",
     "To do List.md",
     "blueprint modules.md",
     "Documentation.IDS.md",
@@ -263,12 +269,6 @@
     "cyber_stuff/Ciso/CISO.md",
     "Math.md",
     "CSE/The Science side/CSE Intro to programming.md",
-    "SICP.md",
-    "Magic Mirror list.md",
-    "DES and 3DES.md",
-    "road map.md",
-    "My Rice.md",
-    "cyber_stuff/Ciso/Red Hat Linux.md",
     "screenshot27.png",
     "screenshot26.png",
     "PNG/Screenshot from 2023-11-09 23-17-32.png",

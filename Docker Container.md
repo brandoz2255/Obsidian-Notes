@@ -2,7 +2,12 @@
 
 [[Blueprint one]]
 
+[[Blueprint Two]]
 
+
+[[mini Projects ]]| For each week  
+
+[[Final Project ]]
 
 # Docker
 
