@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprint Two.md",
+                "file": "mini Projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blueprint Two.md",
+                "file": "mini Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blueprint Two.md",
+                "file": "mini Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blueprint Two.md"
+                "file": "mini Projects.md"
               }
             }
           }
@@ -244,8 +244,8 @@
   "active": "02c16b1b9f4869fa",
   "lastOpenFiles": [
     "Docker Container.md",
-    "Blueprint one.md",
     "Blueprint Two.md",
+    "Blueprint one.md",
     "Docker Container Rust edition.md",
     "week of August 14th.md",
     "mini Projects.md",

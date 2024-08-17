@@ -51,7 +51,7 @@ Quad-C | Maybe
 
 [[perm.VLSM.notes]]
 
-[[flee.day111]]
+[[cyber_stuff/Ciso/flee.day111]]
 
 
 [[The CLI]]

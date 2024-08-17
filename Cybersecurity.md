@@ -189,7 +189,7 @@ Index
 
 [[perm.VLSM.notes]]
 
-[[flee.day111]]
+[[CSE/flee.day111]]
 
 
 [[The CLI]]
