@@ -68,24 +68,24 @@
             }
           },
           {
-            "id": "20d710d600725ccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DES and 3DES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "02c16b1b9f4869fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "mini Projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a04e5516dc0d95c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DES and 3DES.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mini Projects.md",
+                "file": "week of August 14th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mini Projects.md",
+                "file": "week of August 14th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mini Projects.md"
+                "file": "week of August 14th.md"
               }
             }
           }
@@ -241,14 +241,17 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "02c16b1b9f4869fa",
+  "active": "c0d38796474b00f1",
   "lastOpenFiles": [
+    "blueprint modules.md",
+    "Magic Mirror list.md",
+    "DES and 3DES.md",
+    "Docker Container Rust edition.md",
+    "mini Projects.md",
     "Docker Container.md",
     "Blueprint Two.md",
     "Blueprint one.md",
-    "Docker Container Rust edition.md",
     "week of August 14th.md",
-    "mini Projects.md",
     "Final Project.md",
     "Cybersecurity.md",
     "Hack of the box/Blue Team.md",
@@ -258,7 +261,6 @@
     "Security +.md",
     "week August 4th.md",
     "To do List.md",
-    "blueprint modules.md",
     "Documentation.IDS.md",
     "IDS.md",
     "Plans.md",
@@ -267,8 +269,6 @@
     "Malware Analysis.md",
     "CSE/The Science side/C.md",
     "cyber_stuff/Ciso/CISO.md",
-    "Math.md",
-    "CSE/The Science side/CSE Intro to programming.md",
     "screenshot27.png",
     "screenshot26.png",
     "PNG/Screenshot from 2023-11-09 23-17-32.png",
