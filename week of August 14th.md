@@ -54,3 +54,8 @@ Continue this tomorrow!
 ## Career Development
 - [ ] Resume tweaks
 - [ ] Internship hunting
+
+
+# August 18th  
+
+

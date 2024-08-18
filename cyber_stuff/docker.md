@@ -15,6 +15,11 @@ In summary, Docker makes it easier to develop, ship, and run applications by usi
 Phind-70B[Shareable](https://www.phind.com/search?cache=jx3qshusujq0zwjdih7gieis)
 
 
-so docker lets say im making a web app within a docker container I can easily move arouund pc to pc and continue running it and updating as i please and if i send it someone they can to also can i move it from server to server like lets i want it hosted ??
+so docker lets say im making a web app within a docker container I can easily move around pc to pc and continue running it and updating as i please and if i send it someone they can to also can i move it from server to server like lets i want it hosted ??
 
 Yes, exactly! Docker's ***`primary advantage lies in its ability to package an application along with its environment and dependencies into a container. This container can then be easily moved around from PC to PC,`*** or `from a personal computer to a server`, without worrying about compatibility issues or missing dependencies. Here's how it works in the context of developing, sharing, and hosting a web application:
+
+
+- In order for everything to work the Docker Engine is needed 
+
+- its the dependency that lets Docker do its thing
