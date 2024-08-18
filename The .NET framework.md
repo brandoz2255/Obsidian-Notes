@@ -10,4 +10,4 @@
 - Three phases of dve of .NET tech 
 	- OLE tech 
 	- COM tech 
-	- .NET tech
+	- .NET techs
