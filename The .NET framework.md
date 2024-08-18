@@ -1,0 +1,13 @@
+- .NET is a dev framework created by microsoft 
+- provides a runtime envirement and libs and tools 
+- includes a variety of programming languages, such as 
+- C#, F#, and Visual Basic, and supports a range of application types, including desktop, web, mobile, and gaming applications.
+- Includes two main components CLR and .NET framwork class library  
+- support for a variety of languages 
+- .NET framework also provides features for security realiablity and performance of applications
+- JIT Compilation , Code access security , automatic memory management 
+- also made for microsoft SQL server Microsoft SharePoint, and Microsoft Office
+- Three phases of dve of .NET tech 
+	- OLE tech 
+	- COM tech 
+	- .NET tech

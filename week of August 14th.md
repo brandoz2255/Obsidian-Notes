@@ -40,12 +40,13 @@ Continue this tomorrow!
 ## Study and Development
 - [ ] Security+ | 4 hours
 - [ ] IDS Development Project | 1.5 hours
-- [ ] Docker Project | 1.5 hours
-- [ ] C# Studying | 30 minutes
+- [x] Docker Project | 1.5 hours ✅ 2024-08-16
+- [x] C# Studying | 30 minutes ✅ 2024-08-16
 
 ## Technical Practice
 - [ ] LeetCode | 1 hour
 - [ ] Hack The Box | 1 hour
+- [ ] Geeks for Geeks | 1 hour
 
 ## Reading
 - [ ] Read SICP | 1 hour
