@@ -58,4 +58,28 @@ Continue this tomorrow!
 
 # August 18th  
 
+# Next To-Do List
+
+## Morning
+- [ ] Gym at 7:00 AM
+
+## Afternoon
+- [ ] Hang out with Dad (may take up to 4 hours)
+
+## Study and Development
+- [ ] Security+ study
+- [ ] Docker Project reading
+- [ ] C# reading
+- [ ] SICP reading
+- [ ] Rust reading
+
+## Technical Practice
+- [ ] IDS Development
+- [ ] LeetCode
+- [ ] GeeksforGeeks practice
+- [ ] Hack The Box
+
+## Career Development
+- [ ] Resume tweaks
+- [ ] Internship hunt
 
