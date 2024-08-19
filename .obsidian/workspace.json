@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Plan Sec+.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0d38796474b00f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "week of August 14th.md",
                 "mode": "source",
                 "source": false
@@ -104,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,16 +229,18 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "c0d38796474b00f1",
+  "active": "d22db918cc973846",
   "lastOpenFiles": [
+    "To do List.md",
+    "Study Plan Sec+.md",
+    "The .NET framework.md",
+    "DES and 3DES.md",
+    "week of August 14th.md",
     "Docker Container.md",
     "cyber_stuff/docker.md",
     "History of Docker.md",
     "Cybersecurity.md",
     "blueprint modules.md",
-    "The .NET framework.md",
-    "Study Plan Sec+.md",
-    "week of August 14th.md",
     "Magic Mirror list.md",
     "C-sharp.md",
     "Introduction to C sharp.md",
@@ -258,7 +248,6 @@
     "CSE/The Science side/C.md",
     "Docker Container Rust edition.md",
     "Control types.md",
-    "DES and 3DES.md",
     "mini Projects.md",
     "Blueprint Two.md",
     "Blueprint one.md",
@@ -267,7 +256,6 @@
     "SYO-701 1.1.md",
     "Security +.md",
     "week August 4th.md",
-    "To do List.md",
     "Documentation.IDS.md",
     "screenshot27.png",
     "screenshot26.png",

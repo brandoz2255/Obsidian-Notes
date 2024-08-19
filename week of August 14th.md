@@ -61,14 +61,14 @@ Continue this tomorrow!
 # Next To-Do List
 
 ## Morning
-- [ ] Gym at 7:00 AM
+- [x] Gym at 7:00 AM ✅ 2024-08-18
 
 ## Afternoon
-- [ ] Hang out with Dad (may take up to 4 hours)
+- [x] Hang out with Dad (may take up to 4 hours) ✅ 2024-08-18
 
 ## Study and Development
 - [ ] Security+ study
-- [ ] Docker Project reading
+- [x] Docker Project reading ✅ 2024-08-18
 - [ ] C# reading
 - [ ] SICP reading
 - [ ] Rust reading
