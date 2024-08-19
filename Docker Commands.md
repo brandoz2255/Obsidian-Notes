@@ -38,4 +38,24 @@ Docker is an Open-Source Project that automates the deployment of applications
 		- `-d` flag is for running commands in the background
 		- `-i` flag will keep the STDIN open 
 		- `-e` flag sets the environment variables 
-- 
+- docker ports (mapping)
+- in order to use a container in docker we must map the ports onto our host 
+- `docker run -d -p <port_on_host>`
+- `docker login`
+	- allows you to login and authenticate with docker hub so that we can push and pull our images at will 
+- `docker push <image name/ image id>`
+	- once we make a image using a docker file we need to store the image remotely 
+	- DockeHub is where one would do it 
+	- This is the command to do it
+- `docker build -t image_name:tag`
+	- This is the build to build docker images using dockerfile
+- `docker stop container_name_or_id` 
+	- we can stop a container or start wherever we want to do maintenance for the containers with this command
+- `docker stop container1 container2 container3` 
+	- instead of stopping a single container we can stop multiple at a time 
+- `docker restart container_name_or_id` 
+	-  this restarts the container id if one detects errors or if it fails to start 
+- `docker inspect container_name/id`
+	- can debug the containers errors in real time with this command 
+- `docker commit container_name_or_id` 
+	- we can make updates to the containers with this command 
