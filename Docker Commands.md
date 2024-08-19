@@ -59,3 +59,70 @@ Docker is an Open-Source Project that automates the deployment of applications
 	- can debug the containers errors in real time with this command 
 - `docker commit container_name_or_id` 
 	- we can make updates to the containers with this command 
+
+-------------------------------------------------
+
+### Docker Commands Overview
+
+Docker allows you to run containers either locally or in the cloud. While Docker offers a vast array of commands, this guide focuses on the most essential ones.
+
+#### Running Containers
+
+- **`docker run <image_name>`**: Runs a container from a specified image. This command is a combination of the `docker start` and `docker create` commands.
+    
+    - **Example**: `docker run redis` runs a container from the Redis image.
+- **`docker run --name <container_name> <image_name>`**: Runs a container with a specified name.
+    
+
+#### Managing Images
+
+- **`docker pull <image_name>`**: Pulls an image from Docker Hub or another Docker registry. This command is used to download an image only if it exists in the registry.
+    
+- **`docker rmi <image_ID/image_name>`**: Deletes an image from the local Docker storage, which helps free up space by removing unused images.
+    
+- **`docker images`**: Lists all the images that have been pulled and are present on the system.
+    
+
+#### Managing Containers
+
+- **`docker ps [options...]`**: Lists all running containers. Various options can modify the output:
+    
+    - `-a`: Shows all containers, both stopped and running.
+    - `-l`: Shows the most recently created container.
+    - `-q`: Displays only the container IDs.
+- **`docker stop <container_ID>`**: Stops a running container. Useful for stopping a container that has crashed or that you no longer need to run.
+    
+- **`docker start <container_ID>`**: Starts a stopped container, allowing you to resume its operations.
+    
+- **`docker rm <container_ID/name>`**: Removes a container by its ID or name.
+    
+    - `-f`: Forces the removal of a running container.
+    - `-v`: Removes associated volumes.
+    - `-l`: Removes a specific link.
+- **`docker exec`**: Executes commands inside a running container.
+    
+    - `-d`: Runs commands in the background.
+    - `-i`: Keeps STDIN open.
+    - `-e`: Sets environment variables.
+- **`docker ports (mapping)`**: Maps container ports to host ports for accessing the container’s services from the host.
+    
+    - **Example**: `docker run -d -p <host_port>:<container_port>`.
+- **`docker stop container1 container2 container3`**: Stops multiple containers at once, which is useful for managing several containers simultaneously.
+    
+- **`docker restart <container_ID/name>`**: Restarts a container, which is helpful for debugging or if the container fails to start.
+    
+- **`docker inspect <container_ID/name>`**: Provides detailed information about a container, which is useful for real-time debugging.
+    
+
+#### Image and Container Management
+
+- **`docker commit <container_ID/name>`**: Commits changes to a container, allowing you to update or modify an existing container.
+    
+- **`docker build -t <image_name:tag>`**: Builds a Docker image from a Dockerfile and tags it with a specific name.
+    
+
+#### Docker Hub and Image Sharing
+
+- **`docker login`**: Authenticates your Docker client with Docker Hub, allowing you to push and pull images.
+    
+- **`docker push <image_name/image_id>`**: Pushes an image to a remote registry, such as Docker Hub, after it has been built and tagged locally.
