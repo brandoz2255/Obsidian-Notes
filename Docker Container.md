@@ -26,5 +26,7 @@ Docker is written in the `GO` langauge
 
 [[Docker Commands]] 
 
+[[Run commands in Docker]]
+
 
 

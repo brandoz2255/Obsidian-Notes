@@ -1,6 +1,11 @@
 
 #rust 
-###
+### beginning
+[[installation]] 
+
+[[Hello World]]
+
+[[Hello Cargo]]
 ###
 ###
 ###

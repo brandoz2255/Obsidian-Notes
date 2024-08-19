@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker Container.md",
+                "file": "Hello Cargo.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker Container.md",
+                "file": "Hello Cargo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker Container.md",
+                "file": "Hello Cargo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker Container.md"
+                "file": "Hello Cargo.md"
               }
             }
           }
@@ -231,11 +231,19 @@
   },
   "active": "2b1295b28fdaeced",
   "lastOpenFiles": [
-    "Docker Commands.md",
+    "cyber_stuff/Ciso/Rust.md",
+    "Hello Cargo.md",
+    "Hello World.md",
+    "installation.md",
+    "screenshot28.png",
+    "Computer Science 2.md",
+    "chapter two Data Abstraction.md",
+    "2.2 && 2.2.1.md",
     "Docker Container.md",
+    "week of August 14th.md",
+    "Docker Commands.md",
     "Docker Installation.md",
     "History of Docker.md",
-    "week of August 14th.md",
     "To do List.md",
     "Study Plan Sec+.md",
     "The .NET framework.md",
@@ -250,13 +258,6 @@
     "CSE/The Science side/C.md",
     "Docker Container Rust edition.md",
     "Control types.md",
-    "mini Projects.md",
-    "Blueprint Two.md",
-    "Blueprint one.md",
-    "Final Project.md",
-    "Hack of the box/Blue Team.md",
-    "SYO-701 1.1.md",
-    "Security +.md",
     "screenshot27.png",
     "screenshot26.png",
     "PNG/Screenshot from 2023-11-09 23-17-32.png",
@@ -266,7 +267,6 @@
     "DES_2.png",
     "DES.png",
     "IMG_7154.jpg",
-    "2024-04-15_16-36.png",
     "Untitled.canvas",
     "C++ password manager",
     "cyber_stuff/Zettlekasten",

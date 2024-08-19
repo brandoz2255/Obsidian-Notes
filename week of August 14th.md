@@ -71,7 +71,7 @@ Continue this tomorrow!
 - [x] Docker Project reading ✅ 2024-08-18
 - [ ] C# reading
 - [ ] SICP reading
-- [ ] Rust reading
+- [x] Rust reading ✅ 2024-08-18
 
 ## Technical Practice
 - [ ] IDS Development
