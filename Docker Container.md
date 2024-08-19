@@ -13,8 +13,18 @@
 
 notes for docker to use in slides and for project 
 s
+
+Docker is written in the `GO` langauge 
+
+
 [[Docker]]
 
 [[History of Docker]]
+
+
+[[Docker Installation]]
+
+[[Docker Commands]] 
+
 
 

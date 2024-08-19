@@ -1,0 +1,41 @@
+In this part of the Docker training its just the basic usage of Docker and how to use it and command it on what to do 
+
+Docker is an Open-Source Project that automates the deployment of applications 
+
+- you can run these independent containers either locally or in the cloud 
+- there is alot of commands in docker but we will look at just the top commands
+- `docker run <image_name>`
+	- used to run containers from an image 
+	- combination of the docker start and docker create commands 
+- `docker run --name <container_name> <image_name>`
+- `docker run redis`
+- `docker pull <image_name>`
+	- This command allows to pull any image you want 
+	- which only if its present in the registry of docker or *Docker Hub*
+- `docker ps`
+	- kinda like ls but for docker just lists all of the running containers 
+		- `-a` flag means show all the containers stopped or running 
+		- `-l` flag shows the latest containers
+		- `-q` shows only the id of the containers 
+- `docker ps [options...]` 
+- `docker stop <container_ID>`
+	- this command allows for you to stop a container in case it crashes or if you just want to stop it
+- `docker start <container_ID>`
+	- this command allows you to start the stopped container again  
+- `docker rm`
+	- this container allows fort he deletion of a container you can use the id or the name of the container
+		- `-f` flag allows to remove the container forcefully 
+		- `-v` flag allows you to remove the volumes
+		- `-l` flagremoves the specific link 
+- `docker rmi <image ID/ image name>` 
+	- This command allows for the deletion of the image in docker 
+	- Helps with freeing up space by removing useless images from the docker local storage
+- `docker images`
+	- lists all of the puiled images that are present in the system 
+- `docker exec`
+	- this command allows you to run new commands in a container
+	- Only works whent he container is running 
+		- `-d` flag is for running commands in the background
+		- `-i` flag will keep the STDIN open 
+		- `-e` flag sets the environment variables 
+- 
