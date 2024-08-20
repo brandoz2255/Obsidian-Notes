@@ -102,13 +102,13 @@ Survive DDOS attack
 [[prompt]]
 
 **Part One**
-[[SYO-701 1.1]] : Control Types     [[Co ntrol types]]
+[[SYO-701 1.1]] : Control Types     [[Control types]]
 
 [[SYO-701 1.2]] : [[CIA Triad]] 
 
 [[SYO-701 1.2 pt 2]] : [[AAA servers and Zero trust]] 
 
-[[SYO-701 1.2 pt3]] : GAP Analysis 
+[[SYO-701 1.2 pt3]] : [[GAP Analysis]] 
 
 [[SYO-701 1.2 pt4]] : Zero Trust 
 
@@ -154,12 +154,28 @@ Survive DDOS attack
 
 [[Quantum Cryptography]]
 
+[[tor and Perfect forward secrecy]]
 
-[[1.1 quiz]] : Notes 
+[[Asym Quiz]]
+## Key management 
 
-[[1.2 quiz]] : Notes
+[[Key Exchange]]
 
+[[Diffie-Hellman Algorithim]]
 
+[[Key escrow]]
+
+[[Key stretching]]
+
+[[Hardware Security modules]]
+
+[[Key management Quiz]]
+
+## Public Key Infrastructure
+
+[[Trust Models ]]
+
+PKI and digital certificates
 
 # Linux+ 
 #redhat 

@@ -11,8 +11,8 @@ How RSA works :
 
 - **Public and Private Keys**: The algorithm generates a public key and a private key. The public Key is distributed openly where the private key is kept secret by the owner. 
 
-- **Encryption:** The sender encrypts the message using the recipient’s public key.
-- **Decryption:** The recipient decrypts the message using their private key.
+- **Encryption:** The sender encrypts the message using the *recipient*’s public key.
+- **Decryption:** The recipient decrypt's the message using their private key.
 
 - RSA is often used to securely exchange symmetric keys, as the algorithm itself is computationally intensive and slower for encrypting large volumes of data.
 

@@ -70,7 +70,7 @@ Continue this tomorrow!
 - [ ] Security+ study
 - [x] Docker Project reading ✅ 2024-08-18
 - [ ] C# reading
-- [ ] SICP reading
+- [x] SICP reading ✅ 2024-08-18
 - [x] Rust reading ✅ 2024-08-18
 
 ## Technical Practice
@@ -83,3 +83,27 @@ Continue this tomorrow!
 - [ ] Resume tweaks
 - [ ] Internship hunt
 
+
+# 19th 
+
+# Next To-Do List
+
+## Morning
+- [x] Gym at 7:00 AM ✅ 2024-08-19
+
+## Study and Development
+- [ ] Security+ study | 3 hours 
+- [ ] Docker Project reading
+- [ ] C# reading
+- [ ] SICP reading
+- [ ] Rust reading
+
+## Technical Practice
+- [ ] IDS Development
+- [ ] LeetCode
+- [ ] GeeksforGeeks practice
+- [ ] Hack The Box
+
+## Career Development
+- [ ] Resume tweaks
+- [ ] Internship hunt

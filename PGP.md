@@ -13,7 +13,7 @@
     - It is widely used today, and OpenPGP, a non-proprietary version, is available for free use and distribution.
 
 How it works: 
-- *PGP* sues both *symmetric* and *asymmetric* cryptography to encrypt data
+- *PGP* uses both *symmetric* and *asymmetric* cryptography to encrypt data
 - **Symmetric Crytpography**: used for encrypting the message content. A symmetric session key is generated to encrypt the data as symmetric is faster. 
 - **Asymmetric Cryptography**: used for encrypting  the symmetric session key. where each use has a public and private key pair, where the public is openly distributed, and the private key is kept secret. 
 

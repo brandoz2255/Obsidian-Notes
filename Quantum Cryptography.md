@@ -1,18 +1,3 @@
-- Elliptic Curve and Quantum Cyrptography
-- Asymmetric Cryptography is based upon the difficulty of solving complex math problems
-- Prime Numbers are divisble by themselvs and 1 
-- FFactoring Prime numbbers 
-	- 15 is th product of two primes 
-	- 21 as well 
-	- RSA use much larger prime numbers like 33878633 we wont be able to find the primes quickly 
-	- Findin a way to solve the rpome factor probl;em would rbeak  modern cryptography 
-	- ECC aka Elliptic curce cryptography uses the EC discrete log problem 
-	- Exam Tips different  approach them prime numbers just remember thats all we need to know (but as a computer scientist i am curious on fully understanding the background ill lok it up when i have time)
-	- Quantum computing 
-		- can defeat prime numbers 
-		- ECC wont providfe agaisnt quantum attacks 
-		- Quantum may be used to develope stronger crytography 
-
 
 **Elliptic Curve Cryptography**(*ECC*): Is an asymmetric encryption technique that relies on the mathematical properties of elliptic curves to provide security. It offers strong security with shorter key lengths compared to traditional algorithms like RSA
 
