@@ -12,7 +12,7 @@
 # Docker
 
 notes for docker to use in slides and for project 
-s
+
 
 Docker is written in the `GO` langauge 
 

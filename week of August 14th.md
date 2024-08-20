@@ -92,7 +92,7 @@ Continue this tomorrow!
 - [x] Gym at 7:00 AM ✅ 2024-08-19
 
 ## Study and Development
-- [ ] Security+ study | 3 hours 
+- [x] Security+ study | 3 hours ✅ 2024-08-19
 - [ ] Docker Project reading
 - [ ] C# reading
 - [ ] SICP reading
@@ -105,5 +105,5 @@ Continue this tomorrow!
 - [ ] Hack The Box
 
 ## Career Development
-- [ ] Resume tweaks
-- [ ] Internship hunt
+- [x] Resume tweaks ✅ 2024-08-19
+- [x] Internship hunt ✅ 2024-08-19
