@@ -93,7 +93,7 @@ Continue this tomorrow!
 ha
 ## Study and Development
 - [x] Security+ study | 3 hours ✅ 2024-08-19
-- [ ] Docker Project reading
+- [x] Docker Project reading ✅ 2024-08-19
 - [ ] C# reading
 - [ ] SICP reading
 - [ ] Rust reading
