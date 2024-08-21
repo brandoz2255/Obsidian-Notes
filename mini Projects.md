@@ -1,5 +1,6 @@
 - **Honeypot Container:** Attracts and logs cyber-attacks.
 - **Security Testing Lab Container:** Hosts vulnerable applications for testing.
+- **Red vs Blue Lab Container**: 
 - **Incident Response Container:** Simulates a corporate network for incident analysis.
 
 After each workshop day we could make each container together and then finalize it with Kubernetes 

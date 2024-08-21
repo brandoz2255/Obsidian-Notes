@@ -1,3 +1,16 @@
+
+
+### **1. Understanding CI/CD**
+
+**CI/CD** stands for **Continuous Integration** and **Continuous Deployment** (or **Delivery**). It’s a set of practices that automate the process of integrating code changes, running tests, and deploying applications. Here’s a quick overview:
+
+- **Continuous Integration (CI)**: Automatically integrates code changes from multiple contributors into a shared repository. It typically involves automated testing to ensure code quality.
+- **Continuous Deployment/Delivery (CD)**: Automatically deploys the integrated code to production (or staging) environments. Continuous Deployment deploys changes to production automatically, while Continuous Delivery requires manual approval.
+
+Also want to add the Github actions 
+
+
+
 - **Backend Development (Python):**
     
     - **Setup Base Environment:** Start by setting up a Python environment, possibly using a virtual environment like `venv` or `conda`.

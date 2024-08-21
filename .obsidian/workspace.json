@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker Container.md",
+                "file": "mini Projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DES and 3DES.md",
+                "file": "Plans.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cyber_stuff/How to add.md",
+                "file": "Plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cyber_stuff/How to add.md",
+                "file": "Plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cyber_stuff/How to add.md"
+                "file": "Plans.md"
               }
             }
           }
@@ -233,17 +233,22 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "dbf51f45dc2030d2",
+  "active": "2a04e5516dc0d95c",
   "lastOpenFiles": [
-    "cyber_stuff/Computer Science 1.md",
+    "IDS.md",
+    "Computer Science 2.md",
+    "DES and 3DES.md",
+    "mini Projects.md",
     "Docker Container.md",
+    "Final Project.md",
+    "cyber_stuff/How to add.md",
+    "cyber_stuff/Computer Science 1.md",
     "Docker essentials.md",
     "week of August 14th.md",
     "2024-08-19_21-27.png",
     "What is Dockerfile.md",
     "docker slide 2.md",
     "2024-08-19_20-44.png",
-    "Computer Science 2.md",
     "Cybersecurity.md",
     "Untitled 1.canvas",
     "Magic Mirror list.md",
@@ -259,11 +264,6 @@
     "Key management Quiz.md",
     "Diffie-Hellman Algorithim.md",
     "Hardware Security modules.md",
-    "Key stretching.md",
-    "Key escrow.md",
-    "Key Exchange.md",
-    "Asym Quiz.md",
-    "PGP.md",
     "screenshot28.png",
     "screenshot27.png",
     "screenshot26.png",
