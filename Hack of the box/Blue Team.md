@@ -175,7 +175,25 @@ Survive DDOS attack
 
 [[Trust Models ]]
 
-PKI and digital certificates
+[[PKI and digital certificates]]
+
+[[Hash Functions]] | A lot of information here ! 
+
+[[Digital Signatures]]
+
+[[Digital Signature Standard]] 
+
+[[Create a digital certificate]]
+
+[[Revoke a Digital Certificate]]
+
+[[Certificate Stapling]] | review we eye balled this one 
+
+[[Certificate Authorities]]
+
+[[Certificate subjects]]
+
+Certificate Types
 
 # Linux+ 
 #redhat 

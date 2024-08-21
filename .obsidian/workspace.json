@@ -44,14 +44,6 @@
             }
           },
           {
-            "id": "a4dc9879b69244c3",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
             "id": "2a04e5516dc0d95c",
             "type": "leaf",
             "state": {
@@ -79,7 +71,7 @@
             "id": "16ae167086e423d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           },
@@ -94,9 +86,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d173bfa3db5b339a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security +.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -181,7 +185,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +201,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +211,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Plans.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -233,12 +233,28 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "2a04e5516dc0d95c",
+  "active": "16ae167086e423d5",
   "lastOpenFiles": [
+    "Security +.md",
+    "Hack of the box/Blue Team.md",
+    "Cybersecurity.md",
+    "Control types.md",
+    "Plans.md",
+    "Certificate subjects.md",
+    "Certificate Authorities.md",
+    "Certificate Stapling.md",
+    "Revoke a Digital Certificate.md",
+    "Create a digital certificate.md",
+    "Digital Signature Standard.md",
+    "Digital Signatures.md",
+    "Hash Functions.md",
+    "github.md",
+    "PKI and digital certificates.md",
+    "Trust Models.md",
+    "mini Projects.md",
     "IDS.md",
     "Computer Science 2.md",
     "DES and 3DES.md",
-    "mini Projects.md",
     "Docker Container.md",
     "Final Project.md",
     "cyber_stuff/How to add.md",
@@ -246,24 +262,8 @@
     "Docker essentials.md",
     "week of August 14th.md",
     "2024-08-19_21-27.png",
-    "What is Dockerfile.md",
-    "docker slide 2.md",
     "2024-08-19_20-44.png",
-    "Cybersecurity.md",
     "Untitled 1.canvas",
-    "Magic Mirror list.md",
-    "cyber_stuff/docker.md",
-    "Docker research.md",
-    "Hack of the box/Blue Team.md",
-    "What is Docker.md",
-    "slides docker 1.md",
-    "Docker Recreation.md",
-    "Hello Cargo.md",
-    "Study Plan Sec+.md",
-    "Trust Models.md",
-    "Key management Quiz.md",
-    "Diffie-Hellman Algorithim.md",
-    "Hardware Security modules.md",
     "screenshot28.png",
     "screenshot27.png",
     "screenshot26.png",

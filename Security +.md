@@ -41,3 +41,83 @@
 [[Domain One]]
 
 [[1.1 quiz]] 
+
+
+
+
+[[Proto Domain One]]
+
+
+## Cryptography
+***Part Two***
+[[Understanding Cryptography]]
+
+[[Goals of Cyptography]]
+
+[[Data Obfuscation  and de-identification ]]
+
+
+
+
+[[Things to remember]]
+
+***PART THREE***
+# Symmetric Cryptography
+
+[[DES and 3DES ]]
+
+[[AES, Blowfish, and Twofish]] 
+
+[[Steganography]]
+
+[[Symm Crypto Quiz]]
+
+
+# Asymmetric Cyrptography 
+
+[[RSA]]
+
+[[PGP]]
+
+[[Quantum Cryptography]]
+
+[[tor and Perfect forward secrecy]]
+
+[[Asym Quiz]]
+## Key management 
+
+[[Key Exchange]]
+
+[[Diffie-Hellman Algorithim]]
+
+[[Key escrow]]
+
+[[Key stretching]]
+
+[[Hardware Security modules]]
+
+[[Key management Quiz]]
+
+## Public Key Infrastructure
+
+[[Trust Models ]]
+
+[[PKI and digital certificates]]
+
+[[Hash Functions]] | A lot of information here ! 
+
+[[Digital Signatures]]
+
+[[Digital Signature Standard]] 
+
+[[Create a digital certificate]]
+
+[[Revoke a Digital Certificate]]
+
+[[Certificate Stapling]] | review we eye balled this one 
+
+[[Certificate Authorities]]
+
+[[Certificate subjects]]
+
+Certificate Types
