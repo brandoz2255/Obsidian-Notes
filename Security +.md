@@ -120,4 +120,5 @@
 
 [[Certificate subjects]]
 
-Certificate Types
+[[Certificate Types]]
+

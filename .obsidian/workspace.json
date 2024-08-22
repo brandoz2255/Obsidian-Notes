@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mini Projects.md",
+                "file": "to apply.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,6 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "to apply.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,6 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "to apply.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +213,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "to apply.md"
+              }
             }
           }
         ]
@@ -233,11 +237,15 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "16ae167086e423d5",
+  "active": "02c16b1b9f4869fa",
   "lastOpenFiles": [
-    "Security +.md",
-    "Hack of the box/Blue Team.md",
+    "project idea.work.md",
+    "to apply.md",
     "Cybersecurity.md",
+    "mini Projects.md",
+    "Security +.md",
+    "Certificate Types.md",
+    "Hack of the box/Blue Team.md",
     "Control types.md",
     "Plans.md",
     "Certificate subjects.md",
@@ -251,16 +259,12 @@
     "github.md",
     "PKI and digital certificates.md",
     "Trust Models.md",
-    "mini Projects.md",
     "IDS.md",
     "Computer Science 2.md",
     "DES and 3DES.md",
     "Docker Container.md",
     "Final Project.md",
     "cyber_stuff/How to add.md",
-    "cyber_stuff/Computer Science 1.md",
-    "Docker essentials.md",
-    "week of August 14th.md",
     "2024-08-19_21-27.png",
     "2024-08-19_20-44.png",
     "Untitled 1.canvas",
