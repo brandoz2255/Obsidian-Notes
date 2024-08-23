@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week of August 14th.md",
+                "file": "To do List.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leet code.md",
+                "file": "To do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leet code.md",
+                "file": "To do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leet code.md"
+                "file": "To do List.md"
               }
             }
           }
@@ -249,14 +249,24 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "9e1a124611dca525",
+  "active": "d22db918cc973846",
   "lastOpenFiles": [
-    "CSE/The Science side/C++.md",
-    "Leet code.md",
-    "C++ problem.md",
+    "School schedule.md",
+    "Mondays.md",
+    "26th.md",
+    "To do List.md",
+    "Cybersecurity.md",
+    "Computer Science 2.md",
     "cyber_stuff/Computer Science 1.md",
-    "cyber_stuff/How to add.md",
+    "Saturdays and Sundays.md",
+    "Fridays.md",
+    "Wednesdays.md",
+    "Tuesdays and Thursdays.md",
     "week of August 14th.md",
+    "Leet code.md",
+    "CSE/The Science side/C++.md",
+    "C++ problem.md",
+    "cyber_stuff/How to add.md",
     "STL action.md",
     "Security Testing Lab.md",
     "mini Projects.md",
@@ -265,18 +275,8 @@
     "What is Docker.md",
     "Docker Commands.md",
     "Docker essentials.md",
-    "Cybersecurity.md",
     "Control types.md",
     "to apply.md",
-    "project idea.work.md",
-    "Security +.md",
-    "Certificate Types.md",
-    "Hack of the box/Blue Team.md",
-    "Plans.md",
-    "Certificate subjects.md",
-    "Certificate Authorities.md",
-    "Certificate Stapling.md",
-    "Revoke a Digital Certificate.md",
     "2024-08-19_21-27.png",
     "2024-08-19_20-44.png",
     "Untitled 1.canvas",

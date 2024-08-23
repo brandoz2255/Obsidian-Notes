@@ -44,16 +44,16 @@ the to do list for each day
 
  [[Summer Goals]] 
 
-- [ ] Raspberry pi wall ad blocker 
-	- [ ] Figure out if we can make with the VPN
+- [x] Raspberry pi wall ad blocker ✅ 2024-08-22
+	- [x] Figure out if we can make with the VPN ✅ 2024-08-22
 
 - [ ] Raspberry pi home network copy from Alberto 
 
-- [ ] Proxmox Home lab/ Home lab/ what Christian did
-	- [ ]  Research the game plan for this 
+- [x] Proxmox Home lab/ Home lab/ what Christian did ✅ 2024-08-22
+	- [x] Research the game plan for this ✅ 2024-08-22
 
-- [ ] Build a Network scanner 
-	- [ ] Build alot of cyber tools attack and defense in C++/Python 
+- [x] Build a Network scanner ✅ 2024-08-22
+	- [x] Build alot of cyber tools attack and defense in C++/Python ✅ 2024-08-22
 
 - [ ] Build Awesome site with  Typescript and JS and React 
 	- [ ] Learn TS, JS,  and React 
@@ -92,3 +92,8 @@ the to do list for each day
 [[week of August 14th]]
 
 [[August rush goals]]
+
+
+# School Year 
+
+[[School schedule]] |  also write on agenda and adjust with a todo list  
