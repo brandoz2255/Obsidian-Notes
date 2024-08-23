@@ -1,3 +1,11 @@
+Kubernetes
+
+Honeypot container unique thing to add 
+
+[[Security Testing Lab]] Red team skills
+
+[[Incident Response Lab]] Blue team skills 
+
 - **Honeypot Container:** Attracts and logs cyber-attacks.
 - **Security Testing Lab Container:** Hosts vulnerable applications for testing.
 - **Red vs Blue Lab Container**: 
