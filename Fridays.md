@@ -28,3 +28,7 @@
     
     - **5:00 PM - onwards:** **Free Time/Networking**
         - Use this time to network, hang out with friends, or relax. You’ve earned it after a busy day.
+
+
+
+- In our free time we could read SICP/Ehack/lockpicking and leetcode htb and try hack me etc

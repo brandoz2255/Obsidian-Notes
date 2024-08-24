@@ -35,3 +35,5 @@
         - drive home 
     - **10:30 PM - 11:00 PM:** **Wind Down**
         - Relax and prepare for bed.
+
+- In our free time we could also read Lockpicking book 

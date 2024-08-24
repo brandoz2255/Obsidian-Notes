@@ -35,3 +35,10 @@
         - Remember only till 80%
     - **10:00 PM - 11:00 PM:** **Free Time/Wind Down**
         - sleep try to make bed 10:30 tops but if it goes to 11 don't cry 
+
+
+# To do list 
+
+#### day 28th 
+
+on Mondays and Wednesdays we can read *SICP* and *Ethical Hacking book since* we have more time 

@@ -1,4 +1,6 @@
 
+
+- Any time your not resume Tweaking or doing projs and HW we can *allocate time for LeetCode, Geeks4Geeks, HTB, and TryHackMe*
 ### **Monday to Thursday: Focus on Academics & Responsibilities**
 
 - **Morning:**

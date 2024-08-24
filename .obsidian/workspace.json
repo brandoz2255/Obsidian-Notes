@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To do List.md",
+                "file": "Fridays.md",
                 "mode": "source",
                 "source": false
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To do List.md",
+                "file": "Fridays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To do List.md",
+                "file": "Fridays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To do List.md"
+                "file": "Fridays.md"
               }
             }
           }
@@ -267,17 +267,17 @@
   },
   "active": "3a3386d4af39044c",
   "lastOpenFiles": [
-    "cyber_stuff/Computer Science 1.md",
-    "To do List.md",
     "School schedule.md",
+    "Tuesdays and Thursdays.md",
+    "Wednesdays.md",
     "Mondays.md",
+    "To do List.md",
+    "cyber_stuff/Computer Science 1.md",
     "26th.md",
     "Cybersecurity.md",
     "Computer Science 2.md",
     "Saturdays and Sundays.md",
     "Fridays.md",
-    "Wednesdays.md",
-    "Tuesdays and Thursdays.md",
     "week of August 14th.md",
     "Leet code.md",
     "CSE/The Science side/C++.md",

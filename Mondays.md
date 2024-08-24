@@ -18,6 +18,7 @@
     
     - **1:00 PM - 3:00 PM:** **Project Work (Docker Workshop Prep)**
         - Work on planning and preparation for your Docker Workshop, which will set you up for success on Friday.
+        - also could do leetcode/g4g/tryhackme/HTB
     - **3:00 PM - 4:00 PM:** **Security+ Study Session**
         - Review material from Domain 1 or begin Domain 2, focusing on areas that might be challenging.
 - **Late Afternoon:**
@@ -43,5 +44,7 @@
 # To do list 
 
 #### day August 26th 
+
+on Mondays and Wednesdays we can read SICP and Ethical Hacking book since we have more time 
 
 [[26th]] | Then you make a To Do list with ease for each time block 
