@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fridays.md",
+                "file": "School schedule.md",
                 "mode": "source",
                 "source": false
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fridays.md",
+                "file": "School schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fridays.md",
+                "file": "School schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fridays.md"
+                "file": "School schedule.md"
               }
             }
           }
@@ -267,12 +267,12 @@
   },
   "active": "3a3386d4af39044c",
   "lastOpenFiles": [
-    "Fridays.md",
+    "Mondays.md",
     "School schedule.md",
+    "To do List.md",
+    "Fridays.md",
     "Tuesdays and Thursdays.md",
     "Wednesdays.md",
-    "Mondays.md",
-    "To do List.md",
     "cyber_stuff/Computer Science 1.md",
     "26th.md",
     "Cybersecurity.md",
