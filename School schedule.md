@@ -87,4 +87,3 @@
 
 [[Saturdays and Sundays]]
 
-s
