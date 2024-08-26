@@ -79,8 +79,12 @@
             "id": "16ae167086e423d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School schedule.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -128,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -213,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "to apply.md",
+                "file": "School schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "to apply.md",
+                "file": "School schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "to apply.md"
+                "file": "School schedule.md"
               }
             }
           }
@@ -265,9 +269,16 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "9e1a124611dca525",
+  "active": "16ae167086e423d5",
   "lastOpenFiles": [
+    "Tuesdays and Thursdays.md",
+    "School schedule.md",
+    "Mondays.md",
+    "26th.md",
+    "To do List.md",
     "Cybersecurity.md",
+    "Malware Analysis.md",
+    "to apply.md",
     "Leet code.md",
     "blueprint modules.md",
     "Documentation.IDS.md",
@@ -275,14 +286,9 @@
     "IDS.md",
     "Computer Science 2.md",
     "cyber_stuff/How to add.md",
-    "School schedule.md",
-    "Mondays.md",
-    "To do List.md",
     "Fridays.md",
-    "Tuesdays and Thursdays.md",
     "Wednesdays.md",
     "cyber_stuff/Computer Science 1.md",
-    "26th.md",
     "Saturdays and Sundays.md",
     "week of August 14th.md",
     "CSE/The Science side/C++.md",
@@ -291,8 +297,6 @@
     "Security Testing Lab.md",
     "mini Projects.md",
     "Incident Response Lab.md",
-    "Docker Container.md",
-    "What is Docker.md",
     "2024-08-19_21-27.png",
     "2024-08-19_20-44.png",
     "Untitled 1.canvas",

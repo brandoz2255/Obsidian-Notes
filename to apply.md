@@ -1,5 +1,6 @@
 APPLICATION DEADLINE is **AUGUST 25th, 2024**! Apply for Cohort 5: https://docs.google.com/forms/d/1eWsSsflMdkjCcDNl3mHB2kymIoK1AW6p1O7iyCXdTL8/viewform?edit_requested=true
 
+- [x] WE applied to this one ✅ 2024-08-25
 
 
 This internship is good experience now find more
@@ -20,3 +21,6 @@ https://careers.mitre.org/us/en/jointalentcommunity
 
 
 found a [[project idea.work]] while looking at a job LMAO
+
+
+Also check for handshake as well!! 
