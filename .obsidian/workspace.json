@@ -35,8 +35,12 @@
             "id": "d22db918cc973846",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tuesdays and Thursdays.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -57,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans.md",
+                "file": "Incident Response Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School schedule.md",
+                "file": "Tuesdays and Thursdays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School schedule.md",
+                "file": "Tuesdays and Thursdays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School schedule.md"
+                "file": "Tuesdays and Thursdays.md"
               }
             }
           }
@@ -269,14 +273,21 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "16ae167086e423d5",
+  "active": "d22db918cc973846",
   "lastOpenFiles": [
-    "Tuesdays and Thursdays.md",
     "School schedule.md",
-    "Mondays.md",
-    "26th.md",
     "To do List.md",
     "Cybersecurity.md",
+    "26th.md",
+    "Mondays.md",
+    "Incident Response Lab.md",
+    "mini Projects.md",
+    "Security Testing Lab.md",
+    "STL action.md",
+    "Docker Container.md",
+    "Hack of the box/Blue Team.md",
+    "Plans.md",
+    "Tuesdays and Thursdays.md",
     "Malware Analysis.md",
     "to apply.md",
     "Leet code.md",
@@ -290,13 +301,6 @@
     "Wednesdays.md",
     "cyber_stuff/Computer Science 1.md",
     "Saturdays and Sundays.md",
-    "week of August 14th.md",
-    "CSE/The Science side/C++.md",
-    "C++ problem.md",
-    "STL action.md",
-    "Security Testing Lab.md",
-    "mini Projects.md",
-    "Incident Response Lab.md",
     "2024-08-19_21-27.png",
     "2024-08-19_20-44.png",
     "Untitled 1.canvas",
