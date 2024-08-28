@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "27.md",
+                "file": "28th august.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 2.md",
+                "file": "Intro to Data Structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doc.md",
+                "file": "28th august.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doc.md",
+                "file": "28th august.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doc.md"
+                "file": "28th august.md"
               }
             }
           }
@@ -273,13 +273,20 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "2a04e5516dc0d95c",
+  "active": "02c16b1b9f4869fa",
   "lastOpenFiles": [
-    "Web Dev.md",
     "Doc.md",
+    "Intro to Data Structures.md",
+    "Module 1-A.md",
     "Computer Science 2.md",
-    "cyber_stuff/Computer Science 1.md",
     "Calculus 2.md",
+    "28th august.md",
+    "Wednesdays.md",
+    "School schedule.md",
+    "Tuesdays and Thursdays.md",
+    "27.md",
+    "Web Dev.md",
+    "cyber_stuff/Computer Science 1.md",
     "cyber_stuff/Calculus 1.md",
     "4.4.md",
     "sources.md",
@@ -294,13 +301,6 @@
     "Docker essentials.md",
     "What is Dockerfile.md",
     "Cybersecurity.md",
-    "Hack of the box/Blue Team.md",
-    "Incident Response Lab.md",
-    "27.md",
-    "to apply.md",
-    "Trust Models.md",
-    "Certificate Formats.md",
-    "Certificate Types.md",
     "2024-08-19_21-27.png",
     "2024-08-19_20-44.png",
     "Untitled 1.canvas",
