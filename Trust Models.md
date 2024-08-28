@@ -1,28 +1,3 @@
-- Strong Cryptography always depends on some degree of trust 
-- depends on  a secure key exchange process 
-- requirements for a key exchange | The two parties must be confident that they are really communicationg with each other and that neither one is an imposter 
-- also tthat nobody is able ot eavesdrop onto the communication between the two parties on the key exchange 
-- Diffie hellmand helps but there has to another way to be 100 sure 
-- In asymmetric cryptography there are two keys and one that they dont need to share such as the private key 
--  can and should share the pub key 
-- Eavesdropping protection isnt needed during key exchange 
-- we still need to prevent imposters 
-- trust models 
-	- Personal knowledge 
-	- web of trust (WOT)
-	- public key infrastructure (PKI)
-- Web of trust  was introduced by Phil zimmerman which relies on indirect relationships 
-- you might know somoen who knows tht person 
-- like someon you meet on linkedIn
-- or maybe you know a person of  person of aperson 
-- Participants digitally sigmn the public keys of people they know personally 
-- when they verify when that ley belongs to that person 
-- and if the web becomes larger this allows more people to communicate with trust 
-- issues 
-	- WOT uses a decentralized approach 
-	- high barrier to new entry 
-	- good deal of technical knowledge 
-- PKI builds upon the web of trust conecpt but introducses centralized authority who make the process easier 
 
 ----
 
@@ -33,7 +8,7 @@ Strong cryptography relies on a certain degree of trust particularly in the key 
 1. They are genuinely communicating with each other and neither party is an imposter
 2. No one is eavesdropping on the key exchange process or their communication 
 
-While the Diffie-Hellman helps in securing keys to protect against imposters we need 
+While the *Diffie-Hellman* helps in securing keys to protect against imposters we need 
 
 #### Asymmetric Cryptography
 

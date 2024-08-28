@@ -16,6 +16,12 @@
 #### Notes 
 
 
+# Math part 2 | Second edition 
+
+#### Notes 
+
+[[Calculus 2 ]]
+
 [[Building Abstractions with Functions.1]]
 
 [[Building Abstractions with Functions.2]]
@@ -96,6 +102,7 @@
 
 [[Malware Analysis]]
 
+[[Web Dev]]
 #### Notes and Documentation 
 
 

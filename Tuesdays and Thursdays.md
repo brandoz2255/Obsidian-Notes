@@ -38,6 +38,6 @@
 
 - In our free time we could also read Lockpicking book 
 
-27 | Tuesday
+[[27]] | Tuesday
 
 29 | Wednesday
