@@ -10,3 +10,7 @@
 
 # Hands on learning 
 [[First Project]]
+
+# Next.js\
+
+[[Next.js]]

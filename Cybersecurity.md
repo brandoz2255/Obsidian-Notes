@@ -206,6 +206,8 @@ Index
 
 # Red team 
 
+[[Hack the Box]]
+
 [[Red team]]
 
 [[Getting Started]]
@@ -213,6 +215,7 @@ Index
 [[Network Mapper Fundamentals]]:
 
 [[Nibbbles]]
+
 
 
 

@@ -17,19 +17,19 @@
         - Apply what you’ve learned in lectures to hands-on projects or experiments.
 
 - **Afternoon:**
-    - [ ] **Lunch/Break | 3:00 PM - 4:00 PM**
+    - [x] **Lunch/Break | 3:00 PM - 4:00 PM** ✅ 2024-08-28
         - Take a well-deserved break and enjoy some lunch.
         - Also, drink the rest of the *Celsius*.
-    - [ ] **Work Block 2: Project Work | 4:00 PM - 6:00 PM**
+    - [x] **Work Block 2: Project Work | 4:00 PM - 6:00 PM** ✅ 2024-08-28
         - [ ] IDS AI Application Development
-        - [ ] Docker Recreation with Rust
-        - [ ] JavaScript Portfolio Project
+        - [x] Docker Recreation with Rust ✅ 2024-08-28
+        - [x] JavaScript Portfolio Project ✅ 2024-08-28
 
 - **Evening:**
-    - [ ] **Work Block 3: Career Development | 6:00 PM - 7:00 PM**
-        - [ ] Resume Tweaking
-        - [ ] Internship Applications
-    - [ ] **Gym Session | 7:00 PM - 8:00 PM**
+    - [x] **Work Block 3: Career Development | 6:00 PM - 7:00 PM** ✅ 2024-08-29
+        - [x] Resume Tweaking ✅ 2024-08-29
+        - [x] Internship Applications ✅ 2024-08-29
+    - [x] **Gym Session | 7:00 PM - 8:00 PM** ✅ 2024-08-29
         - Get your second workout in for the day.
     - [ ] **Work Block 4: Study & Practice | 8:00 PM - 9:00 PM**
         - [ ] Security+ Study

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trust Models.md",
+                "file": "cyber_stuff/Ciso/Overthewire.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,31 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "28th august.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a04e5516dc0d95c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7100d629a6f3b199",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro to Data Structures.md",
+                "file": "Fridays.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +61,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School schedule.md",
+                "file": "Nibbles cont.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a04e5516dc0d95c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hack of the box/challenge_nibblefoothold.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7100d629a6f3b199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "28th august.md",
+                "file": "to apply.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "28th august.md",
+                "file": "to apply.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "28th august.md"
+                "file": "to apply.md"
               }
             }
           }
@@ -273,45 +273,45 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "02c16b1b9f4869fa",
+  "active": "9e1a124611dca525",
   "lastOpenFiles": [
-    "Doc.md",
-    "Intro to Data Structures.md",
-    "Module 1-A.md",
-    "Computer Science 2.md",
-    "Calculus 2.md",
-    "28th august.md",
-    "Wednesdays.md",
+    "cyber_stuff/Ciso/Overthewire.md",
+    "Fridays.md",
+    "Nibbles cont.md",
+    "Hack of the box/challenge_nibblefoothold.md",
     "School schedule.md",
-    "Tuesdays and Thursdays.md",
-    "27.md",
-    "Web Dev.md",
+    "To do List.md",
     "cyber_stuff/Computer Science 1.md",
-    "cyber_stuff/Calculus 1.md",
-    "4.4.md",
-    "sources.md",
-    "midterm 2 study.md",
-    "4.1 derivatives test.md",
-    "2.3.md",
-    "3.1.md",
-    "The .NET framework.md",
-    "slides docker 1.md",
-    "What is Docker.md",
-    "Docker Container.md",
-    "Docker essentials.md",
-    "What is Dockerfile.md",
+    "29.md",
+    "to apply.md",
+    "Tuesdays and Thursdays.md",
+    "Hack of the box/Nibble Intial Foothold.md",
     "Cybersecurity.md",
+    "Hack the Box.md",
+    "Nibbbles.md",
+    "stuff proj.md",
+    "cyber_stuff/Ciso/Red Hat Linux.md",
+    "cyber_stuff/Ciso/CISO.md",
+    "Trust Models.md",
+    "Physics.md",
+    "Vectors.md",
+    "Computer Science 2.md",
+    "28th august.md",
+    "Next.js.md",
+    "React.js.md",
+    "Intro to Data Structures.md",
+    "2024-08-28_16-47.png",
+    "2024-08-28_16-38.png",
+    "2024-08-28_16-37.png",
+    "Docker.webp",
+    "docker1.png",
+    "2024-08-19_21-27 1.png",
+    "Docker Container.md",
     "2024-08-19_21-27.png",
     "2024-08-19_20-44.png",
     "Untitled 1.canvas",
     "screenshot28.png",
     "screenshot27.png",
-    "screenshot26.png",
-    "PNG/Screenshot from 2023-11-09 23-17-32.png",
-    "Pasted image 20240804201836.png",
-    "AES.png",
-    "3DES.png",
-    "DES_2.png",
     "Untitled.canvas",
     "C++ password manager",
     "cyber_stuff/Zettlekasten",

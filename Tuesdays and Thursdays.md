@@ -40,4 +40,4 @@
 
 [[27]] | Tuesday
 
-29 | Thursday
+[[29]] | Thursday
