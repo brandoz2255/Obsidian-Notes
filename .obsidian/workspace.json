@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fridays.md",
+                "file": "Saturday August 31.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,8 +119,12 @@
             "id": "07aae2799ae5d237",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "stuff proj.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -136,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -221,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "to apply.md",
+                "file": "Saturday August 31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "to apply.md",
+                "file": "Saturday August 31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "to apply.md"
+                "file": "Saturday August 31.md"
               }
             }
           }
@@ -273,40 +277,40 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "9e1a124611dca525",
+  "active": "02c16b1b9f4869fa",
   "lastOpenFiles": [
-    "cyber_stuff/Ciso/Overthewire.md",
+    "Saturdays and Sundays.md",
+    "Saturday August 31.md",
+    "School schedule.md",
+    "To do List.md",
+    "Cybersecurity.md",
     "Fridays.md",
     "Nibbles cont.md",
     "Hack of the box/challenge_nibblefoothold.md",
-    "School schedule.md",
-    "To do List.md",
+    "Next.js.md",
+    "Security +.md",
+    "stuff proj.md",
+    "Docker Container.md",
+    "cyber_stuff/How to add.md",
+    "to apply.md",
+    "cyber_stuff/Ciso/Overthewire.md",
     "cyber_stuff/Computer Science 1.md",
     "29.md",
-    "to apply.md",
     "Tuesdays and Thursdays.md",
     "Hack of the box/Nibble Intial Foothold.md",
-    "Cybersecurity.md",
     "Hack the Box.md",
     "Nibbbles.md",
-    "stuff proj.md",
     "cyber_stuff/Ciso/Red Hat Linux.md",
     "cyber_stuff/Ciso/CISO.md",
     "Trust Models.md",
     "Physics.md",
     "Vectors.md",
-    "Computer Science 2.md",
-    "28th august.md",
-    "Next.js.md",
-    "React.js.md",
-    "Intro to Data Structures.md",
     "2024-08-28_16-47.png",
     "2024-08-28_16-38.png",
     "2024-08-28_16-37.png",
     "Docker.webp",
     "docker1.png",
     "2024-08-19_21-27 1.png",
-    "Docker Container.md",
     "2024-08-19_21-27.png",
     "2024-08-19_20-44.png",
     "Untitled 1.canvas",

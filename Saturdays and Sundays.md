@@ -26,3 +26,6 @@
     
     - **7:00 PM - 8:00 PM:** Gym session.
     - **8:00 PM - onwards:** Free time or prepare for the week ahead. Light cardio if you feel up to it.
+
+
+[[Saturday August 31]]
