@@ -79,8 +79,12 @@
             "id": "16ae167086e423d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Saturday August 31.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -132,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -217,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preslides 1.md",
+                "file": "Saturday August 31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preslides 1.md",
+                "file": "Saturday August 31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preslides 1.md"
+                "file": "Saturday August 31.md"
               }
             }
           }
@@ -269,23 +273,24 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "2a04e5516dc0d95c",
+  "active": "16ae167086e423d5",
   "lastOpenFiles": [
-    "cyber_stuff/docker.md",
+    "Saturdays and Sundays.md",
+    "School schedule.md",
+    "To do List.md",
+    "Cybersecurity.md",
+    "Docker Container.md",
+    "to apply.md",
     "Preslides 1.md",
+    "cyber_stuff/docker.md",
     "History of Docker.md",
     "Docker research.md",
     "What is Dockerfile.md",
     "docker slide 2.md",
     "What is Docker.md",
     "slides docker 1.md",
-    "Docker Container.md",
-    "Cybersecurity.md",
     "Plans.md",
     "Saturday August 31.md",
-    "Saturdays and Sundays.md",
-    "School schedule.md",
-    "To do List.md",
     "stuff proj.md",
     "docker1.png",
     "Web Dev.md",
@@ -298,7 +303,6 @@
     "Hack the Box.md",
     "Docker.webp",
     "Doc.md",
-    "Certificate Formats.md",
     "2024-08-28_16-47.png",
     "2024-08-28_16-38.png",
     "2024-08-28_16-37.png",
