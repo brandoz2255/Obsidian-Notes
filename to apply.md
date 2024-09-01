@@ -24,3 +24,13 @@ found a [[project idea.work]] while looking at a job LMAO
 
 
 Also check for handshake as well!! 
+
+### PNNL internship 
+
+- Arcky might have the ablility to slide you an internship in **October** so have your Resume ready by then either by him or Christian/Alberto/jaylyn and Waleed use them 
+	- Also ask Friday, Nate, Yazan, and Mike and others 
+
+## List of Internships to apply to! 
+
+
+https://www.techopedia.com/top-cybersecurity-internships
