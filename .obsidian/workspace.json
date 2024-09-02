@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The .NET framework.md",
+                "file": "Saturdays and Sundays.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saturday August 31.md",
+                "file": "resources.tsx.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "to apply.md",
+                "file": "resources.tsx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "to apply.md",
+                "file": "resources.tsx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "to apply.md"
+                "file": "resources.tsx.md"
               }
             }
           }
@@ -273,16 +273,22 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "02c16b1b9f4869fa",
+  "active": "16ae167086e423d5",
   "lastOpenFiles": [
+    "Next.js.md",
+    "resources.tsx.md",
+    "first note.md",
+    "React.js.md",
+    "Computer Science 2.md",
     "Saturday August 31.md",
     "Saturdays and Sundays.md",
     "School schedule.md",
     "To do List.md",
     "Cybersecurity.md",
-    "Docker Container.md",
-    "to apply.md",
+    "The .NET framework.md",
     "Preslides 1.md",
+    "to apply.md",
+    "Docker Container.md",
     "cyber_stuff/docker.md",
     "History of Docker.md",
     "Docker research.md",
@@ -296,13 +302,7 @@
     "Web Dev.md",
     "Vectors.md",
     "Physics.md",
-    "Nibbles cont.md",
-    "Next.js.md",
-    "Module 1-A.md",
-    "Intro to Data Structures.md",
-    "Hack the Box.md",
     "Docker.webp",
-    "Doc.md",
     "2024-08-28_16-47.png",
     "2024-08-28_16-38.png",
     "2024-08-28_16-37.png",
