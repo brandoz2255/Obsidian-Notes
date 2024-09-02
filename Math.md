@@ -41,7 +41,7 @@
 
 # Calculus 2 
 #### Lecture Notes 
-
+[[Calculus 2 ]]
 
 # Physics 
 

@@ -53,6 +53,7 @@
 
 # Math part 2 | Second edition 
 
+[[Math]]
 #### Notes 
 
 [[Calculus 2 ]]

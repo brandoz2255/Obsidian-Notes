@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saturdays and Sundays.md",
+                "file": "September 2nd.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyber_stuff/How to add.md",
+                "file": "midterm 2 study.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources.tsx.md",
+                "file": "September 2nd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources.tsx.md",
+                "file": "September 2nd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources.tsx.md"
+                "file": "September 2nd.md"
               }
             }
           }
@@ -273,17 +273,26 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "16ae167086e423d5",
+  "active": "7100d629a6f3b199",
   "lastOpenFiles": [
-    "Next.js.md",
+    "Mondays.md",
+    "September 2nd.md",
+    "School schedule.md",
+    "Saturdays and Sundays.md",
+    "To do List.md",
+    "cyber_stuff/Computer Science 1.md",
+    "midterm 2 study.md",
+    "cyber_stuff/Calculus 1.md",
+    "4.1 derivatives test.md",
+    "Calculus 2.md",
+    "Computer Science 2.md",
+    "Math.md",
+    "cyber_stuff/How to add.md",
     "resources.tsx.md",
+    "Next.js.md",
     "first note.md",
     "React.js.md",
-    "Computer Science 2.md",
     "Saturday August 31.md",
-    "Saturdays and Sundays.md",
-    "School schedule.md",
-    "To do List.md",
     "Cybersecurity.md",
     "The .NET framework.md",
     "Preslides 1.md",
@@ -292,16 +301,7 @@
     "cyber_stuff/docker.md",
     "History of Docker.md",
     "Docker research.md",
-    "What is Dockerfile.md",
-    "docker slide 2.md",
-    "What is Docker.md",
-    "slides docker 1.md",
-    "Plans.md",
-    "stuff proj.md",
     "docker1.png",
-    "Web Dev.md",
-    "Vectors.md",
-    "Physics.md",
     "Docker.webp",
     "2024-08-28_16-47.png",
     "2024-08-28_16-38.png",
