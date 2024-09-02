@@ -1,11 +1,11 @@
 ### **Sunday: Focused Study, Coding, and Hacking Day**
 
 - **Morning:**
-    - [ ] **Gym Session | 7:00 AM - 8:30 AM**
+    - [x] **Gym Session | 7:00 AM - 8:30 AM** ✅ 2024-09-02
         - Start your day with a workout to boost your energy.
-    - [ ] **Breakfast/Break/Shower | 8:30 AM - 9:00 AM**
+    - [x] **Breakfast/Break/Shower | 8:30 AM - 9:00 AM** ✅ 2024-09-02
         - Refuel after your workout.
-    - [ ] **Physics Study Session | 9:00 AM - 11:00 AM**
+    - [x] **Physics Study Session | 9:00 AM - 11:00 AM** ✅ 2024-09-02
         - Focus on completing your Physics homework and reviewing notes.
 
 - **Midday:**
