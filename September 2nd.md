@@ -8,12 +8,14 @@
     - [x] **Physics Study Session | 9:00 AM - 11:00 AM** ✅ 2024-09-02
         - Focus on completing your Physics homework and reviewing notes.
 
+
+
 - **Midday:**
-    - [ ] **Calculus Study Session | 11:00 AM - 12:00 PM (or extend till 2:00 PM)**
+    - [x] **Calculus Study Session | 11:00 AM - 12:00 PM (or extend till 2:00 PM)** ✅ 2024-09-02
         - Work on your Calculus homework, tackling any tough problems.
     - [ ] **CSE Homework | 12:00 PM - 1:00 PM**
         - Focus on completing your CSE assignments.
-    - [ ] **Lunch/Break | 1:00 PM - 2:00 PM**
+    - [x] **Lunch/Break | 1:00 PM - 2:00 PM** ✅ 2024-09-02
         - Take a break to relax and eat.
 
 - **Afternoon:**
