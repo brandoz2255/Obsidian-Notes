@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preslides 1.md",
+                "file": "Next.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "September 2nd.md",
+                "file": "September 3rd.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leet code.md",
+                "file": "Next.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leet code.md",
+                "file": "Next.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leet code.md"
+                "file": "Next.js.md"
               }
             }
           }
@@ -273,34 +273,34 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "16ae167086e423d5",
+  "active": "2a04e5516dc0d95c",
   "lastOpenFiles": [
-    "Sum of Strings.md",
-    "Leet code.md",
-    "C++ problem.md",
+    "React.js.md",
     "Computer Science 2.md",
     "Cybersecurity.md",
-    "Next.js.md",
-    "React.js.md",
-    "cyber_stuff/Computer Science 1.md",
-    "Docker CTF.md",
-    "September 2nd.md",
     "Docker Container.md",
+    "cyber_stuff/Computer Science 1.md",
+    "To do List.md",
+    "Preslides 1.md",
+    "September 3rd.md",
+    "Tuesdays and Thursdays.md",
+    "School schedule.md",
+    "Mondays.md",
+    "September 2nd.md",
+    "Leet code.md",
+    "Sum of Strings.md",
+    "C++ problem.md",
+    "Next.js.md",
+    "Docker CTF.md",
     "Hack of the box/Challenge for spoofing.md",
     "resources.tsx.md",
-    "Mondays.md",
-    "School schedule.md",
     "Saturdays and Sundays.md",
-    "To do List.md",
     "midterm 2 study.md",
     "cyber_stuff/Calculus 1.md",
     "4.1 derivatives test.md",
     "Calculus 2.md",
     "Math.md",
     "cyber_stuff/How to add.md",
-    "first note.md",
-    "Saturday August 31.md",
-    "The .NET framework.md",
     "docker1.png",
     "Docker.webp",
     "2024-08-28_16-47.png",

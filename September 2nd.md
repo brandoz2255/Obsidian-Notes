@@ -19,26 +19,26 @@
         - Take a break to relax and eat.
 
 - **Afternoon:**
-    - [ ] **Work Block 1: Coding Projects | 2:00 PM - 4:00 PM**
+    - [x] **Work Block 1: Coding Projects | 2:00 PM - 4:00 PM** ✅ 2024-09-02
         - [x] Next.js Project ✅ 2024-09-02
         - [x] CTF Site Project | this one ! ✅ 2024-09-02
-        - [ ] IDS_AI Project or Rust Reading
+        - [x] IDS_AI Project or Rust Reading ✅ 2024-09-02
         - [ ] SICP Reading
-    - [ ] **LeetCode or Geeks for Geeks | 4:00 PM - 5:00 PM**
+    - [x] **LeetCode or Geeks for Geeks | 4:00 PM - 5:00 PM** ✅ 2024-09-02
         - Spend 1 hour on coding practice, either LeetCode or Geeks for Geeks.
 
 - **Evening:**
-    - [ ] **Work Block 2: Hacking & Security | 5:00 PM - 7:00 PM**
+    - [x] **Work Block 2: Hacking & Security | 5:00 PM - 7:00 PM** ✅ 2024-09-02
         - [ ] HTB Pen Test Pathway (2 hours)
         - [x] Docker Project ✅ 2024-09-02
         - [ ] Security+ Study Session
-    - [ ] **Dinner/Break | 7:00 PM - 8:00 PM**
+    - [x] **Dinner/Break | 7:00 PM - 8:00 PM** ✅ 2024-09-02
         - Unwind and recharge for the evening.
-    - [ ] **Security+ Practice Questions or Mock Interview | 8:00 PM - 9:00 PM**
+    - [x] **Security+ Practice Questions or Mock Interview | 8:00 PM - 9:00 PM** ✅ 2024-09-02
         - Practice some questions or do a mock interview with friends or yourself.
-    - [ ] **Return Home | 9:00 PM - 10:00 PM**
+    - [x] **Return Home | 9:00 PM - 10:00 PM** ✅ 2024-09-02
         - Drive home and wind down.
-    - [ ] **Get Ready for Bed and Relax | 10:00 PM - 10:30 PM**
+    - [x] **Get Ready for Bed and Relax | 10:00 PM - 10:30 PM** ✅ 2024-09-02
         - Sleepy weepy time.
-    - [ ] **Wind Down and Sleep Prep | 10:30 PM - 11:00 PM**
+    - [x] **Wind Down and Sleep Prep | 10:30 PM - 11:00 PM** ✅ 2024-09-02
         - Prepare for bed and relax before sleep.

@@ -40,4 +40,7 @@
 
 [[27]] | Tuesday
 
+
 [[29]] | Thursday
+
+[[September 3rd]] | Tuesday
