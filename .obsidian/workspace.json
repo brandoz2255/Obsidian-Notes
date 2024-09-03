@@ -8,135 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19cada320c559b7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blueprint modules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e1a124611dca525",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "to apply.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d22db918cc973846",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "02c16b1b9f4869fa",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "to apply.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a04e5516dc0d95c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7100d629a6f3b199",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "September 3rd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16ae167086e423d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leet code.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbf51f45dc2030d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "midterm 2 study.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d173bfa3db5b339a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security +.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07aae2799ae5d237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Saturday August 31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a3386d4af39044c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School schedule.md",
+                "file": "One_folder/September 3rd.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next.js.md",
+                "file": "One_folder/September 3rd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next.js.md",
+                "file": "One_folder/September 3rd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next.js.md"
+                "file": "One_folder/September 3rd.md"
               }
             }
           }
@@ -273,56 +156,58 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "2a04e5516dc0d95c",
+  "active": "d22db918cc973846",
   "lastOpenFiles": [
-    "React.js.md",
-    "Computer Science 2.md",
-    "Cybersecurity.md",
-    "Docker Container.md",
-    "cyber_stuff/Computer Science 1.md",
-    "To do List.md",
-    "Preslides 1.md",
-    "September 3rd.md",
-    "Tuesdays and Thursdays.md",
-    "School schedule.md",
-    "Mondays.md",
-    "September 2nd.md",
-    "Leet code.md",
-    "Sum of Strings.md",
-    "C++ problem.md",
+    "One_folder/Tuesdays and Thursdays.md",
+    "One_folder/School schedule.md",
+    "One_folder/To do List.md",
+    "One_folder/Cybersecurity.md",
+    "One_folder/Nibbles cont.md",
+    "One_folder/Nibbbles.md",
     "Next.js.md",
-    "Docker CTF.md",
-    "Hack of the box/Challenge for spoofing.md",
-    "resources.tsx.md",
-    "Saturdays and Sundays.md",
-    "midterm 2 study.md",
-    "cyber_stuff/Calculus 1.md",
-    "4.1 derivatives test.md",
-    "Calculus 2.md",
-    "Math.md",
-    "cyber_stuff/How to add.md",
-    "docker1.png",
-    "Docker.webp",
-    "2024-08-28_16-47.png",
-    "2024-08-28_16-38.png",
-    "2024-08-28_16-37.png",
-    "2024-08-19_21-27 1.png",
-    "2024-08-19_21-27.png",
-    "2024-08-19_20-44.png",
+    "One_folder/Next.js.md",
+    "One_folder/Network Models.md",
+    "One_folder/Network Mapper Fundamentals.md",
+    "One_folder/My Rice.md",
+    "One_folder/more asymmetric info.md",
+    "One_folder/Mondays.md",
+    "One_folder/Module 1-A.md",
+    "One_folder/mini Projects.md",
+    "One_folder/Midterm_comm.md",
+    "One_folder/Midterm 1  Notes.md",
+    "One_folder/Mid term 2.md",
+    "One_folder/midterm 2 study.md",
+    "One_folder/May7th lecture.md",
+    "One_folder/Math.md",
+    "One_folder/Malware Analysis.md",
+    "One_folder/Magic Mirror list.md",
+    "One_folder/lkasdjfkl.md",
+    "One_folder/Linux Distros.md",
+    "One_folder/Leet code.md",
+    "One_folder/JS",
+    "One_folder/IMG_7154.jpg",
+    "One_folder/Hack of the box",
+    "One_folder/Fleet.trash",
+    "One_folder/Engineering",
+    "One_folder/Docker.webp",
+    "One_folder/docker1.png",
+    "One_folder/DES_2.png",
+    "One_folder/DES.png",
+    "One_folder/cyber_stuff/To do/9/21 and 9",
+    "One_folder/cyber_stuff/To do/9/18 and 9",
+    "One_folder/cyber_stuff/To do/9",
+    "One_folder/cyber_stuff/Zettlekasten/Pasted image 20231107133234.png",
+    "One_folder/cyber_stuff/Zettlekasten/Pasted image 20231107133158.png",
+    "One_folder/cyber_stuff/Zettlekasten/Pasted image 20231107133146.png",
+    "One_folder/cyber_stuff/Zettlekasten/Pasted image 20231107125838.png",
+    "One_folder/cyber_stuff/Ciso/The TCP",
+    "One_folder/cyber_stuff/Zettlekasten",
+    "One_folder/cyber_stuff/Untitled",
+    "One_folder/cyber_stuff/Screenshot from 2023-12-09 19-40-30.png",
+    "One_folder/Untitled 1.canvas",
+    "One_folder/Untitled.canvas",
     "Untitled 1.canvas",
-    "screenshot28.png",
-    "screenshot27.png",
     "Untitled.canvas",
-    "C++ password manager",
-    "cyber_stuff/Zettlekasten",
-    "cyber_stuff/Untitled",
-    "cyber_stuff/To do/9/21 and 9",
-    "cyber_stuff/To do/9/18 and 9",
-    "cyber_stuff/To do/9",
-    "cyber_stuff/To do",
-    "JS",
-    "Projects(winter)",
-    "Arch Linux",
     "Hacking Into the Matrix typa shii.canvas"
   ]
 }

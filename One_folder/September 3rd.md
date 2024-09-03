@@ -22,7 +22,7 @@
 - **Afternoon:**
     - [x] **Work Block 2: Project Work | 2:00 PM - 4:00 PM** ✅ 2024-09-03
 		-  Only work on Three 
-        - [ ] Next.js Project
+        - [x] Next.js Project ✅ 2024-09-03
         - [ ] CTF Site Project
         - [ ] IDS_AI Project
         - [ ] Rust Reading
