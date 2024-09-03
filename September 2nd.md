@@ -20,8 +20,8 @@
 
 - **Afternoon:**
     - [ ] **Work Block 1: Coding Projects | 2:00 PM - 4:00 PM**
-        - [ ] Next.js Project
-        - [ ] CTF Site Project
+        - [x] Next.js Project ✅ 2024-09-02
+        - [x] CTF Site Project | this one ! ✅ 2024-09-02
         - [ ] IDS_AI Project or Rust Reading
         - [ ] SICP Reading
     - [ ] **LeetCode or Geeks for Geeks | 4:00 PM - 5:00 PM**
@@ -30,7 +30,7 @@
 - **Evening:**
     - [ ] **Work Block 2: Hacking & Security | 5:00 PM - 7:00 PM**
         - [ ] HTB Pen Test Pathway (2 hours)
-        - [ ] Docker Project
+        - [x] Docker Project ✅ 2024-09-02
         - [ ] Security+ Study Session
     - [ ] **Dinner/Break | 7:00 PM - 8:00 PM**
         - Unwind and recharge for the evening.
