@@ -24,10 +24,10 @@
 		-  Only work on Three 
         - [x] Next.js Project ✅ 2024-09-03
         - [ ] CTF Site Project
-        - [ ] IDS_AI Project
+        - [x] IDS_AI Project ✅ 2024-09-03
         - [ ] Rust Reading
         - [ ] SICP Reading
-    - [ ] **Security+ Study Session | 4:00 PM - 5:00 PM**
+    - [x] **Security+ Study Session | 4:00 PM - 5:00 PM** ✅ 2024-09-03
         - Review material from your Security+ prep course, focusing on challenging topics.
         - Or a Homework session or HTB
 

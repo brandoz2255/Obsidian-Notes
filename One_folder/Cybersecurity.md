@@ -5,8 +5,12 @@
 ### Im leading/Co leading
 
 Quad-C | Maybe 
-[[Malware Analysis]]
+[[Malware Analysis]] | canceled 
 [[Docker Container]]
+
+[[Python Computer Automation]]
+[[Web exploitation]]
+
 
 # Blue team Stuff 
 [[Blue team]]

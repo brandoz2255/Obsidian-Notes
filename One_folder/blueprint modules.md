@@ -25,6 +25,7 @@ After collecting the data, this module will process the raw data into a format s
 This is a core module where the actual detection logic using machine learning will reside. It will include training models and using them to detect anomalies or malicious activities in the network traffic.
 
 - By providing examples of well bad traffic etc or something need study more on training models 
+- will assist in detecting bad traffic in the network such as analyzing the processes of Data collection.py and Data processesing.py basically the IDS but Machine Learning to better help detect the anomolies and contact the type of problem occuring 
 
 
 ### 4. **Alert Module**
