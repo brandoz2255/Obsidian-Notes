@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One_folder/blueprint modules.md",
+                "file": "One_folder/Hack of the box/Blue Team.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0c998fcc73892e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "One_folder/Security Testing Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "One_folder/blueprint modules.md",
+                "file": "One_folder/Hack of the box/Blue Team.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "One_folder/blueprint modules.md",
+                "file": "One_folder/Hack of the box/Blue Team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "One_folder/blueprint modules.md"
+                "file": "One_folder/Hack of the box/Blue Team.md"
               }
             }
           }
@@ -195,18 +207,20 @@
   },
   "active": "06ffa6cee770193b",
   "lastOpenFiles": [
+    "One_folder/blueprint modules.md",
+    "One_folder/Security Testing Lab.md",
+    "One_folder/mini Projects.md",
+    "One_folder/Docker Container.md",
+    "Lesson Plan.md",
+    "One_folder/Final Project.md",
+    "One_folder/Cybersecurity.md",
     "One_folder/Documentation.IDS.md",
     "One_folder/IDS.md",
     "One_folder/Plans.md",
     "One_folder/Computer Science 2.md",
     "One_folder/cyber_stuff/Computer Science 1.md",
-    "Lesson Plan.md",
-    "One_folder/mini Projects.md",
     "One_folder/Incident Response Lab.md",
-    "One_folder/Security Testing Lab.md",
-    "One_folder/Docker Container.md",
     "One_folder/Blueprint one.md",
-    "One_folder/Cybersecurity.md",
     "Documentation for the tools.md",
     "Tools to use.md",
     "lesson plan.web ex.md",
@@ -214,13 +228,11 @@
     "Python Computer Automation.md",
     "One_folder/To do List.md",
     "Docker Web App.md",
-    "One_folder/blueprint modules.md",
     "One_folder/September 3rd.md",
     "One_folder/Tuesdays and Thursdays.md",
     "One_folder/School schedule.md",
     "One_folder/Nibbles cont.md",
     "One_folder/Nibbbles.md",
-    "Next.js.md",
     "One_folder/JS",
     "One_folder/IMG_7154.jpg",
     "One_folder/Hack of the box",
