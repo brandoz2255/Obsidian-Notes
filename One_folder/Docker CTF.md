@@ -4,6 +4,7 @@
 - **Hint:** This flag is hidden in the names of the containers.
 - **Objective:** Run the basic `docker ps` command to find the flag in container names or labels.
 
+[[Flag 1 ]]
 ### **Flag 2: Dockerfile Inspection** (Difficulty: 2)
 
 - **Challenge:** Identify a vulnerability in a given Dockerfile.

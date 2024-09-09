@@ -5,6 +5,8 @@
 #### Lecture Notes 
 
 [[Module 1-A]] 
+
+[[Magic Square Formula]]
 # Assembly Class
 
 #### Lecture Notes 

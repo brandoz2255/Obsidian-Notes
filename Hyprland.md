@@ -1,0 +1,1 @@
+[[video resolution]] for HDMI

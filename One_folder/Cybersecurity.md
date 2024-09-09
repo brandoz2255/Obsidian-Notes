@@ -1,16 +1,28 @@
 [[To do List]]
 
+# Hyprland
+
+[[Hyprland]]
 
 # Projects 
 ### Im leading/Co leading
 
 Quad-C | Maybe 
 [[Malware Analysis]] | canceled 
-[[Docker Container]]
+[[Docker Container]] | Leading 
 
-[[Python Computer Automation]]
-[[Web exploitation]]
+[[Python Computer Automation]] | idk what happened here tbh 
+[[Web exploitation]] | not happening maybe next semester! 
 
+##### Dev projects 
+
+IDS_AI | might continue it later need to plan it out better !  
+[[Containerized services]]
+[[Containerized Web ex lab]] | we already made this we just need to fine tune it 
+Docker recreation | after we do something first in Rust 
+[[Rust CLI tool]]
+
+Next.js project | we got stuck here but we can figure it out
 
 # Blue team Stuff 
 [[Blue team]]
