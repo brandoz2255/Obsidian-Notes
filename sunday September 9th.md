@@ -5,7 +5,7 @@
   - [x] Read more Docker documentation (30 minutes) ✅ 2024-09-08
   - [x] Take notes on Docker concepts (30 minutes) ✅ 2024-09-08
   - [x] Plan and create CTF challenge (45 minutes) ✅ 2024-09-08
-- [ ] **Move on to Development Project** (1.5 hours)
-- [ ] **Review Rust documentation** (30 minutes)
-- [ ] **Create CLI tool in Rust** (1 hour)
+- [x] **Move on to Development Project** (1.5 hours) ✅ 2024-09-09
+- [x] **Review Rust documentation** (30 minutes) ✅ 2024-09-09
+- [x] **Create CLI tool in Rust** (1 hour) ✅ 2024-09-09
 - [ ] **Do Hack The Box penetration testing path training** (1.5 hours)
