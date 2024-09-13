@@ -1,0 +1,7 @@
+- [ ] **Docker Project** (3 hours)
+  - [ ] Review documentation (1 hour)
+  - [ ] Work on implementation (2 hours)
+- [ ] **Calc HW** (1.5 hours)
+- [ ] **Physics HW** (1.5 hours)
+- [ ] **CCDC practice** (1 hour)
+- [ ] **CISO website CTF** (1 hour)

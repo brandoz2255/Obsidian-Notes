@@ -1,0 +1,12 @@
+- Game Night 
+- Movie Night 
+- Cyber Bowling 
+- Maybe: Crash course event 
+- Nerd Rage 
+- Panda Express fundraiser 
+- Kickball 
+- Pizza Night 
+- Multiple game nights 
+- Ice Cream night 
+- Other shit 
+

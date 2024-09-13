@@ -1,4 +1,4 @@
-e [[Operating systems fundamentals.Linux]]
+ [[Operating systems fundamentals.Linux]]
 
 
 
