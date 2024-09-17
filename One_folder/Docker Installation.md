@@ -12,6 +12,9 @@ this is how you install Docker on windows
 6. Now we are good to begin *DevOps*-ing 
 
 
+
+https://discord.gg/CzwXHuzruW
+
 #### Ubuntu 
 
 Docker can be install via two version the Docker CE(Community Edition) or Docker EE(Enterprise Edition)
@@ -41,6 +44,19 @@ docker --version
 ```C
 sudo docker ps
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### Optional 
 

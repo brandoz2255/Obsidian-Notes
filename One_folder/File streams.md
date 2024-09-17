@@ -1,10 +1,10 @@
 - File streams
 
-- ofstream:  This is used for both reading and writing to a file allowing for the program to write data onto a file. creates a file if one does not already exist   used to write data onto a file if it doenst exist it will create one also edits an already existing one
+- **ofstream**:  This is used for both reading and writing to a file allowing for the program to write data onto a file. creates a file if one does not already exist   used to write data onto a file if it doenst exist it will create one also edits an already existing one
 
-- fstream: used to write data onto a file if it doenst exist it will create one also edits an already existing one
+- **fstream**: used to write data onto a file if it doenst exist it will create one also edits an already existing one
 
-- ifstream: used to simply just read data from the files allows the program to read files
+- **ifstream**: used to simply just read data from the files allows the program to read files
 
 
 ```C++

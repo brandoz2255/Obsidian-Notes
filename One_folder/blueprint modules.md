@@ -1,4 +1,4 @@
-iSubject to change based on I want it to do!
+Subject to change based on I want it to do!
 ### 1. **Data Collection Module**
 
 This module will be responsible for gathering network data that needs to be analyzed. Depending on your specific requirements, this could involve capturing live network traffic or processing stored network logs.
