@@ -38,3 +38,5 @@
 
 - **Platform**: It provides separate environments for Docker Engine, Docker CLI, Docker Compose, Kubernetes, and other tools, facilitating container management.
 - **Arch Linux Support**: Docker Desktop is not fully supported on Arch Linux, which may limit its use for users of that distribution.
+
+[[Slides 3]]

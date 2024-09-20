@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monday September 16th.md",
+                "file": "September Tuesday 17th.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISO events.md",
+                "file": "Slides 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5b72136c338dd82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9-12-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41dc9aaa0729dfdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monday September 16th.md",
+                "file": "Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monday September 16th.md",
+                "file": "Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monday September 16th.md"
+                "file": "Lab.md"
               }
             }
           }
@@ -217,34 +241,34 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "e1a5e7e547687192",
+  "active": "41dc9aaa0729dfdd",
   "lastOpenFiles": [
-    "One_folder/Mondays.md",
-    "Monday September 16th.md",
+    "9-12-2024.md",
+    "Lab.md",
+    "Test notes.md",
+    "9-10-2024.md",
+    "9-05-2024.md",
+    "[.md",
+    "9-3-2024 notes.md",
+    "One_folder/Math.md",
+    "One_folder/Computer Science 2.md",
+    "One_folder/Hack of the box/Blue Team.md",
+    "One_folder/Blueprint Two.md",
+    "Slides 3.md",
+    "One_folder/Docker essentials.md",
+    "One_folder/Docker Container.md",
+    "One_folder/What is Dockerfile.md",
+    "One_folder/docker slide 2.md",
+    "One_folder/What is Docker.md",
+    "One_folder/mini Projects.md",
+    "One_folder/History of Docker.md",
+    "One_folder/Cybersecurity.md",
+    "CISO events.md",
+    "September Tuesday 17th.md",
+    "Tuesdays.md",
     "daily life.md",
     "Schedule 2.0.md",
     "One_folder/To do List.md",
-    "One_folder/Cybersecurity.md",
-    "One_folder/blueprint modules.md",
-    "CISO events.md",
-    "One_folder/Wednesdays.md",
-    "Tuesdays.md",
-    "One_folder/School schedule.md",
-    "One_folder/File streams.md",
-    "One_folder/cyber_stuff/Computer Science 1.md",
-    "One_folder/September 3rd.md",
-    "One_folder/Docker Installation.md",
-    "September 12th.md",
-    "One_folder/Docker Container.md",
-    "One_folder/Docker Commands.md",
-    "One_folder/History of Docker.md",
-    "One_folder/Docker essentials.md",
-    "One_folder/What is Dockerfile.md",
-    "One_folder/What is Docker.md",
-    "One_folder/Docker CTF.md",
-    "One_folder/docker slide 2.md",
-    "One_folder/cyber_stuff/docker.md",
-    "One_folder/Preslides 1.md",
     "swappy-20240907_190832.png",
     "swappy-20240907_190329.png",
     "One_folder/JS",

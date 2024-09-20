@@ -1,9 +1,9 @@
- q# Homework
-- [x] **Physics HW 3** (1.5 hours) ✅ 2024-09-16
-- [x] **Physics HW 1 review** (1 hour) ✅ 2024-09-16
+# Homework
+- [x] **Physics HW 3** (1.5 hours) ✅ 2024-09-17
+- [x] **Physics HW 1 review** (1 hour) ✅ 2024-09-17
 - [ ] **Calculus HW** (1.5 hours)
-- [x] **CSE Lab finish** (2 hours) ✅ 2024-09-16
-- [x] **CSE Assembly class HW** (2 hours) | we need to ask why the books isn't popping up ! ✅ 2024-09-16
+- [x] **CSE Lab finish** (2 hours) ✅ 2024-09-17
+- [x] **CSE Assembly class HW** (2 hours) ✅ 2024-09-17
 
 # Main Projects
 - [ ] **Docker containers read up on it** (1 hour)
