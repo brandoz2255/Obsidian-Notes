@@ -67,7 +67,12 @@ Also add these three projects
 
 - CISO Club Website 
 	- Assisted in  design the website using Next.js web framework utilizing Typescript, React, and TailwindCSS to develope a a nice and modern UI for our club organization that is containerized usign Docker Dockerfile and docker-compose 
-	- Developed a carousell in using the webframework and modfiied the tailwindcss to fit our websites theme so that it displays 8 pictures about events we host about cybersecurity 
+	- Developed a carousell in using the webframework and modfiied the tailwindcss to fit our websites theme so that it displays 8 pictures about events we host about cybersecurity
+- CISO Club CTF Website
+	- Assisted and designed a platform to host our clubs CTF projects based on our projects 
+	- Our club host projects in a way where we lead workshops and instruct a technology we are interested in then we build/ do activitites off it 
+	- CTF site was designed to further enhance that experiance where we have a CTF challenge based on our projects and those who attend our projects can learn on how to do the CTF and get help from it and learn our projects 
+	- I assited in the developement forked from pwncollege ctf site which we heavily modified th HTML/JS/CSS code to our needs and modified the Flask backend to host our ctfs to make it easier for our project leaders to make their own ctf challenges and host it on our site with just simple YML scripting rather than actually programming it
 - Rust binary analyzer 
 	- Developed a Rust CLI tool that analyzes binary files and machine code to get information on the file such as the byte sizes what it does 
 		- File size
