@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily life.md",
+                "file": "CISO events.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One_folder/Docker Installation.md",
+                "file": "One_folder/Blueprint Two.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d3346c83e1f7d5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docker stuff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab.md",
+                "file": "Slides 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab.md",
+                "file": "Slides 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab.md"
+                "file": "Slides 3.md"
               }
             }
           }
@@ -241,10 +253,21 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "41dc9aaa0729dfdd",
+  "active": "bd13991c38b46313",
   "lastOpenFiles": [
-    "9-12-2024.md",
     "Lab.md",
+    "9-12-2024.md",
+    "One_folder/Docker Installation.md",
+    "One_folder/Docker Container.md",
+    "One_folder/Blueprint Two.md",
+    "One_folder/Cybersecurity.md",
+    "docker stuff.md",
+    "CISO events.md",
+    "One_folder/cyber_stuff/Ciso/CISO.md",
+    "daily life.md",
+    "September Tuesday 17th.md",
+    "Slides 3.md",
+    "September 12th.md",
     "Test notes.md",
     "9-10-2024.md",
     "9-05-2024.md",
@@ -253,22 +276,11 @@
     "One_folder/Math.md",
     "One_folder/Computer Science 2.md",
     "One_folder/Hack of the box/Blue Team.md",
-    "One_folder/Blueprint Two.md",
-    "Slides 3.md",
     "One_folder/Docker essentials.md",
-    "One_folder/Docker Container.md",
     "One_folder/What is Dockerfile.md",
     "One_folder/docker slide 2.md",
     "One_folder/What is Docker.md",
     "One_folder/mini Projects.md",
-    "One_folder/History of Docker.md",
-    "One_folder/Cybersecurity.md",
-    "CISO events.md",
-    "September Tuesday 17th.md",
-    "Tuesdays.md",
-    "daily life.md",
-    "Schedule 2.0.md",
-    "One_folder/To do List.md",
     "swappy-20240907_190832.png",
     "swappy-20240907_190329.png",
     "One_folder/JS",

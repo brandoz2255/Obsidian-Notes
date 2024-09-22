@@ -84,3 +84,9 @@ sudo service docker restart
 
 
 - now we can run `docker ps` as a regular user
+
+
+
+
+
+ciso{8yearstoolong}
