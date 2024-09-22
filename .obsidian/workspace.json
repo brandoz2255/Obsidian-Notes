@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily life.md",
+                "file": "CISO events.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monday September 16th.md",
+                "file": "September Tuesday 17th.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISO events.md",
+                "file": "Slides 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5b72136c338dd82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapter 2 hw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41dc9aaa0729dfdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One_folder/Docker Installation.md",
+                "file": "One_folder/Blueprint Two.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One_folder/to apply.md",
+                "file": "September 12th.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,19 +104,19 @@
             }
           },
           {
-            "id": "5b89fe001319c149",
+            "id": "8d3346c83e1f7d5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One_folder/Physics.md",
+                "file": "docker stuff.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "One_folder/Physics.md",
+                "file": "chapter 2 hw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "One_folder/Physics.md",
+                "file": "chapter 2 hw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "One_folder/Physics.md"
+                "file": "chapter 2 hw.md"
               }
             }
           }
@@ -229,34 +253,34 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "5b89fe001319c149",
+  "active": "c5b72136c338dd82",
   "lastOpenFiles": [
-    "Chapter one.md",
-    "One_folder/Physics.md",
     "One_folder/Computer Science 2.md",
-    "One_folder/Cybersecurity.md",
-    "One_folder/Docker Container.md",
-    "Hyprland.md",
-    "CISO events.md",
-    "One_folder/to apply.md",
-    "September 12th.md",
-    "daily life.md",
-    "Monday September 16th.md",
-    "One_folder/Mondays.md",
-    "Schedule 2.0.md",
-    "One_folder/To do List.md",
-    "One_folder/blueprint modules.md",
-    "One_folder/Wednesdays.md",
-    "Tuesdays.md",
-    "One_folder/School schedule.md",
-    "One_folder/File streams.md",
+    "chapter 2 hw.md",
+    "Chapter one.md",
+    "2.8 assignment.md",
     "One_folder/cyber_stuff/Computer Science 1.md",
-    "One_folder/September 3rd.md",
+    "9-12-2024.md",
+    "Slides 3.md",
+    "Lab.md",
     "One_folder/Docker Installation.md",
-    "One_folder/Docker Commands.md",
-    "One_folder/History of Docker.md",
+    "One_folder/Docker Container.md",
+    "One_folder/Blueprint Two.md",
+    "One_folder/Cybersecurity.md",
+    "docker stuff.md",
+    "CISO events.md",
+    "One_folder/cyber_stuff/Ciso/CISO.md",
+    "daily life.md",
+    "September Tuesday 17th.md",
+    "September 12th.md",
+    "Test notes.md",
+    "9-10-2024.md",
+    "9-05-2024.md",
+    "[.md",
+    "9-3-2024 notes.md",
+    "One_folder/Math.md",
+    "One_folder/Hack of the box/Blue Team.md",
     "One_folder/Docker essentials.md",
-    "One_folder/What is Dockerfile.md",
     "swappy-20240907_190832.png",
     "swappy-20240907_190329.png",
     "One_folder/JS",
