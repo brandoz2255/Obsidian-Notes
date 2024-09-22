@@ -43,6 +43,7 @@
 #### Lecture Notes 
 [[Calculus 2 ]]
 
+[[Test notes]] | using geogebra
 # Physics 
 
 #### Lecture Notes 
