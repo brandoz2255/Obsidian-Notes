@@ -11,7 +11,7 @@
 
 #### Lecture Notes 
 
-[[chapter 2 hw]]
+[[chapter 2 hw && chapter 3]]
 
 # SICP Book
 

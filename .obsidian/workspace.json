@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slides 3.md",
+                "file": "Saturday sept 22nd.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapter 2 hw.md",
+                "file": "chapter 2 hw && chapter 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter 2 hw.md",
+                "file": "chapter 2 hw && chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapter 2 hw.md",
+                "file": "chapter 2 hw && chapter 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapter 2 hw.md"
+                "file": "chapter 2 hw && chapter 3.md"
               }
             }
           }
@@ -255,13 +255,18 @@
   },
   "active": "c5b72136c338dd82",
   "lastOpenFiles": [
+    "Saturday sept 22nd.md",
+    "Weekends.md",
+    "daily life.md",
+    "Schedule 2.0.md",
+    "One_folder/To do List.md",
+    "One_folder/cyber_stuff/Computer Science 1.md",
+    "Slides 3.md",
+    "chapter 2 hw && chapter 3.md",
     "One_folder/Computer Science 2.md",
-    "chapter 2 hw.md",
     "Chapter one.md",
     "2.8 assignment.md",
-    "One_folder/cyber_stuff/Computer Science 1.md",
     "9-12-2024.md",
-    "Slides 3.md",
     "Lab.md",
     "One_folder/Docker Installation.md",
     "One_folder/Docker Container.md",
@@ -270,17 +275,12 @@
     "docker stuff.md",
     "CISO events.md",
     "One_folder/cyber_stuff/Ciso/CISO.md",
-    "daily life.md",
     "September Tuesday 17th.md",
     "September 12th.md",
     "Test notes.md",
     "9-10-2024.md",
     "9-05-2024.md",
     "[.md",
-    "9-3-2024 notes.md",
-    "One_folder/Math.md",
-    "One_folder/Hack of the box/Blue Team.md",
-    "One_folder/Docker essentials.md",
     "swappy-20240907_190832.png",
     "swappy-20240907_190329.png",
     "One_folder/JS",
