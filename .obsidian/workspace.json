@@ -4,119 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "b91eb7823320a64e",
+        "id": "64f6753388e601ac",
         "type": "tabs",
         "children": [
           {
-            "id": "d22db918cc973846",
+            "id": "614a9adea53500b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISO events.md",
+                "file": "25th august.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e1a5e7e547687192",
+            "id": "dd257c936d5392a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "September Tuesday 17th.md",
+                "file": "Docker day three.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bd13991c38b46313",
+            "id": "fc7a4c9ad8540f3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Saturday sept 22nd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5b72136c338dd82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chapter 2 hw && chapter 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41dc9aaa0729dfdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0700d16e96e04d24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "One_folder/Blueprint Two.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "476c7e398626b275",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "September 12th.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91fb652ddf701006",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "One_folder/Docker Installation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d3346c83e1f7d5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docker stuff.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter 2 hw && chapter 3.md",
+                "file": "Docker day three.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapter 2 hw && chapter 3.md",
+                "file": "Docker day three.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapter 2 hw && chapter 3.md"
+                "file": "Docker day three.md"
               }
             }
           }
@@ -253,34 +177,34 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "c5b72136c338dd82",
+  "active": "dd257c936d5392a7",
   "lastOpenFiles": [
-    "Saturday sept 22nd.md",
-    "Weekends.md",
+    "One_folder/Docker Container.md",
+    "Docker day three.md",
+    "One_folder/Blueprint Two.md",
+    "One_folder/Cybersecurity.md",
+    "One_folder/Hack of the box/Blue Team.md",
+    "25th august.md",
+    "One_folder/Wednesdays.md",
     "daily life.md",
     "Schedule 2.0.md",
     "One_folder/To do List.md",
     "One_folder/cyber_stuff/Computer Science 1.md",
-    "Slides 3.md",
-    "chapter 2 hw && chapter 3.md",
-    "One_folder/Computer Science 2.md",
-    "Chapter one.md",
-    "2.8 assignment.md",
-    "9-12-2024.md",
-    "Lab.md",
-    "One_folder/Docker Installation.md",
-    "One_folder/Docker Container.md",
-    "One_folder/Blueprint Two.md",
-    "One_folder/Cybersecurity.md",
-    "docker stuff.md",
-    "CISO events.md",
-    "One_folder/cyber_stuff/Ciso/CISO.md",
-    "September Tuesday 17th.md",
-    "September 12th.md",
-    "Test notes.md",
+    "september 24th.md",
+    "Tuesdays.md",
+    "One_folder/28th august.md",
+    "One_folder/Mondays.md",
+    "One_folder/September 2nd.md",
+    "Monday September 16th.md",
+    "Weekends.md",
+    "One_folder/School schedule.md",
     "9-10-2024.md",
+    "Test notes.md",
+    "9-3-2024 notes.md",
     "9-05-2024.md",
-    "[.md",
+    "One_folder/Math.md",
+    "One_folder/Computer Science 2.md",
+    "One_folder/Calculus 2.md",
     "swappy-20240907_190832.png",
     "swappy-20240907_190329.png",
     "One_folder/JS",

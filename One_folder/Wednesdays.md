@@ -6,3 +6,7 @@
 
 
 on Mondays and Wednesdays we can read *SICP* and *Ethical Hacking book since* we have more time 
+
+
+
+[[25th august]]

@@ -1,4 +1,14 @@
-I typed everything out since  my handwriting is bad I also did it in MD so that you can follow it easier which why there are headers 
+Brandon Sanchez 
+
+forgot my name sorry
+
+I typed everything out since  my handwriting is bad I also did it in MD so that you can follow it easier which why there are headers. I typed this assignment in Obsidian since it states in the syllabus that the assignments are optionally typed and i kept in my obsidian for future note reference!
+
+
+
+
+
+
 
 ## 2.8 Part A: Largest Positive Number in 8-bit 2’s Complement
 
@@ -64,7 +74,7 @@ All remaining \( n-1 \) bits as `1`, which gives the binary number:
    **0...0111...1111** (with \( n-1 \) ones).
 
 ### General Formula
-To find the largest positive number in decimal, we use the formula:
+
 
 $$
 2^{n-1} - 1
@@ -82,6 +92,9 @@ $$
 - **Decimal**: $$2^{n-1} - 1$$
 
 ---
+
+
+
 
 ## 2.8 Part D: Greatest Magnitude Negative Number in n-bit 2’s Complement
 
@@ -112,6 +125,8 @@ $$
 
 ---
 
+
+
 ## 2.10 Convert the following 2's complement binary numbers to decimal
 
 ### Part B: 01011010 (8-bit 2's complement)
@@ -141,6 +156,8 @@ $$
 ---
 
 
+
+
 ## 2.11 Convert these decimal numbers to eight-bit 2’s complement binary numbers.
 
 ### Part A: 102
@@ -157,6 +174,8 @@ Recognize that -128 in 8-bit is a special case:
 
 
 ---
+
+
 ## 2.26 Express -64 as a 2’s complement number.
 
 ### Part A: How many bits do you need?
