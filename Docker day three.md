@@ -30,7 +30,7 @@ docker run -v /host/data:/container/data myapp
 
 # -it: Combines -i (interactive) and -t (TTY), for running containers interactively
 docker run -it ubuntu /bin/bash
-# ^ Runs an Ubuntu container and opens an interactive bash shell.
+# ^ Runs an Ubuntu container and opens an interactive bash shell. or the name of the container
 
 # --rm: Automatically removes the container when it exits
 docker run --rm myapp

@@ -35,12 +35,28 @@
             "id": "fc7a4c9ad8540f3d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CISO events.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "231e71176a5c8741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "One_folder/slides.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#algorithms",
+                "query": "xss",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker day three.md",
+                "file": "One_folder/slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker day three.md",
+                "file": "One_folder/slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker day three.md"
+                "file": "One_folder/slides.md"
               }
             }
           }
@@ -177,10 +194,14 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "dd257c936d5392a7",
+  "active": "231e71176a5c8741",
   "lastOpenFiles": [
-    "One_folder/Docker Container.md",
+    "CISO events.md",
+    "One_folder/slides.md",
+    "One_folder/Fleet.trash/flee.filter contents.md",
+    "One_folder/Hack of the box/flee.filter contents.md",
     "Docker day three.md",
+    "One_folder/Docker Container.md",
     "One_folder/Blueprint Two.md",
     "One_folder/Cybersecurity.md",
     "One_folder/Hack of the box/Blue Team.md",
@@ -201,10 +222,6 @@
     "9-10-2024.md",
     "Test notes.md",
     "9-3-2024 notes.md",
-    "9-05-2024.md",
-    "One_folder/Math.md",
-    "One_folder/Computer Science 2.md",
-    "One_folder/Calculus 2.md",
     "swappy-20240907_190832.png",
     "swappy-20240907_190329.png",
     "One_folder/JS",
