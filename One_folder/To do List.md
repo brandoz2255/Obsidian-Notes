@@ -99,3 +99,5 @@ the to do list for each day
 [[School schedule]] |  also write on agenda and adjust with a todo list  
 
 [[Schedule 2.0]]
+
+

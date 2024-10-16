@@ -16,7 +16,11 @@ MITRE
 
 https://careers.mitre.org/us/en/jointalentcommunity
 
+MITRE cyber intern
+https://careers.mitre.org/us/en/job/R114197/Cybersecurity-Intern
 
+MITRE AI internship
+https://careers.mitre.org/us/en/job/R114080/Artificial-Intelligence-Futures-Intern
 
 
 
@@ -61,6 +65,16 @@ This one is for the LA one
 
 https://intern.usajobs.gov/job/772682500#modal-trigger
 
+https://careers.qualcomm.com/careers/job/446701027885-cybersecurity-internship-%E2%80%93-summer-2025-san-diego-california-united-states-of-america?domain=qualcomm.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic 
+
+QualComm ^^ 
+
+
+Edision -> 
+
+https://www.edisoncareers.com/job/20994272/2025-summer-internship-cybersecurity/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+
+
 
 
 Also add these three projects 
@@ -83,3 +97,5 @@ Also add these three projects
 - DevOps Algorithm Application analysis 
 	- Developed and containerized multiple application containers using C/C++ Docker Compose and Dockerfiles implemented a CI/CD pipeline using Github actions
 	- The applications main goal is to put a hands usuage of famous Computer Science Data Structures and Algorithms Such as OOP, Magic Squares, Djasktra Algorithm, binary search, Linear search, Big-O notation and containerize them using Docker and host a docker cluster of multiple Algorthms and utilizing a CI/CD pipline with Github Actions 
+
+
