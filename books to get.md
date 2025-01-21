@@ -1,0 +1,5 @@
+- Linux Command Line | 25.76 or 30 $
+- How Linux Works | 35.26 or 40 $ 
+- Devops for the desperate | 30 $
+- Book of Kubernetes | 40$
+- DevSecOps guide for leaders | 20 $ 

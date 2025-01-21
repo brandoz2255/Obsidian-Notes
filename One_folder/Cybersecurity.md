@@ -2,7 +2,9 @@
 
 
 
+[[Fundamental Networking]]
 
+[[CPTC report]]
 # Event
 
 [[CISO events]]
@@ -21,6 +23,7 @@ Quad-C | Maybe
 [[Python Computer Automation]] | idk what happened here tbh 
 [[Web exploitation]] | not happening maybe next semester! 
 
+[[Arachnophobia]]
 ##### Dev projects 
 
 IDS_AI | might continue it later need to plan it out better !  
@@ -229,6 +232,8 @@ Index
 
 # Red team 
 
+[[Pen Testing Pathway]]
+
 [[Hack the Box]]
 
 [[Red team]]
@@ -306,6 +311,16 @@ Index
 [[raspi]]
 
 
+
+# DevOps
+
+here is anything DevOps
+
+[[DevSecOps]]
+
 ## Internships 
 
 [[to apply]]
+
+
+[[Interview_MITRE]]

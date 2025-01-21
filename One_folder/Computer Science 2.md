@@ -13,6 +13,9 @@
 
 [[chapter 2 hw && chapter 3]]
 
+[[chapter 4 and 5 ]]
+
+[[chapter 7,8 and 17]]
 # SICP Book
 
 #### Notes 

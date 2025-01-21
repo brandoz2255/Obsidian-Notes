@@ -1,0 +1,4 @@
+- [ ] LFS study it 
+- [ ] make a  game plan on how to do it 
+- [ ] Read up on information for ⏫ 
+- [ ] 10 Modules of Pen testing HTB 

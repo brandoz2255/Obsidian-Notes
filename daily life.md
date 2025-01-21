@@ -64,6 +64,10 @@
 
 [[Wednesdays]]
 
+[[Thursdays]]
+
+
 [[Fridays]]
 
 [[Weekends]]
+

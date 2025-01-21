@@ -1,5 +1,5 @@
-IH aka known as Incident HAndling is an important part of the Cyber-securities defense system. This is the process of protective measures tha try to prevent or lowe the amount of security incidents or incioitdent handling in general. 
-- Most companies on there own have their own systems to handle IH but some organizations rely on Third party providers. 
+`IH` aka known as Incident Handling is an important part of the Cyber-securities defense system. This is the process of protective measures that try to prevent or lower the amount of security incidents or incident handling in general. 
+- Most companies on there own have their own systems to handle `IH` but some organizations rely on Third party providers. 
 
 # Terms
 In the world of security we need to some terms first off in oerder to define a security issue or report incidents 

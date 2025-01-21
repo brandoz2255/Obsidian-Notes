@@ -2,6 +2,10 @@ the to do list for each day
 
 
 
+### SImple To do list
+
+[[Todo Revamp]]
+
 [[2024-03-19]]
 
 [[2024-03-25]]

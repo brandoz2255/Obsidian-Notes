@@ -9,7 +9,7 @@
 
 - **Tokenization**: Replacing sensitive data with a token that acts as a reference to the original data stored securely elsewhere.
 
-- **Encryption**: Converting data into ciphertext, which can only be decrypted with the appropriate key.
+- **Encryption**: Converting data into ciphertext, which can only be de-crypted with the appropriate key.
 
 - **Anonymization**: Removing or altering data that can identify individuals, making it impossible to trace back to the original source.
 

@@ -2,6 +2,13 @@
 
 
 
+# DevSecOps
+
+Anything DevOps
+
+[[DevSecOps]]
+
+
 
 # Ethical Hacking
 The book on ethical hacking provides great material on the context of both worlds such as red team and blue team it would best fit in the category of purple team. we need to make a purple team category to link both red and blue together. 

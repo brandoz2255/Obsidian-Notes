@@ -1,0 +1,4 @@
+- [ ] FTP playbook 
+- [ ] Work with Linux setting up shit 
+- [ ] What we did in Hivestorm 
+- [ ] Read up on some blue team tools on Linux 

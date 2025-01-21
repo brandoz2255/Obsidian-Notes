@@ -1,0 +1,5 @@
+- [ ] Just speed run the HW of each class 
+- [ ] For Comp Sci make a write up of each lab and HW and add that to what we did in Comp Sci one 
+	- [ ] However we could also read up on SICP 
+- [ ] Physics use practice problems as  playbook for that shit
+- [ ] Same goes for Calc

@@ -13,46 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25th august.md",
+                "file": "One_folder/to apply.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "to apply"
             }
           },
           {
-            "id": "dd257c936d5392a7",
+            "id": "6b5240fcdb51c4cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker day three.md",
+                "file": "One_folder/cyber_stuff/How to add.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "How to add"
             }
           },
           {
-            "id": "fc7a4c9ad8540f3d",
+            "id": "c707a9e3f7533dee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISO events.md",
+                "file": "Chapter one Containers Matter.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter one Containers Matter"
             }
           },
           {
-            "id": "231e71176a5c8741",
+            "id": "5747f3e4b424329d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "October something.md",
+                "file": "notes_arach.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "notes_arach"
             }
           },
           {
@@ -61,26 +69,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One_folder/to apply.md",
+                "file": "doc_arach.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "doc_arach"
             }
           },
           {
-            "id": "285ba5372db8461f",
+            "id": "375614f063898478",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One_folder/to apply.md",
+                "file": "Chapter2 Ansible to manage passwords and groups.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter2 Ansible to manage passwords and groups"
+            }
+          },
+          {
+            "id": "c2b3834b0d647d39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes_arach.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "notes_arach"
+            }
+          },
+          {
+            "id": "edec1de9f8e9212e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Incident Response.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Incident Response"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +141,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -109,13 +152,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xss",
+                "query": "bandi",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -123,15 +168,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6bd8408cad4e0dec",
@@ -149,7 +196,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -157,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -166,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "October something.md",
+                "file": "Docker + github actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +225,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Docker + github actions"
             }
           },
           {
@@ -183,10 +236,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "October something.md",
+                "file": "Docker + github actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Docker + github actions"
             }
           },
           {
@@ -195,8 +250,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "October something.md"
-              }
+                "file": "Docker + github actions.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Docker + github actions"
             }
           }
         ]
@@ -218,51 +275,51 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "231e71176a5c8741",
+  "active": "c707a9e3f7533dee",
   "lastOpenFiles": [
-    "One_folder/Mondays.md",
-    "October something.md",
-    "daily life.md",
-    "Schedule 2.0.md",
-    "One_folder/To do List.md",
-    "One_folder/week of August 14th.md",
-    "One_folder/cyber_stuff/Computer Science 1.md",
-    "One_folder/slides.md",
-    "One_folder/to apply.md",
+    "The Book of Kubernetes.md",
+    "Chapter one Containers Matter.md",
+    "Chapter2 Ansible to manage passwords and groups.md",
+    "Kubernetes.md",
+    "kompose.md",
+    "minikube.md",
+    "DevSecOps.md",
     "One_folder/Cybersecurity.md",
-    "One_folder/Computer Science 2.md",
-    "CISO events.md",
-    "One_folder/Fleet.trash/flee.filter contents.md",
-    "One_folder/Hack of the box/flee.filter contents.md",
-    "Docker day three.md",
-    "One_folder/Docker Container.md",
-    "One_folder/Blueprint Two.md",
+    "doc_arach.md",
+    "notes_arach.md",
+    "Arachnophobia.md",
     "One_folder/Hack of the box/Blue Team.md",
-    "25th august.md",
-    "One_folder/Wednesdays.md",
-    "september 24th.md",
-    "Tuesdays.md",
-    "One_folder/28th august.md",
-    "One_folder/September 2nd.md",
-    "Monday September 16th.md",
-    "Weekends.md",
-    "swappy-20240907_190832.png",
-    "swappy-20240907_190329.png",
+    "Kube install.md",
+    "Incident Response.md",
+    "Personal.md",
+    "Todo Revamp.md",
+    "One_folder/To do List.md",
+    "Documentation one.md",
+    "DevOps For The Desperate.md",
+    "One_folder/cyber_stuff/docker.md",
+    "Exploring the System.md",
+    "Chapter 3  Configuring Ansible for SSH.md",
+    "chapter1.fleet.md",
+    "Chapter 1 IaC and CM.md",
+    "Vagrant.md",
+    "Troubleshooting Common Issues.md",
+    "Screenshot 2024-11-16 at 21-03-00 Homework 11 - Google Drive.png",
+    "2024-11-16_15-52_1.png",
+    "2024-11-16_15-52.png",
+    "2024-11-16_14-58.png",
+    "2024-11-16_14-56_1.png",
+    "2024-11-16_13-27.png",
+    "Screenshot 2024-11-16 at 13-21-29 2024-11-16_13-19.png (PNG Image 1873 × 331 pixels) 2.png",
+    "Screenshot 2024-11-16 at 13-21-29 2024-11-16_13-19.png (PNG Image 1873 × 331 pixels) 1.png",
+    "Screenshot 2024-11-16 at 13-21-29 2024-11-16_13-19.png (PNG Image 1873 × 331 pixels).png",
+    "Pasted image 20241116132038.png",
     "One_folder/JS",
-    "One_folder/IMG_7154.jpg",
     "One_folder/Hack of the box",
     "One_folder/Fleet.trash",
     "One_folder/Engineering",
-    "One_folder/Docker.webp",
-    "One_folder/docker1.png",
-    "One_folder/DES_2.png",
-    "One_folder/DES.png",
     "One_folder/cyber_stuff/To do/9/21 and 9",
     "One_folder/cyber_stuff/To do/9/18 and 9",
     "One_folder/cyber_stuff/To do/9",
-    "One_folder/cyber_stuff/Zettlekasten/Pasted image 20231107133234.png",
-    "One_folder/cyber_stuff/Zettlekasten/Pasted image 20231107133158.png",
-    "One_folder/cyber_stuff/Zettlekasten/Pasted image 20231107133146.png",
     "One_folder/cyber_stuff/Ciso/The TCP",
     "One_folder/cyber_stuff/Zettlekasten",
     "One_folder/cyber_stuff/Untitled",

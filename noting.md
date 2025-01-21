@@ -1,0 +1,2 @@
+- Zettlekatsen method duhh 
+- read first 

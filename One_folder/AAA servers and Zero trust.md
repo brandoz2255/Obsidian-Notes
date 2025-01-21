@@ -1,7 +1,7 @@
 
 - **Zero Trust**: is a Security Concept that assumes no users or devices automatically trusted the entity must prove who they are first. regardless of where they are at. 
 
-Deception Technology: is a strategic approach to confuse or trap the enemy/adversary to mislead attackers such as 
+- **Deception Technology**: is a strategic approach to confuse or trap the enemy/adversary to mislead attackers such as 
 
 - **Honeypots**: These are decoy systems designed to mimic real systems and attract attackers. They are used to gather information about attackers' methods and to detect and analyze malware.
 

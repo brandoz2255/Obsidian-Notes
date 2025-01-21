@@ -199,3 +199,6 @@ A penetration tester or a hacker can use VPN to essentially connect tot he inter
 End of page we would conlcusion later 
 
 [[Working with web services]]
+
+
+[[CCDC notes]]

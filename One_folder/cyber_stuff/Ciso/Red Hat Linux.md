@@ -1,7 +1,9 @@
 
 #redhat 
 
+Also just the linux note hub
 
+[[Linux Command Line]]
 
 
 [[My Rice]]
@@ -22,7 +24,7 @@
 
 ## MGM Grand 
 *  looking to hire a red hat linux system Admin to work 10 hrs a day for $110 ro an hour
-### Introduction to teh shell
+### Introduction to the shell
 *  What is the CLI 
 * a text base intergace to input instructions into s computer you the usual shit you know 
 * offers direct control over the system 

@@ -1,0 +1,19 @@
+- Docker CLI 
+	- why its better 
+	- I cant use DockerDesktop 
+	- I refuse to use it so show them some basic commands 
+	- hand them a better cheat sheet 
+- Github actions info 
+	- why github actions was made 
+	- why its important in a devops lifecycle 
+	- why docker and github actions works well 
+- Docker commands 
+	- docker push and pull 
+	- dockerhub
+	-  how github actions does that 
+	- why this works for CI/CD pipeline 
+	- why github and Dockerhub works well together 
+- Our mini porject 
+	- Containerizing openWebUI and containerizing Ollama 
+	- Using github actions to make sure these containers and images work openWebUI and Ollama 
+- Mini quiz activity 

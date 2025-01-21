@@ -67,35 +67,136 @@ https://intern.usajobs.gov/job/772682500#modal-trigger
 
 https://careers.qualcomm.com/careers/job/446701027885-cybersecurity-internship-%E2%80%93-summer-2025-san-diego-california-united-states-of-america?domain=qualcomm.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic 
 
-QualComm ^^ 
+# QualComm ^^ 
 
 
-Edision -> 
+# Edision -> 
 
 https://www.edisoncareers.com/job/20994272/2025-summer-internship-cybersecurity/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
 
 
 
 
-Also add these three projects 
+# Crowstrike 
 
-- CISO Club Website 
-	- Assisted in  design the website using Next.js web framework utilizing Typescript, React, and TailwindCSS to develope a a nice and modern UI for our club organization that is containerized usign Docker Dockerfile and docker-compose 
-	- Developed a carousell in using the webframework and modfiied the tailwindcss to fit our websites theme so that it displays 8 pictures about events we host about cybersecurity
-- CISO Club CTF Website
-	- Assisted and designed a platform to host our clubs CTF projects based on our projects 
-	- Our club host projects in a way where we lead workshops and instruct a technology we are interested in then we build/ do activitites off it 
-	- CTF site was designed to further enhance that experiance where we have a CTF challenge based on our projects and those who attend our projects can learn on how to do the CTF and get help from it and learn our projects 
-	- I assited in the developement forked from pwncollege ctf site which we heavily modified th HTML/JS/CSS code to our needs and modified the Flask backend to host our ctfs to make it easier for our project leaders to make their own ctf challenges and host it on our site with just simple YML scripting rather than actually programming it
-- Rust binary analyzer 
-	- Developed a Rust CLI tool that analyzes binary files and machine code to get information on the file such as the byte sizes what it does 
-		- File size
-		- Byte frequency (how often each byte appears)
-		- Data entropy (for funsies, to show how random the file data is)
-		- Hex dump (a simple representation of the binary data in hex form)
-	- Also designed not only to provide information on binaries but also use them in  a methodical manner such as fuzzing the binary to make sure that no segmation fault is at play within the binary 
-- DevOps Algorithm Application analysis 
-	- Developed and containerized multiple application containers using C/C++ Docker Compose and Dockerfiles implemented a CI/CD pipeline using Github actions
-	- The applications main goal is to put a hands usuage of famous Computer Science Data Structures and Algorithms Such as OOP, Magic Squares, Djasktra Algorithm, binary search, Linear search, Big-O notation and containerize them using Docker and host a docker cluster of multiple Algorthms and utilizing a CI/CD pipline with Github Actions 
+https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Professional-Services-Explorer-Intern---Summer-2025--Remote-_R20593?mc_cid=9e96498554&mc_eid=c7bd8936f2
+
+
+
+# DOE internships
+
+https://apps.orau.gov/suli/Account/Login
+
+dealine January something 
+
+
+# Google
+
+Most likely not getting in because of their interview rounds (annoying bitches)
+
+https://www.google.com/about/careers/applications/jobs/results/118497704278926022-step-intern-second-year-bachelors-student-summer-2025?utm_source=handshake&utm_medium=direct-message&utm_campaign=co-2024-2025&src=Online/TOPs/handshake-message
+
+Deadline october 25 th so act fast 
+
+
+# IBM 
+
+DevOps internship
+
+by October 31st
+
+https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=26059&siteid=5016&Areq=724808BR&codes=JB_EPH_Handshake#jobDetails=759053_5016
+
+Back-End Developer 
+
+by October 31st
+
+https://careers.ibm.com/job/20939608/back-end-developer-intern-2025-remote/?codes=JB_EPH_Handshake
+
+
+# UnderArmor
+
+https://careers.underarmour.com/job/Remote-Summer-2025-Internship%2C-IT-Security/1215744200/
+
+due March 13th #time
+
+
+# Amazon 
+
+Cybersecurity Engineer
+
+https://amazon.jobs/en/jobs/2738657/security-engineer-summer-internship-2025-us
+
+due April 2025 but we are doing by November Brandon!! 
+
+
+https://careers.mitre.org/us/en/job/R113966/Internships-in-Cyber-or-Information-Security
+
+due ?? lets do it Wednesday november 6th due november 10th #time
+
+
+### Google cyber internship
+
+https://www.google.com/about/careers/applications/jobs/results/132295171290079942-security-architecture-intern-google-public-sector-summer-2025?src=Online/Google%20Website/ByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&company=Fitbit&company=Google&company=YouTube&distance=50&employment_type=INTERN
+
+due november 15th #time
+but we are doing it by november 10th 
+
+
+- guest agent! 
+	- LFS thingy for vm 
+	- make sure it dont break Arch 
+
+
+
+
+### Federal Internship portal 
+
+[https://intern.usajobs.gov/search/results/?hp=student&wt=15328&s=salary&sd=desc&p=1](https://intern.usajobs.gov/search/results/?hp=student&wt=15328&s=salary&sd=desc&p=1 "https://intern.usajobs.gov/search/results/?hp=student&wt=15328&s=salary&sd=desc&p=1")
+
+
+
+### LLNL 
+
+[https://www.llnl.gov/join-our-team/careers/find-your-job/all/intern/3743990005591666](https://www.llnl.gov/join-our-team/careers/find-your-job/all/intern/3743990005591666 "https://www.llnl.gov/join-our-team/careers/find-your-job/all/intern/3743990005591666") 
+
+10/10/2024 maybe due this monday 
+
+https://jobs.smartrecruiters.com/oneclick-ui/company/LLNL/publication/46bcb6a8-9cc0-45b3-a840-f8e806c3367b?dcr_ci=LLNL
+
+https://www.llnl.gov/join-our-team/careers/find-your-job/internship/computer/3743990005529576
+
+this new one 
+
+## PNNL 
+https://careers.pnnl.gov/jobs/9928?lang=en-us
+
+due jan 9  ask arcky typeshit 
+
+# MITRE 
+
+new MITRE internships 
+
+https://careers.mitre.org/us/en/job/R113966/Internships-in-Cyber-or-Information-Security
+
+https://careers.mitre.org/us/en/job/R114197/Cybersecurity-Intern
+
+https://careers.mitre.org/us/en/job/R114011/Cyber-Futures-Intern
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
