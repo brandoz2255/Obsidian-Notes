@@ -161,7 +161,7 @@ Survive DDOS attack
 
 [[Quantum Cryptography]]
 
-[[tor and Perfect forward secrecy]]
+[[tor and Perfect forward secrecy]] #fin
 
 [[Asym Quiz]]
 ## Key management 
@@ -246,3 +246,6 @@ Review LAN WAN protocal and CLI tools and troubleshooting network connectivity.
 [[Secure Software Accessor]]
 
 [[course]] 
+
+
+[[flashcard limit]]

@@ -19,7 +19,7 @@ Every cryptographic algorithm relies fundamentally on keys. The key is the corne
 In symmetric cryptography, both parties (e.g., Alice and Bob) must agree on a single key to encrypt and decrypt their communications. However, the challenge arises in how to securely exchange this key while maintaining the confidentiality of their conversation.
 
 **Out-of-Band Key Exchange**
-One method is using a secure key exchange method such as **Out-of-Band (OOB) key exchange**, which involveds using a different communication channel 
+One method is using a secure key exchange method such as **Out-of-Band (OOB) key exchange**, which involveds using a different communication channel #fcard
 
 - **Meeting in person**: Alice and Bob can meet face-to-face to exchange the key.
 - **Physical transfer**: The key can be sent via a USB drive, physical mail, or another physical medium.
@@ -29,4 +29,4 @@ While most effective this can be quite difficult if the two parties don't want t
 
 #### In-Band Key Exchange
 
-To address the limitations of Out-of-Band exchange, **In-Band key exchange** methods are used. This approach allows the key to be exchanged over the same communication channel that will be used for the encrypted communication, making the process more straightforward and efficient.. This approach allows the key to be exchanged over the same communication channel that will be used for the encrypted communication, making the process more straightforward and efficient.
+To address the limitations of Out-of-Band exchange, **In-Band key exchange** methods are used. This approach allows the key to be exchanged over the same communication channel that will be used for the encrypted communication, making the process more straightforward and efficient.. This approach allows the key to be exchanged over the same communication channel that will be used for the encrypted communication, making the process more straightforward and efficient. #fcard 

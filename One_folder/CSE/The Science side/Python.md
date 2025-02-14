@@ -1,3 +1,7 @@
+
+
+
+
 * To run a program is [ctrl f5]
 *[ message] [] ***its the variable*** = "Hello meassage" **its the variable value**
 *[print('message')] [] print is the function of the string ***'message'***  

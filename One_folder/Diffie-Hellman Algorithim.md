@@ -1,7 +1,7 @@
 
 ### Diffie-Hellman Key Exchange
 
-The Diffie-Hellman key exchange is a cryptographic protocol designed to securely exchange keys between two parties. Solving the problem of key exchange in symmetric cryptography
+The Diffie-Hellman key exchange is a cryptographic protocol designed to securely exchange keys between two parties. Solving the problem of key exchange in symmetric cryptography #fcard 
 
 - based on the work of Ralph Merkle and was implemented by Whitfield Diffie and Martin Hellman.
 

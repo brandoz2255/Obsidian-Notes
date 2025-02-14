@@ -9,4 +9,8 @@
 
 [[Chapter 3  Configuring Ansible for SSH]]
 
-[[Vagrant]]
+
+#### Other assorted tools 
+- [[Vagrant]]
+- [[ansible]]
+- [[Minikube]]
