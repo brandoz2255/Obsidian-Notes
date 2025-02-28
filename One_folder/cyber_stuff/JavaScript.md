@@ -22,7 +22,9 @@
 
 ## VIdeo Index 
 
+### Next.js
 
+[[Next.js docs]]
 # Index JS 
 [[What is JS?]]
 

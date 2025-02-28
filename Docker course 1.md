@@ -1,4 +1,7 @@
-
+- [[git]] 
+- [[vim]]
+- [[Docker buildx install MacOS]]
+- [[vagrant course 1]]
 ## Create Repo
 
 - get on project root 
@@ -8,7 +11,13 @@ git init
 ```
 
 ```bash
-git branch main
+git branch -m main
+```
+
+- Only after we make the github repo!
+
+```bash
+git pull -u origin main
 ```
 
 ```bash
@@ -24,7 +33,7 @@ git remote add origin <your_repo_url>`
 ```
 
 ```bash
-git push -u origin main`
+git push -u origin main
 ```
 
 ```bash
@@ -33,6 +42,8 @@ touch README
 
 ```bash
 vim README
+# or
+nano README
 ```
 
 ```bash
@@ -48,6 +59,8 @@ touch Dockerfile
 or 
 
 ```bash
+nano Dockerfile
+# or 
 vim Dockerfile
 ```
 
@@ -73,6 +86,8 @@ CMD ["tmux"]
 ### Building Dockerfile 
 
 - [[Docker buildx]]
+- [[what is buildx]]
+
 
 ```bash
 sudo docker build -t nameOfimage .
@@ -109,6 +124,8 @@ docker push nameOfImage:latest
 
 ### How to make bash script 
 
+- [[Chmod]]
+
 ```bash
 chmod +x nameOfScript 
 ```
@@ -130,3 +147,45 @@ git commit -m "the commit comment"
 git push origin main
 ```
 
+---
+
+- [[bash]]
+
+#### This is the CI/CD pipeline 
+
+- This is the `yaml` configuration file for `Github` actions
+
+```yaml
+name: Docker Buildx CI/CD
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Log in to Docker Hub
+        uses: docker/login-action@v2
+        with:
+          username: ${{secrets.DOCKER_HUB_USERNAME}}
+          password: ${{secrets.DOCKER_HUB_ACCESS_TOKEN}}
+
+      - name: Build and Push Docker Image
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          platforms: linux/amd64,linux/arm64
+          push: true
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/ubuntu-env:latest
+```
+ 

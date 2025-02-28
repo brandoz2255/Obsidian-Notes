@@ -1,48 +1,13 @@
 
 all examples of kube and cont usuage https://github.com/book-of-kubernetes/examples
 
-- Such that a good application on the server must be moved post failure so that the end user doesn’t notice the failure 
-    
-- **Pg 8** why containers 
-    
-- We need to hide the issues of our application in case of hardware or software failure 
-    
-- **Pg 8** why containers are useful packaging version isolation fast startup low over head 
-    
-- Containers are designed for the purposes 
-    
-- Requirements for orchestration **page 9** 
-    
-- Clustering discovery configuration load balancing monitoring resilience 
-    
-- All these are handle by a container orchestration environment such as kubernetes 
-    
-- Running containers **page 9** 
-    
-- What docker container really is 
-    
-- Couple of commands docker run and -ti flags def 
-    
-- Cat `ip` `úname` commands and special flags to read system in Linux 
-    
-- We can see containers have some functionality of a virtual machine and a running instance of a applications 
-    
-- Deploying `kubernetes` pods using `k3s` 
-    
-- Pod def and app example using `k3s` in **page 15**
-- declarative configuration def 
-- Kubernetes has a API server we must communicate with is 
-- we use `kubectl` to talk with kubernetes `k3s` has its own `kubectl` 
-- REST api defnition 
-- Kubernetes features self healing and scalablility **pg 16 and 17 **
-
 ### Requirements for containers 
 
 For a single `microservice` we need the following 
 
 - **Packaging**: Bundle the applications for delivery which includes the dependencies making it portable 
 - **Versioning**: Identifying what version we need to update the micro-services overtime and need to know what service is running
-- **Isolation**: Keeping micro-services form Interfering with each-other allowing for flexible deployment
+- **Isolation**: Keeping micro-services from Interfering with each-other allowing for flexible deployment
 - **Fast Startup**: Start new instances rapidly need to scale and respond to failures rapidly  
 - **Low overhead**: minimize required services to run a micro-service in order to avoid limits on how small a micro-service can be
 

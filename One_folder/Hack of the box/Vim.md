@@ -1,1 +1,1 @@
-* is a text editor that is upwards compatible to Vi which can be used for writing code 
+* is a text editor that is upwards compatible to Vi which can be used for writing code or editing files

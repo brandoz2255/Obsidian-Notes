@@ -1,41 +1,3 @@
-
-- Such that a good application on the server must be moved post failure so that the end user doesn’t notice the failure 
-    
-- **Pg 8** why containers 
-    
-- We need to hide the issues of our application in case of hardware or software failure 
-    
-- **Pg 8** why containers are useful packaging version isolation fast startup low over head 
-    
-- Containers are designed for the purposes 
-    
-- Requirements for orchestration **page 9** 
-    
-- Clustering discovery configuration load balancing monitoring resilience 
-    
-- All these are handle by a container orchestration environment such as kubernetes 
-    
-- Running containers **page 9** 
-    
-- What docker container really is 
-    
-- Couple of commands docker run and -ti flags def 
-    
-- Cat `ip` `úname` commands and special flags to read system in Linux 
-    
-- We can see containers have some functionality of a virtual machine and a running instance of a applications 
-    
-- Deploying `kubernetes` pods using `k3s` 
-    
-- Pod def and app example using `k3s` in **page 15**
-- declarative configuration def 
-- Kubernetes has a API server we must communicate with is 
-- we use `kubectl` to talk with kubernetes `k3s` has its own `kubectl` 
-- REST api defnition 
-- Kubernetes features self healing and scalablility **pg 16 and 17 **
-
-
----
 ## New Modern Application 
 
 Its a great time to be a Software developer and not in the means of AI doing the simple part it can generate code both front and backend but it cant make containers scale them heal etc .....
@@ -44,8 +6,8 @@ Its a great time to be a Software developer and not in the means of AI doing the
 The biggest thing to the modern application today is scale
 
 -  we need our application to reach multiple users and handle it 
-- in which it needs to reach millions or billions of users at once 
-- and the users cant notice the systems breaking due to hardware issue or software issue 
+- in which it needs to reach `millions` or `billions` of users at once 
+- and the users can't notice the systems breaking due to hardware issue or software issue 
 
 `Kubernetes` and containerization meet these requirements 
 
@@ -69,14 +31,14 @@ This is the act in which applications were built to fully take advantage of clou
 - each task is in a `sperate` system not sharing the same `filespace`
 - it needs *high cohesion* 
 
-**High cohesion** refers to designing components that are self-contained, independent, and with a single, well-defined purpose4
+**High cohesion** refers to designing components that are self-contained, independent, and with a single, well-defined purpose
 
 - Related code should be close together within a module.
 - Elements within a module belong together and contribute to a single task or functionality.
 - Changes to one part of the module are less likely to affect other parts.
 - It's easier to understand and maintain the code since related elements are grouped together.
 
-**Low coupling** refers to minimizing the dependencies between different modules or components. In DevOps, low coupling means:
+**Low coupling** refers to minimizing the dependencies between different modules or components. In `DevOps`, low coupling means:
 
 - Modules should be as independent as possible from other modules.
 - Changes to one module should have minimal impact on other modules.

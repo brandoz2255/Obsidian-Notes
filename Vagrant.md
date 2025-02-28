@@ -12,8 +12,9 @@ Provides a simple way to manage local development environments for different pro
 ### Setting up Vagrant
 
 - [[Vagrant Documentation 1]]
+- [[Vagrant info docs]] 
 
-[[Documentation One]]
+- [[Documentation One]]
 
 [[Core Concepts in Vagrant]]
 

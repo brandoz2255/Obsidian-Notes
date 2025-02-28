@@ -1,14 +1,17 @@
 [[To do List]]
 
+[[The Linux Knowledge]]
 
+[[Research]]
 
 [[Fundamental Networking]]
 
 [[CPTC report]]
 
+
 ## Topics to master
 
-- [[Topics]]
+- [[Concentrations]]
 # Event
 
 [[CISO events]]

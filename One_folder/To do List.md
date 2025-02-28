@@ -4,6 +4,8 @@ the to do list for each day
 
 ### SImple To do list
 
+[[HW ]]
+
 [[Todo Revamp]]
 
 [[2024-03-19]]
