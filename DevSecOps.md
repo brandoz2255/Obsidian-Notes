@@ -55,7 +55,8 @@
 
 #### Homelab
 
-[[Homelab]]
+- [[Homelab]]
+- [[Homelab.2]]
 
 #### Launti web server
 

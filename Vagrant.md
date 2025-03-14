@@ -15,6 +15,7 @@ Provides a simple way to manage local development environments for different pro
 - [[Vagrant info docs]] 
 
 - [[Documentation One]]
+- [[Vagrant for KVM]]
 
 [[Core Concepts in Vagrant]]
 

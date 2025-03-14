@@ -1,0 +1,4 @@
+- [[using Terraform in this lab]]
+- [[Applying  TF]]
+- [[Networkin with TF]]
+- [[Basic template post struggles]]
