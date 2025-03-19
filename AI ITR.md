@@ -4,5 +4,7 @@
 
 [[Notes of the tech]]
 
+- [[AI Dashboard]]
+
 
 

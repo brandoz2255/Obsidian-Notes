@@ -1,2 +1,4 @@
 - [[plans for dashboard]]
 - [[More info on Dashboard]]
+- [[Snort]]
+- [[Front-End Dashboard]]
