@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front end skeleton.md",
+                "file": "Docker buildx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Front end skeleton"
+              "title": "Docker buildx"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One_folder/CSE/The Science side/C++.md",
+                "file": "Web Requests.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C++"
+              "title": "Web Requests"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plans for dashboard.md",
+                "file": "CORS Flask security measure in Browsers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plans for dashboard"
+              "title": "CORS Flask security measure in Browsers"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how to set up grafana.md",
+                "file": "Project idea for Groot N1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "how to set up grafana"
+              "title": "Project idea for Groot N1"
             }
           },
           {
@@ -127,7 +127,8 @@
               "title": "Destroying machines"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -282,44 +283,44 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "614a9adea53500b3",
+  "active": "5747f3e4b424329d",
   "lastOpenFiles": [
-    "Front-End Dashboard.md",
+    "code to modify.md",
+    "CORS Flask security measure in Browsers.md",
+    "lazyvim.md",
+    "SSE for web apps.md",
+    "What to do to the page.md",
+    "Prompt for modification.md",
     "Front end skeleton.md",
+    "Front-End Dashboard.md",
     "AI Dashboard.md",
-    "Snort.md",
-    "What we can automate.md",
-    "Snort alert parse.md",
-    "app.py implementation.md",
-    "alert.py.md",
-    "parser.py.md",
-    "Libararies.md",
-    "Python Flask.md",
-    "What Flask is.md",
-    "More info on Dashboard.md",
-    "plans for dashboard.md",
     "AI ITR.md",
     "DevSecOps.md",
-    "Homelab.md",
-    "One_folder/cyber_stuff/Python.proj.md",
-    "Notes of the tech.md",
-    "Documentation one.md",
-    "blackbox idea.md",
-    "BlackBox diagram.md",
-    "Homelab.2.md",
+    "One_folder/Hack of the box/Blue Team.md",
+    "One_folder/CSE/The Science side/While loop.md",
+    "plans for dashboard.md",
+    "Web Requests.md",
+    "Docker buildx.md",
+    "One_folder/cyber_stuff/docker.md",
+    "Docker course 1.md",
+    "Docker buildx install MacOS.md",
+    "Kubernetes.md",
     "DevContainers.md",
     "how to set up devcontainter.md",
-    "One_folder/Hack of the box/Blue Team.md",
-    "Pasted image 20250220122509.png",
-    "Pasted image 20250219190554.png",
-    "Screenshot 2024-11-16 at 21-03-00 Homework 11 - Google Drive.png",
-    "2024-11-16_15-52_1.png",
-    "2024-11-16_15-52.png",
-    "2024-11-16_14-58.png",
-    "2024-11-16_14-56_1.png",
-    "2024-11-16_13-27.png",
-    "Screenshot 2024-11-16 at 13-21-29 2024-11-16_13-19.png (PNG Image 1873 × 331 pixels) 2.png",
-    "Screenshot 2024-11-16 at 13-21-29 2024-11-16_13-19.png (PNG Image 1873 × 331 pixels) 1.png",
+    "One_folder/Cybersecurity.md",
+    "Obsidian in a Container.md",
+    "FluxCD doc.md",
+    "Project idea for Groot N1.md",
+    "Pasted image 20250319162033.png",
+    "Pasted image 20250319161054.png",
+    "Pasted image 20250319160346.png",
+    "Pasted image 20250319155021.png",
+    "Pasted image 20250319154543.png",
+    "Pasted image 20250319154414.png",
+    "Pasted image 20250319154345.png",
+    "Pasted image 20250319153102.png",
+    "Pasted image 20250319151404.png",
+    "Pasted image 20250319151143.png",
     "One_folder/JS",
     "One_folder/Hack of the box",
     "One_folder/Fleet.trash",

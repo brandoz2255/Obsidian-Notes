@@ -27,6 +27,9 @@
 - [[Vagrant]]
 - [[DevContainers]]
 
+## Additional Technologies to learn
+- [[Groot N1]]
+
 [[Grafana]]
 
 

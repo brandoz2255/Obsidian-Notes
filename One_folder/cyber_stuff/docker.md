@@ -1,3 +1,9 @@
+
+
+### Mini Projects
+- [[My mini containers]]
+- 
+
 [[Docker research]]
 
 [[What is Docker]]
@@ -17,3 +23,4 @@
 [[Preslides 1]]
 
 - [[Docker course 1]]
+- [[Docker buildx]]

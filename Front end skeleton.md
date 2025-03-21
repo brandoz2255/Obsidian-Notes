@@ -23,6 +23,8 @@ I'll create a sleek cyber-themed dashboard with three pages: logs, chat, and opt
 ### Pages
 
 - **Logs Page**: Displays system logs with color-coded severity levels
+	-  Integrate the flask app.py to communicate with this page meaning it parses the logs from snort on the machine its running on and we can see it on the front end side 
+	- [[code to modify]]
 - **Chat Page**: Interactive chat interface with AI assistant
 - **Options Page**: System configuration with tabs for different settings
 
