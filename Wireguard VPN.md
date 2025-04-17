@@ -1,0 +1,3 @@
+- [[Concept]]
+- [[How to add machine]] | straight forward same as setting up 
+- How to set up

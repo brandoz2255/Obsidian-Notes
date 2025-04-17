@@ -1,0 +1,5 @@
+- [[Tailwindcss v4]]
+- Everrthing v0 does with the front end code simple 
+- To add a new card onto the grid such as adding a new container or new web service 
+- we modify the TS arrray that specifies the configuration of the cards 
+	- Future implementation since TS arrays is just a JSON syntax we can change this to be handled by JSON file instead in the near future 

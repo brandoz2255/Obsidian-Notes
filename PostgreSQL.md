@@ -1,0 +1,11 @@
+- [[Secret for DB password]]
+- [[DB structure]]
+- [[Deployment]]
+- [[PVC for persistent data]]
+- [[Service for internal access]]
+- [[How all the files work together]]
+- [[Why I set up each file like this]]
+- [[Deployment Steps]]
+- [[pgAdmin]] 
+- Labels/structure to allow future scraping/logging from other containers (like your Pi agents) 
+

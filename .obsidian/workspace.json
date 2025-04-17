@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker buildx.md",
+                "file": "Home PC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker buildx"
+              "title": "Home PC"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Requests.md",
+                "file": "Ansible doc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Requests"
+              "title": "Ansible doc"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CORS Flask security measure in Browsers.md",
+                "file": "Kubernetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CORS Flask security measure in Browsers"
+              "title": "Kubernetes"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FluxCD doc.md",
+                "file": "Updated secrets for pgAdmin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FluxCD doc"
+              "title": "Updated secrets for pgAdmin"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project idea for Groot N1.md",
+                "file": "How to scale containers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project idea for Groot N1"
+              "title": "How to scale containers"
             }
           },
           {
@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HW.md",
+                "file": "What the villagers want.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HW"
+              "title": "What the villagers want"
             }
           },
           {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -283,34 +283,36 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "5747f3e4b424329d",
+  "active": "1d5860ff60e2f2a0",
   "lastOpenFiles": [
-    "code to modify.md",
-    "CORS Flask security measure in Browsers.md",
-    "lazyvim.md",
-    "SSE for web apps.md",
-    "What to do to the page.md",
-    "Prompt for modification.md",
-    "Front end skeleton.md",
-    "Front-End Dashboard.md",
-    "AI Dashboard.md",
-    "AI ITR.md",
-    "DevSecOps.md",
-    "One_folder/Hack of the box/Blue Team.md",
-    "One_folder/CSE/The Science side/While loop.md",
-    "plans for dashboard.md",
-    "Web Requests.md",
-    "Docker buildx.md",
-    "One_folder/cyber_stuff/docker.md",
-    "Docker course 1.md",
-    "Docker buildx install MacOS.md",
+    "Internships by bb <33.md",
+    "How to scale containers.md",
     "Kubernetes.md",
-    "DevContainers.md",
-    "how to set up devcontainter.md",
-    "One_folder/Cybersecurity.md",
-    "Obsidian in a Container.md",
+    "Home Sever Pi5s.md",
+    "Milestone one.md",
+    "Cert manager.md",
+    "Production ready https.md",
+    "FluxCD.md",
+    "How to use Flux.md",
+    "Wireguard VPN.md",
     "FluxCD doc.md",
-    "Project idea for Groot N1.md",
+    "GitOps.md",
+    "How to add machine.md",
+    "DevSecOps.md",
+    "pi de-GUI-ifier 9000.md",
+    "ansible.md",
+    "The readme for homeserver.md",
+    "Readme enhanced.md",
+    "pi one.md",
+    "dir setup homeserver.md",
+    "k8s dashboard web app.md",
+    "Homelab.2.md",
+    "One_folder/Cybersecurity.md",
+    "Professional Portfolio.md",
+    "Updated secrets for pgAdmin.md",
+    "pgAdmin.md",
+    "Pasted image 20250412135249.png",
+    "Pasted image 20250408185113.png",
     "Pasted image 20250319162033.png",
     "Pasted image 20250319161054.png",
     "Pasted image 20250319160346.png",
@@ -319,8 +321,6 @@
     "Pasted image 20250319154414.png",
     "Pasted image 20250319154345.png",
     "Pasted image 20250319153102.png",
-    "Pasted image 20250319151404.png",
-    "Pasted image 20250319151143.png",
     "One_folder/JS",
     "One_folder/Hack of the box",
     "One_folder/Fleet.trash",

@@ -1,5 +1,5 @@
 
-all examples of kube and cont usuage https://github.com/book-of-kubernetes/examples
+all examples of `k8s` and cont usage https://github.com/book-of-kubernetes/examples
 
 ### Requirements for containers 
 

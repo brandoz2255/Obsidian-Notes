@@ -1,0 +1,6 @@
+- [[secrets for pgAdmin]]
+- [[Deployment for pgadmin]]
+- [[commands to deploy them pgadmin]]
+- [[issues with pgAdmin]] 
+- [[Integrating PGadmin with PGsql]]
+- [[Updated secrets for pgAdmin]]

@@ -1,2 +1,2 @@
 - [[installation.nvim]] 
-- 
+- [[lazyvim]]

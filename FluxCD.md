@@ -8,3 +8,4 @@
 ## Homelab
 
 [[FluxCD doc]]
+[[How to use Flux]]

@@ -1,0 +1,13 @@
+- paper 24
+- wheat 24
+- potatoes 24
+- carrots 24
+- gold 3
+- rotten flesh 32
+- make a  smithing two one for  the village
+- add a  smithing table to the village
+- 22 nether warts
+- 2 rabbits foot
+- 3 full melons
+- 15  beetroots
+

@@ -16,7 +16,7 @@
 
 - [[Documentation One]]
 
-
+- [[Internships by bb <33]]
 #### Toolbox
 
 - [[Nvim]]
@@ -58,8 +58,14 @@
 
 #### Homelab
 
-- [[Homelab]]
-- [[Homelab.2]]
+- [[Homelab]] | anything vagrant
+- [[Homelab.2]] | testing our web apps with k8s lab & OS hardening 
+- [[k8s dashboard web app]] | web app  for Home Server 
+- [[Home Sever Pi5s]]
+
+### Front end projects
+
+-  [[Professional Portfolio]] 
 
 #### Launti web server
 

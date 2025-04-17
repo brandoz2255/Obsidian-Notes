@@ -2,3 +2,4 @@
 - [[Applying  TF]]
 - [[Networkin with TF]]
 - [[Basic template post struggles]]
+- [[Updated template]]

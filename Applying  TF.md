@@ -1,7 +1,7 @@
 ### Troubleshooting Steps
 
 1. **Verify File Paths:**  
-    Ensure that the qcow2 files are located exactly at `${path.module}/boxes/rocky9.qcow2` and `${path.module}/boxes/kali.qcow2`.
+    Ensure that the `qcow2` files are located exactly at `${path.module}/boxes/rocky9.qcow2` and `${path.module}/boxes/kali.qcow2`.
     
 2. **Check Volume Format:**  
     Make sure the images are in `qcow2` format. You can run:
