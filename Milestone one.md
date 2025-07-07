@@ -50,7 +50,7 @@ Create a **local `Kubernetes` development environment** with:
 | Component     | Technology       | Notes                           |
 | ------------- | ---------------- | ------------------------------- |
 | Orchestrator  | Kubernetes (k3s) | Lightweight, local setup        |
-| Reverse Proxy | NGINX (alpine)   | Serves pgAdmin UI               |
+| Reverse Proxy | NGINX (alpine)   | Serves My web UI's              |
 | Certs         | mkcert           | Local CA for HTTPS over IP      |
 | DB            | PostgreSQL 17    | StatefulSet with PVC            |
 | DB Admin UI   | pgAdmin 4.9      | Deployed as Deployment          |

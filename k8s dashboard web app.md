@@ -2,6 +2,7 @@ To create a Next.js/Go web UI that integrates with your containerized home servi
 
 - [[frontend]] 
 - [[backend]]
+- [[Readme.dashboard]]
 
 ## Core Components
 

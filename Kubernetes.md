@@ -21,3 +21,7 @@
 - [[How too install  metrics  server for k9s]]
 - [[Disable servicelb for metalLB for nginx]] 
 - [[How to scale containers]]
+- [[Getting Nvida GPU to work for AI's]]
+- [[Container run time class]]
+- [[AI Manifests]] 
+- Cyber command backend integration

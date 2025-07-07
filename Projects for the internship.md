@@ -1,0 +1,3 @@
+- SOC ML project? 
+- [[Jarvis for the lab]]
+- other ML and LLM bots around the lab 

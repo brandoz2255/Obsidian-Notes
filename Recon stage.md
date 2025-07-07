@@ -1,0 +1,8 @@
+- Go vulns 
+- containers Docker Containerd k8s vulnx
+- injection vulns
+- Linux Vulns backbone of Docker
+	- Namespaces C groups and [[mounting]] 
+	- [[Capability Escalation]]
+	- [[Poisoning]]
+- 

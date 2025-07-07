@@ -1,3 +1,3 @@
 - [[Concept]]
 - [[How to add machine]] | straight forward same as setting up 
-- How to set up
+- [[How to set up wg]]

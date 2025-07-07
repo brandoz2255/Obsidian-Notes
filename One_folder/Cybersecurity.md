@@ -1,14 +1,15 @@
-[[To do List]]
 
 [[The Linux Knowledge]]
 
+- [[finance]]
 [[Research]]
 
 [[Fundamental Networking]]
 
 [[CPTC report]]
 
-
+- [[SFS Interview]]
+- [[Career]] 
 ## Topics to master
 
 - [[Concentrations]]
@@ -19,6 +20,10 @@
 # Hyprland
 
 [[Hyprland]]
+
+#  AI  internship
+
+- [[Projects for the internship]]
 
 # Projects 
 ### Im leading/Co leading

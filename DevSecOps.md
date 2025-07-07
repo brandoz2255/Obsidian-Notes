@@ -1,4 +1,8 @@
 
+![[Pasted image 20250706203826.png]]
+
+
+- [[MLSecOps]]
 ### sub topics 
 
 - ✅ **CI/CD Pipelines (GitHub Actions, GitLab CI, Jenkins, CircleCI)**
@@ -61,7 +65,13 @@
 - [[Homelab]] | anything vagrant
 - [[Homelab.2]] | testing our web apps with k8s lab & OS hardening 
 - [[k8s dashboard web app]] | web app  for Home Server 
+-  [[m0]] (v0 clone open-source models) 
+- Perplexica Models 
+- AI gesture software (for controlling laptop device)
+- Facial recognition  (only when 85% done with dashboard app) 
 - [[Home Sever Pi5s]]
+- [[Plan  for summer]]
+- [[AIops]]
 
 ### Front end projects
 

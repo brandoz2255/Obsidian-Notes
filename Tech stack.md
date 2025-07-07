@@ -1,0 +1,11 @@
+- optional `https://github.com/nari-labs/dia`
+- Chatterbox
+- Mistral 
+- Sellenium 
+- Work docs
+- ML
+- NLP
+- LLM 
+- Docker + Nvidia Container runtime
+- Conda
+- Huggingface
