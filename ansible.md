@@ -1,2 +1,3 @@
 - [[how to install k3s]]
 - [[pi de-GUI-ifier 9000]]
+- [[Red Hat automation with  Ansible]] 

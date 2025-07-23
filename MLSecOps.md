@@ -10,4 +10,17 @@
 - [[Why is MLSecOps important]]
 	- [[How does it build security into MLOps?]]
 - How can you ensure  your  AI/ML systems are "Secure"
+- MLSecOps Quality Assurance
+	- Supply Chain Vulnerability
+	- Model Provenance 
+	- GRC for ML
+	- Adversarial  ML 
+		- Poisoning Attacks
+		- Evasion Attacks
+		- Inference Attacks
+		- Model Inversion
+		- TrojAI attacks
+		- Model Extraction
+		- Byzatine Attacks
+
 

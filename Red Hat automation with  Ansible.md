@@ -1,0 +1,4 @@
+- [[Lab Building  an Ansible Inventory]]
+- [[Lab Managing Ansible  configuration files]]
+- [[Lab Creating and  Running a Basic  Playbook]]
+- [[ansible navigator]]
