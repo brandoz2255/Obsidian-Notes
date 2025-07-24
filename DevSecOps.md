@@ -30,6 +30,8 @@
 - [[Prometheus]] 
 - [[Vagrant]]
 - [[DevContainers]]
+- [[Terraform]]
+- 
 
 ## Additional Technologies to learn
 - [[Groot N1]]

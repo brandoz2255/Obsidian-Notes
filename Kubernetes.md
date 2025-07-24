@@ -8,7 +8,8 @@
 - [[k3s]]
 - [[how to install k3s]]
 - [[creating secrets with k8s]]
-
+- [[Making  a manifest]]
+- [[Proper Manifest]] 
 
 ### Technical 
 

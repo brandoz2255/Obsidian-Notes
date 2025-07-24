@@ -17,7 +17,7 @@
 ### 🐳 **3. Hardened Image Building Pipeline**
 
 - Use **Docker Scout or Trivy** to scan images for CVEs.    
-- Lock Dockerfiles to specific versions (no `latest`, por favor).
+- Lock `Dockerfiles` to specific versions (no `latest`, por favor).
 - Build images in a pipeline using **BuildKit** or **Kaniko (in-cluster)**.
 - Use **Cosign** to sign your images and **Rekor** to verify integrity.
 
