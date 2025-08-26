@@ -2,7 +2,9 @@
 
 ![[Pasted image 20250706204045.png]]
 
+# Projects
 
+- [[plan ml sec ops]]
 
 - [[What is AI]]
 - [[What is ML]]

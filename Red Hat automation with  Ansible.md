@@ -2,3 +2,4 @@
 - [[Lab Managing Ansible  configuration files]]
 - [[Lab Creating and  Running a Basic  Playbook]]
 - [[ansible navigator]]
+- [[Chapter 3]]

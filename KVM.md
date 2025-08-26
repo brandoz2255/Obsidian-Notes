@@ -4,5 +4,5 @@
 - [[Networking with KVM]]
 - [[Troublesshoot issues]]
 - [[CPU acceleration]]
-- [[Destroying machines]]\]
+- [[Destroying machines]]
 - [[Looking for VM ip]] 

@@ -1,0 +1,4 @@
+- [[raw notes]]
+- [[Managing Vars and Facts]]
+	- [[guided  exercise vars and facts]]
+- [[Ansible Vault]]

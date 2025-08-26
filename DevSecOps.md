@@ -24,14 +24,44 @@
 #### Toolbox
 
 - [[Nvim]]
+- [[Dev]]
+- [[AWS]]
 - [[Helm]]
 - [[Docker]]
 - [[Kubernetes]]
 - [[Prometheus]] 
+- Grafana | add the  monitoring stack to my homelab
 - [[Vagrant]]
 - [[DevContainers]]
 - [[Terraform]]
-- 
+- [[VPN]]
+-  [[GitOps]] | [[FluxCD]]
+- [[KVM]]
+- Github Actions | add the runner  to my homelab
+- k8s runners
+- Proxxmox
+- [[Ansible]] 
+- [[Python]]
+- [[Wireguard VPN]] | connect  my VMs to the VPN for better load balancing 
+- [[Go]]
+- [[C]]
+- SAST/DAST | Purple Team | Needs to be done on infra and web apps and pods and containers
+- [[Todo]]
+ 
+
+
+## Mlops
+
+- Kubeflow
+- Kafka 
+- Data Science
+- Firecracker  | for Lambda  (self hosted)
+- LLM's
+- Agentic AI
+- ML
+- API's
+- MCP
+ 
 
 ## Additional Technologies to learn
 - [[Groot N1]]

@@ -24,5 +24,13 @@
 - [[How to scale containers]]
 - [[Getting Nvida GPU to work for AI's]]
 - [[Container run time class]]
+- [[PV Persistent Volume]]
+- [[PVC Persistent Volume Claim]]
+- [[LifeCycle of a PVC and  PV]]
+- [[How to make PVC and PV]]
+- [[What happens to my data when a pod restarts or moves to a different node?]]
+- [[K8s Networking]]
+- [[K8s CNI]]
+- [[CoreDNS]]
 - [[AI Manifests]] 
 - Cyber command backend integration
