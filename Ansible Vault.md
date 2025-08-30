@@ -1,0 +1,3 @@
+- [[Intro to ansible vault]]
+	- [[recommend file practices]]
+- 

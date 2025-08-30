@@ -8,6 +8,7 @@ Anything DevOps
 
 [[DevSecOps]]
 
+- [[Physics Electro mag stuff]]
 
 
 # Ethical Hacking

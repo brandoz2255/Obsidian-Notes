@@ -3,3 +3,5 @@
 - [[Lab Creating and  Running a Basic  Playbook]]
 - [[ansible navigator]]
 - [[Chapter 3]]
+- [[Chapter 4]]
+- [[Chapter 5]]
