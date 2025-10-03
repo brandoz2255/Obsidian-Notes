@@ -93,7 +93,7 @@ Q11: Docker Images are made of layers. What are layers, and why does docker them
 
 Docker images use layer for efficiency as layers can be cached which then can be reused for other images A docker layer is a set of filesystem changes created after each instruction from the Dockerfile 
 
-A Docker image is composed of a stack of these read-only layers, which a Union Filesystem combines into a single, cohesive filesystem.
+A Docker image is composed of a stack of these read-only layers, which a `Union Filesystem` combines into a single, cohesive filesystem.
 
 dockerfile from Harvis has 20 layers
 

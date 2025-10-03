@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Layer Four Docker Images.md",
+                "file": "Layer one Kubernetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Layer Four Docker Images"
+              "title": "Layer one Kubernetes"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab.2.md",
+                "file": "cRUL for HTTPS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homelab.2"
+              "title": "cRUL for HTTPS"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "storage cli command",
+                "query": "curl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,12 +131,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "6bd8408cad4e0dec",
@@ -253,16 +253,28 @@
   "active": "794d39a9010e1408",
   "lastOpenFiles": [
     "interview Prep.md",
-    "Layer Four Docker Images.md",
+    "Layer one Kubernetes.md",
     "Layer Three Docker.md",
+    "Layer Two Networking.md",
+    "Layer one Networking (no not networking layers just studying).md",
+    "cRUL for HTTPS.md",
+    "Basic HTTP pen testing tools.md",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Homelab.2.md",
+    "Layer Five Docker Optimization.md",
+    "Layer Four Docker Images.md",
+    "DevSecOps.md",
+    "One_folder/Hack of the box/Blue Team.md",
+    "One_folder/Cybersecurity.md",
     "Docker bridge network.md",
     "Layer One Docker.md",
     "Layer Two Docker.md",
-    "DevSecOps.md",
-    "One_folder/Hack of the box/Blue Team.md",
     "Lesson Four.md",
     "Physics Electro mag stuff.md",
-    "Homelab.2.md",
     "blah.md",
     "Lesson three.md",
     "MLSecOps.md",
@@ -271,14 +283,7 @@
     "Chapter 5.md",
     "Red Hat automation with  Ansible.md",
     "ansible.md",
-    "Chapter 4.md",
-    "Summary of chapter 4 ansible.md",
-    "Handling Task failure.md",
-    "K8s CNI.md",
-    "Guided Exercise Implementing Handlers.md",
     "Pasted image 20250827164214.png",
-    "Implementing Handlers.md",
-    "Guided Exercise writing loops.md",
     "copilot-custom-prompts",
     "Pasted image 20250706204045.png",
     "Pasted image 20250706203826.png",
@@ -294,11 +299,6 @@
     "One_folder/Hack of the box",
     "One_folder/Fleet.trash",
     "One_folder/Engineering",
-    "One_folder/cyber_stuff/To do/9/21 and 9",
-    "One_folder/cyber_stuff/To do/9/18 and 9",
-    "One_folder/cyber_stuff/To do/9",
-    "One_folder/cyber_stuff/Ciso/The TCP",
-    "One_folder/cyber_stuff/Zettlekasten",
     "One_folder/Untitled 1.canvas",
     "One_folder/Untitled.canvas",
     "Untitled 1.canvas",
