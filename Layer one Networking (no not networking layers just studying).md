@@ -1,3 +1,5 @@
+- [[present]]
+
 Q16 Explain the TCP 3 way handshake. What packets are exchanged and why
 Q17 Whats the difference between TCP and UDP? when would u use each
 Q18 When u run `curl https://jumpstrading.com` walk me through wha happens at the network level from DNS to http response 

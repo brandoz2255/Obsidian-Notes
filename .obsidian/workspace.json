@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Layer one Kubernetes.md",
+                "file": "present.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Layer one Kubernetes"
+              "title": "present"
+            }
+          },
+          {
+            "id": "60fd48743f46810a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
             }
           },
           {
@@ -136,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "right": {
     "id": "6bd8408cad4e0dec",
@@ -234,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 417.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,12 +266,16 @@
   },
   "active": "794d39a9010e1408",
   "lastOpenFiles": [
+    "Layer one Networking (no not networking layers just studying).md",
+    "present.md",
     "interview Prep.md",
+    "DevSecOps.md",
+    "One_folder/Hack of the box/Blue Team.md",
+    "One_folder/Cybersecurity.md",
     "Layer one Kubernetes.md",
+    "cRUL for HTTPS.md",
     "Layer Three Docker.md",
     "Layer Two Networking.md",
-    "Layer one Networking (no not networking layers just studying).md",
-    "cRUL for HTTPS.md",
     "Basic HTTP pen testing tools.md",
     "Untitled 4.base",
     "Untitled 3.base",
@@ -267,9 +285,6 @@
     "Homelab.2.md",
     "Layer Five Docker Optimization.md",
     "Layer Four Docker Images.md",
-    "DevSecOps.md",
-    "One_folder/Hack of the box/Blue Team.md",
-    "One_folder/Cybersecurity.md",
     "Docker bridge network.md",
     "Layer One Docker.md",
     "Layer Two Docker.md",
@@ -282,7 +297,6 @@
     "Modifying and Copying Files to Hosts.md",
     "Chapter 5.md",
     "Red Hat automation with  Ansible.md",
-    "ansible.md",
     "Pasted image 20250827164214.png",
     "copilot-custom-prompts",
     "Pasted image 20250706204045.png",
