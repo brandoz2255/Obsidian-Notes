@@ -238,6 +238,12 @@
       "stream": true,
       "enableCors": true,
       "maxTokens": 10200
+    },
+    {
+      "name": "gemini-2.0-flash-thinking-exp",
+      "provider": "google",
+      "apiKey": "AIzaSyDHCazfqZ8CF2P97SG5PMxT1dynPtUHUUU",
+      "enabled": true
     }
   ],
   "activeEmbeddingModels": [

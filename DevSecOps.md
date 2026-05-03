@@ -2,7 +2,10 @@
 ![[Pasted image 20250706203826.png]]
 
 
+- [[OS]]
+
 - [[MLSecOps]]
+- [[AWS solution architect]]
 ### sub topics 
 
 - ✅ **CI/CD Pipelines (GitHub Actions, GitLab CI, Jenkins, CircleCI)**
