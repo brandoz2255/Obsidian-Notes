@@ -22,12 +22,20 @@ This drops all `subagent.*` events before they reach the Discord message queue.
 
 **Branch:** https://github.com/brandoz2255/harvis-agent/compare/option-a-subagent-visibility
 
-## Option B: OpenCode Visibility (External Processes)
-**Status:** Not yet implemented. Targeted for web version / future Discord update.
+## Option B: Terminal Output Streaming ✅ DONE
+**Status:** Implemented and pushed to `brandoz2255/harvis-agent` branch `option-a-subagent-visibility`
 
-**Why it's harder:**
-- OpenCode runs as a terminal subprocess (`opencode run`), NOT a native Hermes sub-agent
-- The `terminal_tool` captures stdout/stderr and returns it when complete — no intermediate events
+**What it does:**
+- Added `_stream_callback` mechanism to `tools/environments/base.py` that fires per-line as commands execute
+- Added `_on_terminal_stream()` to `AIAgent` that formats terminal output and forwards to gateway progress
+- Added `_format_terminal_stream_line()` to parse structured output (arrows, commands, emojis)
+- Wired stream callback in both tool execution paths
+- Throttled to 5 lines/sec to prevent spam
+- Only enabled in gateway mode when `tool_progress_callback` is set
+
+**Result:** Terminal commands (opencode run, builds, etc.) now stream progress to Discord in real-time instead of waiting for completion.
+
+**Branch:** https://github.com/brandoz2255/harvis-agent/compare/option-a-subagent-visibility
 - OpenCode doesn't emit structured events that Hermes can capture
 
 **What would be needed:**
